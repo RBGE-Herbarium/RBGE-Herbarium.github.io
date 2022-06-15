@@ -6,7 +6,7 @@ parent: Data Entry
 
 To create a new record click on the Data Entry button on the main menu bar:
 
-![image](https://user-images.githubusercontent.com/6713716/173833776-fba15b61-20b5-4c79-8eb9-c95759db4f37.png)
+  ![image](https://user-images.githubusercontent.com/6713716/173833776-fba15b61-20b5-4c79-8eb9-c95759db4f37.png)
 
 Select Collection Object from the pop up:
 
@@ -18,7 +18,7 @@ At any point, to save the record click Save in the bottom right of the screen. T
 
 ![image](https://user-images.githubusercontent.com/6713716/173834912-cc6a6118-0352-4b59-a1ad-6b6abf6b39aa.png)
 
-_Tip: If you are in a subform as a pop-up window, such as Preparations, then you will need to click Accept first to return to the Collection Object form to click Save._
+  _Tip: If you are in a subform as a pop-up window, such as Preparations, then you will need to click Accept first to return to the Collection Object form to click Save._
 
 ![image](https://user-images.githubusercontent.com/6713716/173835805-f0a36625-4dd6-4d12-a50e-d40cb28f52d8.png)
 
