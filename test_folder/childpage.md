@@ -1,5 +1,5 @@
 ---
 parent: Folder Test
-title: child page
 ---
+# Child Page
 test child page
