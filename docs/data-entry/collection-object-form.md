@@ -183,3 +183,179 @@ When creating a new Preparation under an existing Collection Object
 - If the most recent det. does not agree with the existing filing name then a decision will need to be made whether the other specimens can be recurated.
 
 When laying away, the Filed As name should be used.
+
+The number of Determinations is indicated next to the **Determinations** heading
+
+![image](https://user-images.githubusercontent.com/6713716/173853746-3cee7847-9512-4a72-9d3e-bce755e3da17.png)
+
+To view the different determinations use the scroll bar at the bottom of the Determinations section to move between records
+
+![image](https://user-images.githubusercontent.com/6713716/173853837-95cebefc-9b06-49aa-a709-e6047750af26.png)
+
+### Removing a Determination
+
+To remove a **Determination** from a record click **Delete**.
+
+![image](https://user-images.githubusercontent.com/6713716/173853884-9c46f6e6-a273-429f-8134-c616a7b4e7b1.png)
+
+## Collecting Event
+
+This section contains information about the Collectors and the Collecting Event (where and when the specimens were collected).
+
+![image](https://user-images.githubusercontent.com/6713716/173854369-c78c398b-3da9-4b08-afa2-478070d29f0a.png)
+
+### Collectors
+
+In Specify, all collectors are held in the Agents table, along with expeditions, organisations and institutes.
+Where the specimen has been collected under the number series of a primary collector, then all individuals should be entered as separate collectors by adding them in the Collection Object.
+  _Tip: the use of the term ‘collected with’ is a good indicator of this kind of number series._
+
+Where the specimen has been collected under the number series of an expedition (whether the expedition is named or uses the surnames of the collectors) then the expedition agent record should be selected. This will have the individuals recorded in the record in the Agents table. For more information on this, please see the guidance on adding new agents.
+
+Where you are not sure whether collectors should be entered as an expedition or as separate individuals, then the following options may help:
+- Search for the expedition name first
+- Search for the primary collector and check the drop-down list for records which look like groups collecting as an expedition
+- Click on the edit symbol to look more closely at any agent record (but remember that any changes made to the record will affect all records in the database attached to that agent!)
+
+To add a Collector to the record click on the Add button next to the Collectors header
+
+![image](https://user-images.githubusercontent.com/6713716/173854446-690a695a-a6ae-44ab-855d-2cfa0ae3eace.png)
+
+This expands the Collectors part of the form
+
+![image](https://user-images.githubusercontent.com/6713716/173855088-dd79a12a-99c4-4beb-9f9f-d90234114d83.png)
+
+- **Agent**: enter the name of the collector or expedition. Start typing the last name of the collector or the name of the expedition and a dropdown of all of the matching names will appear. This is refined as you keep typing.
+
+![image](https://user-images.githubusercontent.com/6713716/173855129-c6ccdec8-c2ce-4cff-bbf6-5b88f2feaad5.png)
+
+  If the name you are looking for is not in the list, then check by clicking on the magnifying glass to search more thoroughly. If you still don’t see the record then you will need to add a new Agent (see Adding a New Agent)
+  When there are several collectors listed the first collector is assumed to be the primary collector, with the collection number being theirs.
+- **Verbatim Collector Name** - this is a read-only field for the free text collector name in BG-BASE. 
+- **Collector Number** - this is the number given to the collection by the collector. This includes any prefixes or suffixes. Do not enter any spaces between any prefixes and suffixes.
+- **Collection Date** - enter the date the collection was made in the following format DD/MM/YYYY. Use the dropdown to the left to select whether it is a Full Date, Mon/Year or Year.
+- **Second Collection Date** – enter a second date if a range of dates are given on the specimen e.g. 1891-92. Use the dropdown to the left to select whether it is a Full Date, Mon/Year or Year
+- **Date as Given** – enter the Collection date here if it cannot be expressed in the Collection Date and Second Collection Date fields e.g. Summer 1893
+- **Filing Region** – enter the region under which the specimen is filed. If the specimen is filed under a physically linked specimen mounted from a different region, then select the region under which it would be filed if separate. If the specimen is Cultivated, then select the ‘Cultivated’ option from the drop-down list, unless it is filed under the geographical filing region (there are a small number of families where cultivated specimens are being filed under the wild collected region).
+  _Tip: Unless it is known that the specimen is filed different, select the standard geographical filing region._
+
+- **Locality** - All records should have a value in here. This field links to the Locality table and is not equivalent to the free text locality in BG-BASE. It currently includes Country, Sub-Country 1, Sub-Country 2 and Sub-Country 3. Search for the lowest known value and select it from the dropdown. Any locality information below the value entered here should be entered in the Verbatim Locality field below. As a minimum, enter the country here.
+
+![image](https://user-images.githubusercontent.com/6713716/173855222-4b3dfbac-0034-4618-aa3c-f2c7fb31488f.png)
+
+- **Verbatim Locality** – enter any locality information not included in the Locality field above. 
+  _Tip: this field equates to the free text locality in BG-BASE. When entering data you will need to make a decision about division of locality and habitat in some cases._
+  
+- **Landowner** – enter the name of the owner of the land where the collection was made if known. Use the following format: Surname, First name (Cubey Robert) or Surname Initials (Cubey, R.W.) – where the first name is unknown.
+- **Habitat** - enter the description of the Habitat in which the specimen was found.
+- **Substrate/Host** – enter the substrate or host if the specimen was found growing on another species or substrate e.g. a lichen growing on an Oak branch
+- **Collection Misc.** - enter miscellaneous information about the collecting event here.
+
+### Collecting Event Attribute
+
+The Collecting Event Attribute part of the form is used to record information relating to Altitude, Latitude, Longitude and Geo-Referencing.
+To add information to the Collecting Event Attribute record click on the Add button next to the Collecting Event Attribute header.
+
+![image](https://user-images.githubusercontent.com/6713716/173856653-8254a378-0440-4ca7-a76b-a2f16fd9d011.png)
+
+This expands the Collecting Event Attribute part of the form
+
+![image](https://user-images.githubusercontent.com/6713716/173856690-2b897dab-adfd-41e1-a48c-c3bdae1121f6.png)
+
+- **Country as Given** - enter the Country as it was given by the collector as it appears on the label (e.g. Burma, German East Africa).
+- **Altitude Minimum** - enter the altitude. If a range is given enter the lower value in this field. Enter the unit and any qualifiers in separate fields.
+- **Altitude Maximum** – enter the second value if an altitude range is given.
+- **Altitude Unit** – enter the measurement unit of the altitude (e.g. m, ft, unknown).
+- **Altitude Qualifier** – enter the qualifier for the altitude (e.g. above/greater than, below/less than, ca)
+- **Altitude** – this is a temporary read-only field for a direct export from BG-BASE. This is a temporary field and is a read only field. Once the data from BG-BASE have been cleaned to fit the structure of Specify it will be removed.
+- **Altitude in Meters** - this is a read-only field for the calculated field from BG-BASE when the altitude on the label was not in meters.
+- **Latitude and Longitude**
+  Enter the values into the relevant fields. If the latitude and longitude are in decimel minutes (eg 39° 26.23’) then use the DMS option rather than the Decimel Degrees option.
+  - Latitude degrees/minutes/seconds
+    - **Degrees** - enter the degrees of the Latitude
+    - **Minutes** - enter the minutes of the Latitude
+    - **Seconds** - enter the seconds of the Latitude
+    - **Direction** - enter the direction of the Latitude
+  - **Decimal Latitude** - enter the Latitude if it is given as Decimal Degrees
+    - **Direction** - enter the direction of the Decimal Latitude
+  - **Latitude as Decimal** - this is the calculated field from BG-BASE. This field is read only
+
+  - Longitude degrees/minutes/seconds
+    - **Degrees** - enter the degrees of the Longitude
+    - **Minutes** - enter the minutes of the Longitude
+    - **Seconds** - enter the seconds of the Longitude
+    - **Direction** - enter the direction of the Longitude
+  - **Decimal Longitude** - enter the Longitude if it is given as Decimal Degrees
+    - **Direction** - enter the direction of the Decimal Longitude
+  - **Longitude as Decimal** - this is the calculated field from BG-BASE. This field is read only
+
+- **GPS Datum** - enter the datum used, if given (e.g. WGS84). If not explicitly stated then leave as Unknown.
+- **GeoRef Source** – enter the source of the georeference (e.g. label, gazetteer, map).
+- **National grid** - enter the national grid, if given, for where the specimen was collected
+- **Accuracy** – enter the accuracy of the geocoordinate information if known (e.g. <5km from coordinates, 5-20km from corrdinates, > 20km from coodrindates, GPS accuracy, no information).
+- **Certainty** – enter the certainty of the geocoordinate information (e.g. Certain, etc.).
+ 
+### Collection Object Information continued
+
+The Description and Number of Duplicates form part of the Collection Object information. These are positioned on the form after the Determinations and Collecting Event information
+
+![image](https://user-images.githubusercontent.com/6713716/173856747-692836b5-34c9-4bbb-8e6d-39b919b66d5f.png)
+
+- **Description** - enter the description of the specimen as given on the label.
+- **Number of Duplicates** - enter the number of duplicates that were made when the specimen was collected if known.
+
+## Cultivated Information
+
+In Specify, all cultivated specimen collection data are treated at the same level as wild-collected collection data using the same fields. The specimens are then linked to show the relationship. 
+
+For RBGE cultivated specimens, it is a priority to ensure that the Accession Number and Qualifier are entered.
+
+If the specimen is cultivated enter the Accession Number and Cultivated Source. For cultivated specimens also check the Cultivated tick box.
+
+- **Accession Number** – enter the full 8 digit Accession Number with the Qualifier if known. There should be no space or punctuation between them. Enter the RBGE accession number and qualifier (8 figure number starting with a year) followed by the qualifier of the individual plant from which this specimen has been made, if it comes from the living collections at E. There should be no space or punctuation between the accession number and qualifier. If the qualifier is not known then just enter the accession number alone. If it has a pre-1968 accession number please contact the Plant Records Officer
+- **Cultivated Source** – enter the name of the donor of the cultivated material if known.
+- **Cultivated** – tick the Cultivated check box if the specimen is cultivated
+- **Cultivated From** – enter the wild collected Collection Object record number (not barcode) if known.
+
+### Collection Object Attribute
+
+The Collection Object Attribute part of the form is used to record information relating to Phenology, Abundance, Sample size, Population and Area of Occupancy
+To add information to the Collection Object Attribute record click on the Add button next to the Collection Object Attribute header.
+
+This expands the Collection Object Attribute part of the form
+
+- **Sample** - select an option from the dropdown to describe the genetic variability of the specimen
+- **Abundance** - select an option from the dropdown to describe the abundance of this taxon where it was collected
+- **Population Size** - enter the number of individuals of this taxon found in this population
+- **Population Size Qualifier** - select an option from the dropdown to qualify the estimate of the population size
+- **Area of Occupancy** - enter the size of the area occupied by this population
+- **Area of Occupancy Qualifier** - select an option from the dropdown specifying the unit for the area of occupancy 
+
+### Collection Object Properties
+
+The Collection Object Properties part of the form is used to record information relating to Uses and Local Name
+
+To add information to the Collection Object Properties record click on the Add button next to the Collection Object Properties header.
+
+This expands the Collection Object Properties part of the form
+
+- **Local name or usage** – select whether the property is a local name or use.
+- **Text** – for local names, enter any local (vernacular) names associated with this specimen if noted. For usage, enter a description of the use if known.
+- **Language** - enter the language of the Local name or use if noted
+
+Please note: if there is both a Use and a Local Name given enter one and then add an additional record to add the other.
+
+### Collection Object Attachments
+
+It is possible to attach documents and images to a Collection Object record.
+
+Additional Record Data
+- **Catalogue Number** - this is automatically added to the record when it is saved
+- **GUID** - a unique identifier, generated by Specify. This field is read only
+- **Record Created By** - name of the Agent who created the record. This field is read only
+- **Created Date** - the date the record was created. This field is ready only
+- **Record Modified By** -  name of the Agent who modified the record. This field is read only
+- **Modified Date** - the date the record was modified. This field is read only 
+
+## To create a new preparation for an existing Collection Object
+
