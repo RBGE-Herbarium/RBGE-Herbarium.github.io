@@ -1,6 +1,6 @@
 ---
-parent: Data Entry
 nav_exclude: true
+parent: Data Entry
 ---
 
-# Collection Object Form
+# Template
