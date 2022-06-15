@@ -6,6 +6,4 @@ has_children: true
 ---
 
 # Data Entry
-## Creating Taxa
-info here
-## creating Collection Objects
+
