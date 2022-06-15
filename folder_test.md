@@ -1,4 +1,5 @@
 ---
+title: Folder Test
 has_children: true
 ---
 
