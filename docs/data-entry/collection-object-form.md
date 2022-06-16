@@ -214,30 +214,32 @@ This section contains information about the Collectors and the Collecting Event 
 ### Collectors
 
 In Specify, all collectors are held in the Agents table, along with expeditions, organisations and institutes.
-Where the specimen has been collected under the number series of a primary collector, then all individuals should be entered as separate collectors by adding them in the Collection Object.
+
+**Collectors, collector groups and collected with** - Where the specimen has been collected under the number series of a primary collector, then a Group Agent record should not be used and each individual should be entered as a separate collector in the Collection Object record. The first collector entered is treated as the primary collector.
+
   _Tip: the use of the term ‘collected with’ is a good indicator of this kind of number series._
 
-Where the specimen has been collected under the number series of an expedition (whether the expedition is named or uses the surnames of the collectors) then the expedition agent record should be selected. This will have the individuals recorded in the record in the Agents table. For more information on this, please see the guidance on adding new agents.
+**Expeditions** - Expeditions are treated as Group Agent records in the Agents table. Expeditions are defined by a having a unique collection number series that doesn't belong to a particular individual. They may have an expedition name or the name may be a list of the surnames of the collectors. All collectors that took part in an expedition should be added as participants to a Group Agent record. Account for day-to-day discrepancies by added abscences of particular individuals in the remarks field of the Group Agent record. For more information on this, please see the guidance on adding new agents.
 
-Where you are not sure whether collectors should be entered as an expedition or as separate individuals, then the following options may help:
+To add a **Collector** to the Collection Object record click on the **Add** button next to the Collectors header
+
+![image](https://user-images.githubusercontent.com/6713716/173854446-690a695a-a6ae-44ab-855d-2cfa0ae3eace.png)
+
+This expands the **Collector subform**
+
+![image](https://user-images.githubusercontent.com/6713716/173855088-dd79a12a-99c4-4beb-9f9f-d90234114d83.png)
+
+- **Agent**: enter the name of the collector or expedition. Start typing the last name of the collector or the name of the expedition and a dropdown of all of the matching names will appear. This is refined as you keep typing. Use wildcards to help search, e.g. %Ratter to find individual records and expedition records that include the name Ratter in the name of the record.
+
+![image](https://user-images.githubusercontent.com/6713716/173855129-c6ccdec8-c2ce-4cff-bbf6-5b88f2feaad5.png)
+
+If you are not sure whether collectors should be entered as an expedition or as separate individuals, then the following options may help:
 - Search for the expedition name first
 - Search for the primary collector and check the drop-down list for records which look like groups collecting as an expedition
 - Click on the edit symbol to look more closely at any agent record (but remember that any changes made to the record will affect all records in the database attached to that agent!)
 
-To add a Collector to the record click on the Add button next to the Collectors header
+If the name you are looking for is not in the list, then check by clicking on the magnifying glass to search more thoroughly. If you still don’t see the record then you will need to add a new Agent (see Adding a New Agent)
 
-![image](https://user-images.githubusercontent.com/6713716/173854446-690a695a-a6ae-44ab-855d-2cfa0ae3eace.png)
-
-This expands the Collectors part of the form
-
-![image](https://user-images.githubusercontent.com/6713716/173855088-dd79a12a-99c4-4beb-9f9f-d90234114d83.png)
-
-- **Agent**: enter the name of the collector or expedition. Start typing the last name of the collector or the name of the expedition and a dropdown of all of the matching names will appear. This is refined as you keep typing.
-
-![image](https://user-images.githubusercontent.com/6713716/173855129-c6ccdec8-c2ce-4cff-bbf6-5b88f2feaad5.png)
-
-  If the name you are looking for is not in the list, then check by clicking on the magnifying glass to search more thoroughly. If you still don’t see the record then you will need to add a new Agent (see Adding a New Agent)
-  When there are several collectors listed the first collector is assumed to be the primary collector, with the collection number being theirs.
 - **Verbatim Collector Name** - this is a read-only field for the free text collector name in BG-BASE. 
 - **Collector Number** - this is the number given to the collection by the collector. This includes any prefixes or suffixes. Do not enter any spaces between any prefixes and suffixes.
 - **Collection Date** - enter the date the collection was made in the following format DD/MM/YYYY. Use the dropdown to the left to select whether it is a Full Date, Mon/Year or Year.
