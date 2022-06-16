@@ -389,3 +389,28 @@ Enter any specific **Determinations** relating to this Preparation if required.
 If the remaining information is the same as for the other preparations in the Collection Object record, then click **Save** and close the record.
 
 If there is any additional information that may be **relevant for all preparations in the Collection Object record**, then record these in the relevant field or in the **Remarks** field below Description (this field is currently being added).
+
+# Special situations
+
+## Physically Linked Specimens
+
+Where a single sheet contains more than one specimen (i.e. multiple barcodes), then each specimen should be entered as a separate Collection Object and then linked using the Storage Location. Essentially, the specimen sheet itself is defined as a storage location which 'stores' one or more additional specimens.
+
+By default, use the lowest barcode present on the sheet as the storage location, unless the filing information differs from the information in this specimen record.
+
+If there is a chance that the barcode already exists as a Storage Location, search using a wild card (%) in front of the Barcode.
+
+![image](https://user-images.githubusercontent.com/6713716/174112012-ad88be10-af7a-4ea4-a92a-393538921a04.png)
+
+If there is not an existing storage location record, then create one by clicking on the + symbol to the right of the storage box. This will bring up the Storage subform in a pop-up window.
+
+![image](https://user-images.githubusercontent.com/6713716/174112708-fa4336b8-9ac3-4ba4-b421-4dff4cfd11e4.png)
+
+- **Parent** - Enter the appropriate Parent Storage Location - in most cases this will be Herbarium.
+
+![image](https://user-images.githubusercontent.com/6713716/174112942-ae00e42d-4792-4304-bd3f-ff2660602fd8.png)
+
+- **Level** - enter the Level as Sheet.
+
+![image](https://user-images.githubusercontent.com/6713716/174113441-e063075a-ac53-4da4-b4e0-82374e5e3d02.png)
+
