@@ -81,7 +81,7 @@ This will open the Taxon entry screen.
 
 - **Is Hybrid** - tick this checkbox for all kinds of hybrids, eg hybrid formulae, nothotaxa/collective names, infra generic hybrids, etc.
 
-- **Nomenclatural Status** - select the nomenclatural status of the name from the picklist. If the name is considered to be legitimate (and therefore valid), this should be left blank. For invalid, illegitimate, not found names, select the appropriate option, e.g. illegitimate, invalid, nomen nudum, later homonym, not found in literature, manuscript name, etc.
+- **Status** - select the nomenclatural status of the name from the picklist. If the name is considered to be legitimate (and therefore valid), this should be left blank. For invalid, illegitimate, not found names, select the appropriate option, e.g. illegitimate, invalid, nomen nudum, later homonym, not found in literature, manuscript name, etc.
 
   _Tip: Names should be checked in online nomenclators such as IPNI, TROPICOS, Index Fungorum, MycoBank, Index Muscorum, AlgaeBank, etc._
 
