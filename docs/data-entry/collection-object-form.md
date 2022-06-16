@@ -374,7 +374,7 @@ Additional Record Data
 
 ## To create a new Preparation for an existing Collection Object
 
-Search for the existing Collection Object using a Query (https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/blob/main/queries.md#checking-for-an-existing-collection-object-httpsherb-rbgespecifycloudorgspecifyquery90).
+Search for the existing Collection Object using a [Query](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/blob/main/queries.md#checking-for-an-existing-collection-object-httpsherb-rbgespecifycloudorgspecifyquery90).
 
 If the **Collection Object already exists**, open the record and click **Edit** at the bottom right of the Collection Object form.
 
@@ -382,7 +382,7 @@ Click **Add** next to Preparations. This will open up a new **Preparation** in t
 
 ![image](https://user-images.githubusercontent.com/6713716/174097579-83097899-0281-4f01-aa2c-5b7344b96975.png)
 
-Follow the <a href="[https://rbge-herbarium.github.io/docs/data-entry/collection-object-form.html#preparations-subform]">instructions</a> for entering a new **Preparation**
+Follow the **[Instructions](https://rbge-herbarium.github.io/docs/data-entry/collection-object-form.html#preparations-subform)** for entering a new **Preparation**
 
 Enter any specific **Determinations** relating to this Preparation if required.
 
