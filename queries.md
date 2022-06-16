@@ -10,4 +10,4 @@ queries info...
 
 ## Useful queries
 
-Checking for an existing Collection Object https://herb-rbge.specifycloud.org/specify/query/90/
+### Checking for an existing Collection Object https://herb-rbge.specifycloud.org/specify/query/90/
