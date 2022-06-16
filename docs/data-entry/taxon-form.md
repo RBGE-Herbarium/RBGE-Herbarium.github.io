@@ -4,7 +4,7 @@ parent: Data Entry
 
 # Taxon Form
 
-Creating a record in the Taxon Form essentially creates the name as a nomenclatural element and does not include any taxonomic status for the name. Creating relationships between names with synonymy where you are building a taxonomic structure is done in the Taxon Tree (see Taxon Tree section further down for more information about how this works).
+Creating a record in the Taxon Form essentially creates the name as a nomenclatural element and does not include any taxonomic status for the name. Creating relationships between names with synonymy where you are building a taxonomic structure is done in the Taxon Tree.
 
 
 ## To create a new Taxon record from the Collection Object form.
@@ -33,7 +33,7 @@ If you are sure that the name is not in the system, then a new taxon name can be
 
 
 
-### To create a new Taxon record from the Taxon form directly.
+## To create a new Taxon record from the Taxon form directly.
 
 Click on the Data Entry button on the main menu bar and select Taxon from the pop up.
 
