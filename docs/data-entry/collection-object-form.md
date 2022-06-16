@@ -122,7 +122,7 @@ Any name that has been applied to a specimen is treated as a Determination. This
 
 To add a determination click on Add next to Determinations. A new determination should be added for each name being applied to the specimen.
 
-_Tip: The most recently added Determination will be automatically ticked as the Filed As name. Therefore it is recommended to enter the determinations in the following order: 1) Label name, 2) Det. slips in chronological order with the most recent more likely to be where the specimen is filed. _
+  _Tip: The most recently added Determination will be automatically ticked as the Filed As name. Therefore it is recommended to enter the determinations in the following order: 1) Label name, 2) Det. slips in chronological order with the most recent more likely to be where the specimen is filed._
 
 The fields are explained below:
 
@@ -137,7 +137,7 @@ The fields are explained below:
   - **Typification**: The names for which the specimen is a type are treated as determinations in Specify. Typification determinations should include the type status.
   - **Legacy filing name**: The legacy filing name should not be used for future name usage. It was used during the migration to hold the BG-BASE Filing Name data.
 
-Please note that we are no longer creating a separate ‘Filing Name’ entry. The ‘Filed as’ tick box will now serve this purpose.
+Please note that we are no longer creating a separate ‘Filing Name’ entry. The ‘Filed as’ tick box will now serve this purpose. See the **Filed as** entry below for more information.
 
 - **Taxon** – enter the name of the taxon. Start typing the taxon name and a dropdown of all of the matching names will appear. This is refined as you keep typing.
 
@@ -146,6 +146,7 @@ Please note that we are no longer creating a separate ‘Filing Name’ entry. T
   _Tip: If the name you are looking for is not in the list then check by clicking on the magnifying glass to search more thoroughly. If you still don’t see the record then you will need to add a new Taxon (see Adding a New Taxon Name)_
 
 - **Filed as** – this is automatically ticked as each new determination record is added. Once all determinations have been entered, check that the determination which holds the name under which the specimen is filed is ticked here.
+
   _Tip: it may be that several determinations have the same taxon name which is where the specimen is filed. If this is the case, as a general rule the most recent determination should have the Filed as box ticked._
 
 - **Prefered Taxon** - if the name entered into Taxon Name is a Synonym, the Prefered Taxon will be displayed here. This is a read only field.
