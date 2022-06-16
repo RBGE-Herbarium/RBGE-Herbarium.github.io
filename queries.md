@@ -14,4 +14,4 @@ queries info...
 ![image](https://user-images.githubusercontent.com/6713716/174097190-c935aedb-3fb0-41fb-9087-e6decd8ac0cf.png)
 
 ### Finding specimens that are physically linked https://herb-rbge.specifycloud.org/specify/query/91/
-![image](https://user-images.githubusercontent.com/6713716/174115688-59eb31aa-e926-4a61-8c86-0c40b8ebfd52.png)
+![image](https://user-images.githubusercontent.com/6713716/174116304-38d2b655-cde6-4c9e-942d-880a6aa5aca0.png)
