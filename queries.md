@@ -10,5 +10,8 @@ queries info...
 
 ## Useful queries
 
-### Checking for an existing Collection Object https://herb-rbge.specifycloud.org/specify/query/90/
+### **<a href="[https://rbge-herbarium.github.io/docs/data-entry/collection-object-form.html#preparations-subform]"> Checking for an existing Collection Object </a> https://herb-rbge.specifycloud.org/specify/query/90/**
 ![image](https://user-images.githubusercontent.com/6713716/174097190-c935aedb-3fb0-41fb-9087-e6decd8ac0cf.png)
+
+### Finding specimens that are physically linked https://herb-rbge.specifycloud.org/specify/query/91/
+![image](https://user-images.githubusercontent.com/6713716/174115688-59eb31aa-e926-4a61-8c86-0c40b8ebfd52.png)
