@@ -18,3 +18,6 @@ queries info...
 
 ### [Searching for keyword](https://herb-rbge.specifycloud.org/specify/query/92/)
 ![image](https://user-images.githubusercontent.com/6713716/174169890-02a288c8-0491-48d4-b6c8-9e2f7fb0da18.png)
+
+### [Expedition members](https://herb-rbge.specifycloud.org/specify/query/93/)
+![image](https://user-images.githubusercontent.com/6713716/174185121-a632f09c-a779-4a6a-a125-cdb31855747b.png)
