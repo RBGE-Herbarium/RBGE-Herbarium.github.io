@@ -307,6 +307,14 @@ The Description and Number of Duplicates form part of the Collection Object info
 - **Description** - enter the description of the specimen as given on the label.
 - **Number of Duplicates** - enter the number of duplicates that were made when the specimen was collected if known.
 
+- **Remarks** - (this field is currently being added to the form) - enter any additional information about the Collection Object, including Associated Material. When adding Associated material:
+  - If the associated material is a **duplicate, spirit or a destructive sample held at RBGE** then a separate **preparation** should be created if not already done
+  - If the associated material is **silica gel** then it should be entered into the **silica-dried material database** - a note can be made in **Remarks**.
+  - If the associated material is a **DNA sample**, then it should be entered into **EDNA database** - a note can be made in **Remarks**.
+  - If the associated material is a **photograph or illustration**, then it should be entered as a note in **Remarks**, prefixed with Associated_mat if possible.
+  - If the associated material is a **duplicate herbarium specimen in another institute**, this should be entered as a note in **Remarks**, prefixed with Associated_mat if possible.
+
+
 ## Cultivated Information
 
 In Specify, all cultivated specimen collection data are treated at the same level as wild-collected collection data using the same fields. The specimens are then linked to show the relationship. 
