@@ -382,7 +382,7 @@ Click **Add** next to Preparations. This will open up a new **Preparation** in t
 
 ![image](https://user-images.githubusercontent.com/6713716/174097579-83097899-0281-4f01-aa2c-5b7344b96975.png)
 
-Follow the <a href="[https://rbge-herbarium.github.io/docs/data-entry/collection-object-form.html#preparations-subform]"> instructions </a> for entering a new **Preparation**
+Follow the <a href="[https://rbge-herbarium.github.io/docs/data-entry/collection-object-form.html#preparations-subform]">instructions</a> for entering a new **Preparation**
 
 Enter any specific **Determinations** relating to this Preparation if required.
 
