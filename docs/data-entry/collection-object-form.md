@@ -376,16 +376,16 @@ Additional Record Data
 
 Search for the existing Collection Object using a Query (https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/blob/main/queries.md#checking-for-an-existing-collection-object-httpsherb-rbgespecifycloudorgspecifyquery90).
 
-If the Collection Object already exists, open the record and click **Edit** at the bottom right of the Collection Object form.
+If the **Collection Object already exists**, open the record and click **Edit** at the bottom right of the Collection Object form.
 
-Click **Add** next to Preparations. This will open up a new Preparation in the Preparation subform.
+Click **Add** next to Preparations. This will open up a new **Preparation** in the Preparation subform.
 
 ![image](https://user-images.githubusercontent.com/6713716/174097579-83097899-0281-4f01-aa2c-5b7344b96975.png)
 
-Follow the instructions for entering a new Preparation (https://rbge-herbarium.github.io/docs/data-entry/collection-object-form.html#preparations-subform)
+Follow the instructions for entering a new **Preparation** (https://rbge-herbarium.github.io/docs/data-entry/collection-object-form.html#preparations-subform)
 
-Enter any specific Determinations relating to this Preparation if required.
+Enter any specific **Determinations** relating to this Preparation if required.
 
-If the remaining information is the same as for the other preparations in the Collection Object record, then click Save and close the record.
+If the remaining information is the same as for the other preparations in the Collection Object record, then click **Save** and close the record.
 
-If there is any additional information that may be relevant for all preparations in the Collection Object record, then record these in the relevant field or in the Remarks field below Description (this field is currently being added).
+If there is any additional information that may be **relevant for all preparations in the Collection Object record**, then record these in the relevant field or in the **Remarks** field below Description (this field is currently being added).
