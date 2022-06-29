@@ -12,9 +12,7 @@ In Specify, an outgoing loan is treasted as a Loan interaction.
 There are several options for creating a record with the specimens to be loaned. Each user may want to use the method that works best for them and the loan in question. 
 
 - Option 1: Create a record set of Collection Object records based on a query prior to creating the loan record. 
-
 - Option 2: Create an empty loan record and add specimens either by entering preparations individually or by adding a record set as outline above. 
-
 - Option 3: For large or complex loans, it may be better to use Specify6 where you will be able to select the preparations to be loaned by the barcode. 
 
 This guidance will focus on Option 1 as the default. 
