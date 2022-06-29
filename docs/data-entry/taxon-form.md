@@ -6,6 +6,8 @@ parent: Data Entry
 
 Creating a record in the Taxon Form essentially creates the name as a nomenclatural element and does not include any taxonomic status for the name. Creating relationships between names with synonymy where you are building a taxonomic structure is done in the Taxon Tree.
 
+The taxon form can be opened from the Data Entry button on the main menu, from within the Collection Object form and from within the Taxon tree. The two most common routes will be from within the Collection Object form and from the Taxon tree so these are covered below.
+
 
 ## To create a new Taxon record from the Collection Object form.
 
@@ -102,3 +104,13 @@ This will open the Taxon entry screen.
 - **Parentage** - This information has been migrated from BG-BASE and will gradually be cleaned and transferred to the parent fields above.
 
 At any point, to save the record click Save in the bottom right of the screen. The Save and Add Another button saves the record and creates a duplicate - this should not generally be used at present.
+
+## To create a new Taxon record from the Taxon Tree.
+
+Before creating a new Taxon record, ensure that the name does not already exist within the Taxon Tree.
+
+Right click on the parent of the name being created. You will see an option to Add a Child.
+
+![image](https://user-images.githubusercontent.com/6713716/176399684-6c4194b4-8636-4424-91c6-504d4161560d.png)
+
+This will open the Taxon form and the instructions above can be followed.
