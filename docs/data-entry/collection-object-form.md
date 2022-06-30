@@ -159,7 +159,7 @@ Please note that we are no longer creating a separate ‘Filing Name’ entry. T
 - **Determination Qualifier** – enter the qualifier if present in the determination (e.g. cf., aff. ?, forsan)
 - **Determination Addendum** – enter the taxon addendum if present (e.g. sensu latu (s.l.), sensu strictu (s.s.), auct. non Brit. etc.)
 - **Determined by** – enter the name of the person who made the determination if known. This is not required for Label name, Data Capture name or Typification determinations.
-  _Tip: for determinations made by more than one person, enter their names into Verbatim Determined By at present._
+  _Tip: for determinations made by more than one person, leave this field blank and enter all the names into Verbatim Determined By at present._
 
 - **IH Code** – enter the Index Herbarium Code of the determiner if known.
 - **Determined Date** - enter the date the determination was made if known. Use the dropdown to the left to select whether it is a Full Date, Mon/Year or Year. This is not required for Label name, Data Capture name or Typification determinations.
