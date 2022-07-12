@@ -41,24 +41,24 @@ This will open the Destructive Sampling (Gift) form with a Destructive Sampling 
 
 ![image](https://user-images.githubusercontent.com/6713716/178464864-320320b0-0a98-4c58-899f-a20a309a0e23.png)
 
-**Kind**: Select “Internal or External” from the dropdown menu.
-**Justification**: Select the Justification.
-**Purpose**: Select a value from a dropdown menu
-**Legacy Number**: This is read only and provides the BG-BASE number for the Desiderata record.
-**Their Num**: Enter the other institute’s reference number, if known.
-**Loan Num**: Enter the associated Loan number if the request originated from a Loan Request or if it triggers a Loan Request.
-**Remarks**: This holds the Remarks for the whole Destructive Sampling record. You can enter any additional information or notes relating to the destructive sampling request, for example a short summary of the intended research, and a general taxonomic or geographic summary.
-Internal Misc: This can be used to help with the management process of the request.
-Destructive Sampling Agents: Enter the following information if known:
-a.	Herbarium making request: Agent = Herbarium; Role = Herbarium
-b.	Individual researcher named on request: Agent = individual name; Role = Requester
-c.	Supervisor if named on request: Agent = individual name; Role = Supervisor
+- **Kind**: Select “Internal or External” from the dropdown menu.
+- **Justification**: Select the Justification.
+- **Purpose**: Select a value from a dropdown menu
+- **Legacy Number**: This is read only and provides the BG-BASE number for the Desiderata record.
+- **Their Num**: Enter the other institute’s reference number, if known.
+- **Loan Num**: Enter the associated Loan number if the request originated from a Loan Request or if it triggers a Loan Request.
+- **Remarks**: This holds the Remarks for the whole Destructive Sampling record. You can enter any additional information or notes relating to the destructive sampling request, for example a short summary of the intended research, and a general taxonomic or geographic summary.
+- **Internal Misc**: This can be used to help with the management process of the request.
+- **Destructive Sampling Agents**: Enter the following information if known:
+  - a.	Herbarium making request: Agent = Herbarium; Role = Herbarium
+  - b.	Individual researcher named on request: Agent = individual name; Role = Requester
+  - c.	Supervisor if named on request: Agent = individual name; Role = Supervisor
   _Tip – if you want to search by institution code – you can enter in the agent box: %(CODE) – e.g. see screenshot below:_
 
 ![image](https://user-images.githubusercontent.com/6713716/178465149-17d2ecad-57e1-40bf-ac88-b968c3513d39.png)
 
-**Date**: The default will be today’s date.
-**Remarks**: In the Remarks field under the Agent you can add any additional information about the agent/role/status relating to this particular request. Enter any more general remarks about the request to the higher level Request Remarks field.
+- **Date**: The default will be today’s date.
+- **Remarks**: In the Remarks field under the Agent you can add any additional information about the agent/role/status relating to this particular request. Enter any more general remarks about the request to the higher level Request Remarks field.
 
 Click Accept
 
@@ -144,17 +144,17 @@ Then fill in the new Preparation as follows:
 
 ![image](https://user-images.githubusercontent.com/6713716/178466492-7e6d645b-736a-4ce0-8d56-f826ba1211f1.png)
 
-**Preparation Type**: Select Destructive Sample
-**Barcode**: Enter the sample identifier which is currently the Request number + the item number, eg 03213:1, 03213:2, 03213:3, etc).
-**Remarks**: Enter any information relating to the destructive sample here.
-**Internal Misc**: This field may be used to keep a note of the sampling process if desired.
-**Derived From**: Enter the barcode of the specimen from which the material was taken.
+- **Preparation Type**: Select Destructive Sample
+- **Barcode**: Enter the sample identifier which is currently the Request number + the item number, eg 03213:1, 03213:2, 03213:3, etc).
+- **Remarks**: Enter any information relating to the destructive sample here.
+- **Internal Misc**: This field may be used to keep a note of the sampling process if desired.
+- **Derived From**: Enter the barcode of the specimen from which the material was taken.
   There is a section in the Preparation subform for Destructive Sampling. The following information should now be entered here.
-**Material type**: Select the type of sample from the dropdown menu.
-**Prepared by**: Enter the person preparing the sample.
-**Prepared date**: Enter the date the sample was prepared.
-**Sample Number**: Enter the number assigned by the collector for the material being collected to fulfill this request
-**Legacy Number**: a read only field for the Des_Item number from BG-BASE
+- **Material type**: Select the type of sample from the dropdown menu.
+- **Prepared by**: Enter the person preparing the sample.
+- **Prepared date**: Enter the date the sample was prepared.
+- **Sample Number**: Enter the number assigned by the collector for the material being collected to fulfill this request
+- **Legacy Number**: a read only field for the Des_Item number from BG-BASE
 
 Once complete, Click Save in the bottom right of the Preparation window. 
 
@@ -210,16 +210,16 @@ Additional information can be entered into the Destructive Sampling Request reco
 This information can be entered at any point once the original record is created.
 
 
-**Special Conditions**: Enter any restrictions relating to the samples being sent. The Permit number could be included here.
-**Destructive Sample date**: Enter the date the Destructive Sample was sent.
-**Generate Invoice on Save**: This checkbox can be ticked prior to the final save to produce a packing list for sending the samples.
+- **Special Conditions**: Enter any restrictions relating to the samples being sent. The Permit number could be included here.
+- **Destructive Sample date**: Enter the date the Destructive Sample was sent.
+- **Generate Invoice on Save**: This checkbox can be ticked prior to the final save to produce a packing list for sending the samples.
 
 ## Step 8: On receiving notification that the samples have been received
 
 Open the Destructive Sampling record and add the following information.
 
-**Date received**: Enter the date the samples were received by the requesting institution.
-**Received Comments**: Enter the response from the receiving institute here. 
+- **Date received**: Enter the date the samples were received by the requesting institution.
+- **Received Comments**: Enter the response from the receiving institute here. 
 
 Click Save.
 
