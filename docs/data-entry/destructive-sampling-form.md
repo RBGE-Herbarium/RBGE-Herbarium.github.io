@@ -50,9 +50,9 @@ This will open the Destructive Sampling (Gift) form with a Destructive Sampling 
 - **Remarks**: This holds the Remarks for the whole Destructive Sampling record. You can enter any additional information or notes relating to the destructive sampling request, for example a short summary of the intended research, and a general taxonomic or geographic summary.
 - **Internal Misc**: This can be used to help with the management process of the request.
 - **Destructive Sampling Agents**: Enter the following information if known:
-  - a.	Herbarium making request: Agent = Herbarium; Role = Herbarium
-  - b.	Individual researcher named on request: Agent = individual name; Role = Requester
-  - c.	Supervisor if named on request: Agent = individual name; Role = Supervisor
+  - Herbarium making request: Agent = Herbarium; Role = Herbarium
+  - Individual researcher named on request: Agent = individual name; Role = Requester
+  - Supervisor if named on request: Agent = individual name; Role = Supervisor
   _Tip – if you want to search by institution code – you can enter in the agent box: %(CODE) – e.g. see screenshot below:_
 
 ![image](https://user-images.githubusercontent.com/6713716/178465149-17d2ecad-57e1-40bf-ac88-b968c3513d39.png)
