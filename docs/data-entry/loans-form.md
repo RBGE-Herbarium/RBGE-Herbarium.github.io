@@ -4,7 +4,7 @@ parent: Data Entry
 
 # Loans Form
 
-In Specify, an outgoing loan is treasted as a Loan interaction. 
+In Specify, an outgoing loan is treated as a Loan interaction. 
 
 
 ## Creating the Loan record and entering information about the loaned material 
