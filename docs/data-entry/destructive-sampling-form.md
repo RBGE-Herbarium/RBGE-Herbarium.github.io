@@ -35,7 +35,7 @@ This will open the **Destructive Sampling** form with a Destructive Sampling rec
 - This record can be saved at any time and completed at a later time. Click Save at the bottom right of the screen.
 - The **Destructive Sampling Request Number** will be automatically allocated when the record is saved. Take a note of this to find the record more quickly later.
 
-![image](https://user-images.githubusercontent.com/6713716/178464796-0b15b52b-e8cf-496a-9856-ef86e7461191.png)
+![image](https://user-images.githubusercontent.com/6713716/178732638-17a58262-ca8a-4cab-ab36-abecfdff44bc.png)
 
 **Status**: Select the current status from the dropdown menu
 
@@ -191,15 +191,15 @@ Once all the Destructive Samples have been created, these can be added to the De
 
 This can also be done individually as the sample records are created.
 
-Open the Destructive Sampling Request record.  - Run a query, using the Destructive Sampling Request number, remembering to include any 0s at the start of the number, e.g. 03213.
+Open the Destructive Sampling Request record.  - Run a query, using the Destructive Sampling Request number, remembering to include any 0s at the start of the number, e.g. 03042.
 
-![image](https://user-images.githubusercontent.com/6713716/178466834-cb36d50f-eaa7-4d6d-8663-51a096817ea1.png)
+![image](https://user-images.githubusercontent.com/6713716/178731998-6b0bd24b-9e7e-4075-9d28-a25aa94e76a9.png)
 
 Click on the Result to open the record.
 
 In the Destructive Sampling form, scroll down to the Destructive Sampling Preparations section. Click “add” to add Preparations.
 
-![image](https://user-images.githubusercontent.com/6713716/178466881-fa470c49-6acd-4768-aa17-03f6949fa77d.png)
+![image](https://user-images.githubusercontent.com/6713716/178732329-fae4b539-3f8d-4ae0-a2e1-1c1e63418502.png)
 
 Select the record set you created earlier:
 
