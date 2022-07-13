@@ -18,37 +18,46 @@ This workflow will take you through recording a basic destructive sampling reque
 
 With the destructive sampling request at hand, open Specify 7 to create a new destructive sampling request record.
 
-Click on Interactions and select Destructive Sampling (Gift) from the menu at the top.
+Click on Interactions and select Destructive Sampling from the menu at the top.
 
 The next step is a workaround, and will be improved in time:
 Destructive sampling records can only be created with a specimen being selected on the next screen.  However, assuming you haven’t yet selected and specimens to sample, the below workaround allows you to create a blank record:
-Enter a catalog number (any valid number is ok, but I recommend 00000001).  Click ok.  
+Enter a catalog number - all catalog numbers are eight digits  (any valid number but 00000001 may be easiest to remember).  Click ok.
 
 ![image](https://user-images.githubusercontent.com/6713716/178464566-e8eabd67-0275-42a1-a87a-67de54f9c7d8.png)
 
-On the next screen, do not tick any preparations, and then click apply.  This will ensure that no preparations are added to the DS request at this stage: 
+On the next screen, **do not tick any preparations**, and then click **Apply**.  This will ensure that no preparations are added to the Destructive Sampling request at this stage: 
 
 ![image](https://user-images.githubusercontent.com/6713716/178464628-1bce1a2e-688a-44fd-ad8e-fec22cf5a46a.png)
 
-This will open the Destructive Sampling (Gift) form with a Destructive Sampling record where you can enter the information about the request. 
-- At this point in time, you may not be able to enter all the information.
+This will open the **Destructive Sampling** form with a Destructive Sampling record where you can enter the information about the request. 
+- At this point in time, you may not have all the information to be entered.
 - This record can be saved at any time and completed at a later time. Click Save at the bottom right of the screen.
-- The Destructive Sampling Request Number will be automatically allocated when the record is saved. Take a note of this to find the record more quickly later.
+- The **Destructive Sampling Request Number** will be automatically allocated when the record is saved. Take a note of this to find the record more quickly later.
 
 ![image](https://user-images.githubusercontent.com/6713716/178464796-0b15b52b-e8cf-496a-9856-ef86e7461191.png)
 
-**Status**: Select the current status from the dropdown menu 
+**Status**: Select the current status from the dropdown menu
 
 ![image](https://user-images.githubusercontent.com/6713716/178464864-320320b0-0a98-4c58-899f-a20a309a0e23.png)
 
-- **Kind**: Select “Internal or External” from the dropdown menu.
-- **Justification**: Select the Justification.
-- **Purpose**: Select a value from a dropdown menu
-- **Legacy Number**: This is read only and provides the BG-BASE number for the Desiderata record.
-- **Their Num**: Enter the other institute’s reference number, if known.
+- **Justification**: Select the Justification. Current recommendation is to only select one of the following options. If you need a different value, please ask.
+  - Research
+  - Education
+- **Purpose**: Select a value from a dropdown menu. Current recommendation is to only select one of the following options. If you need a different value, please ask.
+  - molecular research (DNA, gene sequencing, etc.)
+  - anatomical research
+  - general research (not one of the above)
+  - phytochemical research
+  - teaching
+  - illustration
+- **Description**: Enter a short summary of the intended research, and a general taxonomic or geographic summary.
 - **Loan Num**: Enter the associated Loan number if the request originated from a Loan Request or if it triggers a Loan Request.
-- **Remarks**: This holds the Remarks for the whole Destructive Sampling record. You can enter any additional information or notes relating to the destructive sampling request, for example a short summary of the intended research, and a general taxonomic or geographic summary.
-- **Internal Misc**: This can be used to help with the management process of the request.
+- **Their Num**: Enter the other institute’s reference number, if known.
+- **Legacy Number**: This is read only and provides the BG-BASE number for the Desiderata record.
+- **Remarks**: This holds the Remarks for the whole Destructive Sampling record. You can enter any additional information or notes relating to the destructive sampling request. This field may be used as part of the report to be sent to the Requestor.
+- **Internal Misc**: This can be used to help with the management process of the request and notes in here do not have to be retained. This would not be included in any report to the Requestor.
+
 - **Destructive Sampling Agents**: Enter the following information if known:
   - Herbarium making request: Agent = Herbarium; Role = Herbarium
   - Individual researcher named on request: Agent = individual name; Role = Requester
@@ -71,9 +80,9 @@ At this point any documentation can be attached to this record using the Attachm
 
 A CBD form should be sent to the requester and signed. The CBD documentation will need to be in place for any further progress to be made with the request.
 
-![image](https://user-images.githubusercontent.com/6713716/178465440-e17c0f43-cadd-45f9-bf08-db04a2466e2a.png)
-
 Tick the **CBD Form checkbox** to indicate that the CBD Form has been received.
+
+![image](https://user-images.githubusercontent.com/6713716/178465440-e17c0f43-cadd-45f9-bf08-db04a2466e2a.png)
 
 Click Save (in the bottom right-hand corner of the form)
 
