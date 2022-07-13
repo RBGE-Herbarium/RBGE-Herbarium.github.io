@@ -123,7 +123,7 @@ Click on the queries in the Menu Ribbon
 
 In the popup, click on the Barcode Query (exact name may vary depending on what you saved it as).
 
-![image](https://user-images.githubusercontent.com/6713716/178465904-46d26bac-8719-422a-b6d1-7f6749b63bea.png)
+![image](https://user-images.githubusercontent.com/6713716/178731116-480bce16-a2a8-40fc-a887-df4ccca75a9e.png)
 
 Enter the barcodes of the specimens that form part of the request separated by commas e.g. EXXXXXXXX, EXXXXXXXX, EXXXXXXXX to retrieve the Collection Object records for the specimens. Make sure the operator is set to “In”.
 
