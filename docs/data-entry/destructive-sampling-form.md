@@ -157,9 +157,11 @@ Then fill in the new Preparation as follows:
 - **Barcode**: Enter the sample identifier which is currently the Request number + the item number, eg 03213:1, 03213:2, 03213:3, etc).
 - **Remarks**: Enter any information relating to the destructive sample here.
 - **Internal Misc**: This field may be used to keep a note of the sampling process if desired.
-- **Derived From**: Enter the barcode of the specimen from which the material was taken.
-  There is a section in the Preparation subform for Destructive Sampling. The following information should now be entered here.
+
+
+There is a section in the Preparation subform for Destructive Sampling. The following information should now be entered here.
 - **Material type**: Select the type of sample from the dropdown menu.
+- **Derived From**: Enter the barcode of the specimen from which the material was taken.
 - **Prepared by**: Enter the person preparing the sample.
 - **Prepared date**: Enter the date the sample was prepared.
 - **Sample Number**: Enter the number assigned by the collector for the material being collected to fulfill this request
