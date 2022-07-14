@@ -21,7 +21,7 @@ With the destructive sampling request at hand, open Specify 7 to create a new de
 Click on Interactions and select Destructive Sampling from the menu at the top.
 
 The next step is a workaround, and will be improved in time:
-Destructive sampling records can only be created with a specimen being selected on the next screen.  However, assuming you haven’t yet selected and specimens to sample, the below workaround allows you to create a blank record:
+Destructive sampling records can only be created with a specimen being selected on the next screen.  However, assuming you haven’t yet selected any specimens to sample, the below workaround allows you to create a blank record:
 Enter a catalog number - all catalog numbers are eight digits  (any valid number but 00000001 may be easiest to remember).  Click ok.
 
 ![image](https://user-images.githubusercontent.com/6713716/178464566-e8eabd67-0275-42a1-a87a-67de54f9c7d8.png)
