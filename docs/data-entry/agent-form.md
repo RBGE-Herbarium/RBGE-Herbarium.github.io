@@ -16,7 +16,7 @@ Select **Agent** from the pop up:
 
 This opens the **Agent** entry screen
 
-To save the record click **Save** in the bottom right of the screen. To add another blank record click **Add Another**, or to add another starting with a copy of the current one, click **Clone**.
+At any point, to save the record click **Save** in the bottom right of the screen. To add another blank record click **Add Another**, or to add another starting with a copy of the current one, click **Clone**.
 
 ![image](https://user-images.githubusercontent.com/8005676/180233295-8db73aba-a12d-4c65-b2a6-1c4e44f65e58.png)
 
