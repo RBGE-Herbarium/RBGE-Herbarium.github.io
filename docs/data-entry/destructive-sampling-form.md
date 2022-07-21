@@ -119,35 +119,33 @@ Click on the queries in the Menu Ribbon
 
 In the popup, click on the Barcode Query (exact name may vary depending on what you saved it as).
 
-![image](https://user-images.githubusercontent.com/6713716/178731116-480bce16-a2a8-40fc-a887-df4ccca75a9e.png)
-
 Enter the barcodes of the specimens that form part of the request separated by commas e.g. EXXXXXXXX, EXXXXXXXX, EXXXXXXXX to retrieve the Collection Object records for the specimens. Make sure the operator is set to “In”.
 
 The query can be constructed to provide additional information for each record. If the information you want is not visible, then the query can be modified to include it. If you are unsure how to do this, please check the Query guidance or ask for help.
 
-![image](https://user-images.githubusercontent.com/6713716/178466282-04b14d0d-c74c-4945-b68e-54f7987005fa.png)
+![image](https://user-images.githubusercontent.com/8005676/180243507-d245fb8f-1009-42db-95db-ad3515fd7bda.png)
 
-These can then be saved as a Record Set to help manage the destructive sampling process.
+These can then be saved as a Record Set to help manage the destructive sampling process.  If you did not want to save all the records, you could use the tick boxes on the left to select the records to add to the record set.  by default, all records are included.  
 
-Click “Make Record Set”.
+Click “Create Record Set”.
 
 The Destructive Sampling request number can be used to name the Record Set. 
 
-![image](https://user-images.githubusercontent.com/6713716/178466328-402ecf30-bd4e-4776-9651-907c731113e4.png)
+![image](https://user-images.githubusercontent.com/8005676/180243856-50ec2872-df42-4819-9e31-bee681315ade.png)
 
 ## Step 5: Carry out the Destructive Sampling if appropriate
 
-Open the record set by clicking on the item in the Record Set menu. This will open all the specimen records in the Collection Object form view. These can be scrolled through using the Next Record buttons at the top of the window. ![image](https://user-images.githubusercontent.com/6713716/178466422-dd407f5b-cc1f-4b66-9e08-a517a2a2ef57.png)
+Open the record set by clicking on the item in the Record Set menu. This will open all the specimen records in the Collection Object form view. These can be scrolled through using the Next Record buttons at the top of the window. ![image](https://user-images.githubusercontent.com/8005676/180244016-36b66f74-40c7-4a36-a7f7-f3ad054a4bbb.png)
 
 The destructive sampling can then be undertaken if appropriate.
 
-For each specimen that has been sampled, create a new Preparation in the Collection Object, by clicking “Add”:
+For each specimen that has been sampled, create a new Preparation in the Collection Object, by clicking **+**:
 
-![image](https://user-images.githubusercontent.com/6713716/178466454-73470c68-eb3a-46bd-9518-dd4de03bd20c.png)
+![image](https://user-images.githubusercontent.com/8005676/180244149-8c46d62c-0c9f-415f-a9e5-832d67e15c70.png)
 
 Then fill in the new Preparation as follows:
 
-![image](https://user-images.githubusercontent.com/6713716/178466492-7e6d645b-736a-4ce0-8d56-f826ba1211f1.png)
+![image](https://user-images.githubusercontent.com/8005676/180244246-7957337f-33c1-49d8-b448-a4ed3897af4b.png)
 
 - **Preparation Type**: Select Destructive Sample
 - **Barcode**: Enter the sample identifier which is currently the Request number + the item number, eg 03213:1, 03213:2, 03213:3, etc).
@@ -195,18 +193,15 @@ Open the Destructive Sampling Request record.  - Run a query, using the Destruct
 
 Click on the Result to open the record.
 
-In the Destructive Sampling form, scroll down to the Destructive Sampling Preparations section. Click “add” to add Preparations.
+In the Destructive Sampling form, scroll down to the Destructive Sampling Preparations section. Click **+** to add Preparations.
 
-![image](https://user-images.githubusercontent.com/6713716/178732329-fae4b539-3f8d-4ae0-a2e1-1c1e63418502.png)
+Select "By Choosing a record set", then select the record set you created earlier:
 
-Select the record set you created earlier:
-
-![image](https://user-images.githubusercontent.com/6713716/178466937-253c1811-4b3e-443f-aa01-adc6b25d7ddb.png)
+![image](https://user-images.githubusercontent.com/8005676/180244936-b991bb1d-1668-4e0f-ab25-9c9511222f72.png)
 
 You will now see a list of all samples in the Record Set.  This is a list of all preparations of all Collection objects in the list.  Select those that are to be used (this will normally be all the Destructive samples), by ticking the tick boxes, and click apply.
-  _Tip: Destructive samples are termed Desideratum in the screenshot below_
 
-![image](https://user-images.githubusercontent.com/6713716/178467056-5ac4cf84-53b0-4bca-8d87-9725b3005fdc.png)
+![image](https://user-images.githubusercontent.com/8005676/180245284-d44f9ea5-6bce-4dea-81bc-63bf58d287a1.png)
 
 All the sample preparations will now be attached to the Destructive Sampling request record.
 
