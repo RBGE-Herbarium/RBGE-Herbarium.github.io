@@ -14,24 +14,24 @@ The taxon form can be opened from the Data Entry button on the main menu, from w
 Before creating a new Taxon record, ensure that the name does not already exist.
 
 Start typing the name in the Taxon box to see the drop down list of options
-![image](https://user-images.githubusercontent.com/6713716/174123840-42d9f48f-7d6f-49db-8abf-78de8d05badf.png)
+![image](https://user-images.githubusercontent.com/8005676/180251406-cc13332e-e143-49b6-b510-15c74d872dbe.png)
 
 Use wildcards (%) to search names more easily
-![image](https://user-images.githubusercontent.com/6713716/174124039-4f4d186f-49c0-4ce7-a1f5-ed389721ddef.png)
+![image](https://user-images.githubusercontent.com/8005676/180251592-5eedf934-acd3-443c-8cea-977032d107af.png)
 
 Also use wildcards (%) to check spelling variants or uncertainty
-![image](https://user-images.githubusercontent.com/6713716/174124260-e04cee05-e366-4eca-b367-93d7e0a6c677.png)
+![image](https://user-images.githubusercontent.com/8005676/180251739-f63c7172-d0a1-4d3d-8341-a64622978d0e.png)
 
 If it does not come up, then there is an option to do an additional search by clicking on the magnifying glass to the right of the Taxon field.
 
-![image](https://user-images.githubusercontent.com/6713716/174125279-b0e07dae-270b-4b38-aafa-e475d36b002a.png)
+![image](https://user-images.githubusercontent.com/8005676/180252413-279bcff3-d42e-459b-bdd3-b9d5ca4e2f8a.png)
 
 This will bring up a pop-up window where you can search for the Full Name or the Common Name. When searching use the following options:
 - Caesalpinia - will bring up the record that has only the characters Caesalpinia in it, ie the genus record.
 - Caesalpinia% - will bring up all the records that start with Caesalpinia
 - “Caesalpinia a%” - will bring up all the records that start with Caesalpinia a, ie all the Caesalpinia species beginning with “a” (NB, using Caesalpnia a% without the quotation marks will bring up records starting with “A” and ignores the Caesalpinia text.
 
-If you are sure that the name is not in the system, then a new taxon name can be created. Click the + button to open the Taxon form. Follow the Instructions for entering a new Taxon.
+If you are sure that the name is not in the system, then a new taxon name can be created. Click the **+** button to open the Taxon form. Follow the Instructions for entering a new Taxon.
 
 
 
@@ -39,11 +39,9 @@ If you are sure that the name is not in the system, then a new taxon name can be
 
 Click on the Data Entry button on the main menu bar and select Taxon from the pop up.
 
-![image](https://user-images.githubusercontent.com/6713716/174126665-4dfc03f3-c1a4-4a41-8ff9-1651fc204f8b.png)
-
 This will open the Taxon entry screen.
 
-![image](https://user-images.githubusercontent.com/6713716/174126791-8516a15c-bc0a-430d-bf2c-651ffa58eb53.png)
+![image](https://user-images.githubusercontent.com/8005676/180252691-320b9487-171c-4be5-a4f1-43965d7279ae.png)
 
 - **Full Name** - this is automatically calculated from the information entered below and is a read only field.
 - **Parent of Taxon** - enter the direct parent of the taxon being entered.
@@ -61,12 +59,10 @@ This will open the Taxon entry screen.
 
     - **Hybrid formula** should be entered into this field using the standard x key.
 
-    ![image](https://user-images.githubusercontent.com/6713716/174128499-9dc4379e-6dfb-4028-b5fc-d27d7235562e.png)
+![image](https://user-images.githubusercontent.com/8005676/180253543-3964eaaf-c3fd-4838-8e3e-ade538cf56a0.png)
 
     - **Nothotaxon/Collective** names should be entered into this field including the x in front of the name.
     
-    ![image](https://user-images.githubusercontent.com/6713716/174128662-3c7b55ea-c602-4ee8-b180-26b33eb06d7a.png)
-
     - **Infrageneric hybrid** names should be entered into this field including the + in front of the name.
 
 - **Taxonomic Rank** - enter the rank of the Taxon you are adding e.g. the rank would be **species** for Bellis perennis. The available options are presented in the dropdown list. Currently the default is the next rank below the parent.
@@ -109,8 +105,8 @@ At any point, to save the record click Save in the bottom right of the screen. T
 
 Before creating a new Taxon record, ensure that the name does not already exist within the Taxon Tree.
 
-Right click on the parent of the name being created. You will see an option to Add a Child.
+click on the parent of the name being created. Then click on the **add Child** option at the top Right:
 
-![image](https://user-images.githubusercontent.com/6713716/176399684-6c4194b4-8636-4424-91c6-504d4161560d.png)
+![image](https://user-images.githubusercontent.com/8005676/180253832-68875e19-45b8-4166-bd45-47dbf78e5d08.png)
 
 This will open the Taxon form and the instructions above can be followed.
