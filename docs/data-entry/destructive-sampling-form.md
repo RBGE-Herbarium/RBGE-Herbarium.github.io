@@ -24,22 +24,20 @@ The next step is a workaround, and will be improved in time:
 Destructive sampling records can only be created with a specimen being selected on the next screen.  However, assuming you haven’t yet selected any specimens to sample, the below workaround allows you to create a blank record:
 Enter a catalog number - all catalog numbers are eight digits  (any valid number but 00000001 may be easiest to remember).  Click ok.
 
-![image](https://user-images.githubusercontent.com/6713716/178464566-e8eabd67-0275-42a1-a87a-67de54f9c7d8.png)
+![image](https://user-images.githubusercontent.com/8005676/180242115-914103a8-187e-4163-a054-4f5857b99906.png)
 
 On the next screen, **do not tick any preparations**, and then click **Apply**.  This will ensure that no preparations are added to the Destructive Sampling request at this stage: 
 
-![image](https://user-images.githubusercontent.com/6713716/178464628-1bce1a2e-688a-44fd-ad8e-fec22cf5a46a.png)
+![image](https://user-images.githubusercontent.com/8005676/180242175-bb10f324-6aba-44f4-9d44-5f931dcf03d4.png)
 
 This will open the **Destructive Sampling** form with a Destructive Sampling record where you can enter the information about the request. 
 - At this point in time, you may not have all the information to be entered.
 - This record can be saved at any time and completed at a later time. Click Save at the bottom right of the screen.
 - The **Destructive Sampling Request Number** will be automatically allocated when the record is saved. Take a note of this to find the record more quickly later.
 
-![image](https://user-images.githubusercontent.com/6713716/178732638-17a58262-ca8a-4cab-ab36-abecfdff44bc.png)
+![image](https://user-images.githubusercontent.com/8005676/180242316-4780a3f6-fe38-48f5-8f45-ea750bfed900.png)
 
 **Status**: Select the current status from the dropdown menu
-
-![image](https://user-images.githubusercontent.com/6713716/178464864-320320b0-0a98-4c58-899f-a20a309a0e23.png)
 
 - **Justification**: Select the Justification. Current recommendation is to only select one of the following options. If you need a different value, please ask.
   - Research
@@ -64,7 +62,7 @@ This will open the **Destructive Sampling** form with a Destructive Sampling rec
   - Supervisor if named on request: Agent = individual name; Role = Supervisor
   _Tip – if you want to search by institution code – you can enter in the agent box: %(CODE) – e.g. see screenshot below:_
 
-![image](https://user-images.githubusercontent.com/6713716/178465149-17d2ecad-57e1-40bf-ac88-b968c3513d39.png)
+![image](https://user-images.githubusercontent.com/8005676/180242530-43b21a1b-9991-4641-9d4f-936e19ca944f.png)
 
 - **Date**: The default will be today’s date.
 - **Remarks**: In the Remarks field under the Agent you can add any additional information about the agent/role/status relating to this particular request. Enter any more general remarks about the request to the higher level Request Remarks field.
@@ -81,8 +79,6 @@ At this point any documentation can be attached to this record using the Attachm
 A CBD form should be sent to the requester and signed. The CBD documentation will need to be in place for any further progress to be made with the request.
 
 Tick the **CBD Form checkbox** to indicate that the CBD Form has been received.
-
-![image](https://user-images.githubusercontent.com/6713716/178465440-e17c0f43-cadd-45f9-bf08-db04a2466e2a.png)
 
 Click Save (in the bottom right-hand corner of the form)
 
