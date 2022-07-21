@@ -10,27 +10,27 @@ When entering a specimen, consider whether it is possible that there may already
 
 ## Creating a new Preparation in a new Collection Object
 
-To create a new record click on the Data Entry button on the main menu bar:
+To add a new record click on the **Data Entry** button on the main menu bar: 
 
-  ![image](https://user-images.githubusercontent.com/6713716/173833776-fba15b61-20b5-4c79-8eb9-c95759db4f37.png)
+![image](https://user-images.githubusercontent.com/8005676/180232974-2bdb0fa8-75a0-4130-99e7-c5f9628d98e3.png)
 
-Select Collection Object from the pop up:
+Select **Agent** from the pop up: 
 
-This opens the Collection Object entry screen
+![image](https://user-images.githubusercontent.com/8005676/180232903-a0f84669-da06-41cd-b0b9-fba373f5908f.png)
 
-![image](https://user-images.githubusercontent.com/6713716/173834828-ccf9d3c3-e247-450b-b975-0c28894fd896.png)
+This opens the **Agent** entry screen
 
-At any point, to save the record click Save in the bottom right of the screen. The Save and Add Another button saves the record and creates a duplicate - this should not generally be used at present.
+At any point, to save the record click **Save** in the bottom right of the screen. To add another blank record click **Add Another**, or to add another starting with a copy of the current one, click **Clone**.
 
-![image](https://user-images.githubusercontent.com/6713716/173834912-cc6a6118-0352-4b59-a1ad-6b6abf6b39aa.png)
+![image](https://user-images.githubusercontent.com/8005676/180233295-8db73aba-a12d-4c65-b2a6-1c4e44f65e58.png)
 
-  _Tip: If you are in a subform as a pop-up window, such as Preparations, then you will need to click Accept first to return to the Collection Object form to click Save._
+  _Tip: If you are in a subform as a pop-up window, such as Preparations, then you will need to save / close the window first to return to the Collection Object form to click Save._
 
-![image](https://user-images.githubusercontent.com/6713716/173835805-f0a36625-4dd6-4d12-a50e-d40cb28f52d8.png)
+![image](https://user-images.githubusercontent.com/8005676/180237494-5813a685-a010-4883-b721-850d1fe1dc87.png)
 
-The Collection Object form will open as a single form with several sections. Some of these sections are subforms which can be expanded, such as Preparations, Determinations etc. Each of these will expand when you click on Add to the right of the section heading.
+The Collection Object form will open as a single form with several sections. Some of these sections are subforms which can be expanded, such as Preparations, Determinations etc. Each of these will expand when you click on **+** to the right of the section heading to add a new item, or click the **>** to expand an existing item.
 
-![image](https://user-images.githubusercontent.com/6713716/173835949-3955cc71-ad07-436f-936c-e6c5c7b48e86.png)
+![image](https://user-images.githubusercontent.com/8005676/180237890-95d0c7b2-fd7f-4303-8b34-dcc64832c228.png)
 
 ## Entering data into the record.
 
@@ -40,11 +40,9 @@ _Tip: In Specify, this table was called Accessions, but due to possible confusio
 
 ### Preparations subform
 
-To start adding preparations to a record click on Add next to Preparations
+To add a preparation to a record click on **+** next to Preparations
 
-![image](https://user-images.githubusercontent.com/6713716/173838324-cabe9f1c-b314-48b1-902e-4e61a019a9ba.png)
-
-![image](https://user-images.githubusercontent.com/6713716/173838346-871a3128-042c-42e1-b845-1e2502d90c6d.png)
+![image](https://user-images.githubusercontent.com/8005676/180238308-2a61bc0b-832f-4c9b-81c1-9ed4b75c2738.png)
 
 This expands the Preparation entry form as part of the Collection Object form. For each additional preparation needed click Add. The fields are explained below:
 
@@ -82,15 +80,13 @@ This section should only be completed for preparations created during destructiv
 
 ### Adding more preparations
 
-If there are multiple preparations to add to the Collection Object click add again to add an additional record. Once they are added, preparations will be displayed above the Preparation section of the form.
-
-![image](https://user-images.githubusercontent.com/6713716/173849054-2f3dd2be-13fa-46ef-98b8-ce3eecf0a42e.png)
+If there are multiple preparations to add to the Collection Object click **+** again to add an additional record. Once they are added, preparations will be displayed above the Preparation section of the form.
 
 ### Preparation attributes subform
 
 This subform holds additional information about an individual specimen. 
 
-![image](https://user-images.githubusercontent.com/6713716/173849091-5681eaa5-705d-415f-b376-2407db3c44fa.png)
+![image](https://user-images.githubusercontent.com/8005676/180238589-0272d2ce-a069-4091-b262-ac2564f8a5b8.png)
 
 **Please be aware that this subform is not working properly at present and should not be used until the bug is fixed.**
 
@@ -107,8 +103,7 @@ Click on the icon to open up the Preparation Attachments form and add attachment
 
 ![image](https://user-images.githubusercontent.com/6713716/173849200-f2ca8470-c5b2-462e-95e5-130488e7fedc.png)
 
-Guidance will be provided on the file types to be uploaded. 
-
+_Currently, this is not used.  
 
 ### Remove a preparation
 
@@ -122,15 +117,13 @@ More guidance will be provided on removing preparations, but please use with cau
 
 Any name that has been applied to a specimen is treated as a Determination. This includes the Label Name, the BG-BASE Filing Name, Typification names as well as any additional determinations.
 
-![image](https://user-images.githubusercontent.com/6713716/173849431-14a25a9c-13bd-4ee3-9dda-6c91be998db3.png)
+![image](https://user-images.githubusercontent.com/8005676/180239106-74c9fedf-aebd-4503-9884-12b8fc647da1.png)
 
 To add a determination click on Add next to Determinations. A new determination should be added for each name being applied to the specimen.
 
   _Tip: The most recently added Determination will be automatically ticked as the Filed As name. Therefore it is recommended to enter the determinations in the following order: 1) Label name, 2) Det. slips in chronological order with the most recent more likely to be where the specimen is filed._
 
 The fields are explained below:
-
-![image](https://user-images.githubusercontent.com/6713716/173849484-622cd430-bdc3-40cb-804a-e0c6e9db05ac.png)
 
 - **Name Usage** – enter the usage of the name being associated with the specimen (e.g. Label name, Curatorial annotation, Data Capture name, Det., Fide, Typification). Guidance for each option is given below:
   - **Label name**: The label name is the original name on the label. In some cases it may not be clear whether the name on the label has been added as a later det. If it is not clear, it is recommended to treat it as the label name by default. If there appears to be no label name, then create a record with Unknown as the taxon. The label name is not considered to be a det. and should not have any determiner or date information in it.
@@ -145,10 +138,11 @@ Please note that we are no longer creating a separate ‘Filing Name’ entry. T
 
 - **Taxon** – enter the name of the taxon. Start typing the taxon name and a dropdown of all of the matching names will appear. This is refined as you keep typing.
 
-![image](https://user-images.githubusercontent.com/6713716/173852934-6d219506-18d1-4594-babd-9e2bf464871c.png)
+![image](https://user-images.githubusercontent.com/8005676/180239266-a3e1dccf-63b3-4198-aa4a-ca9c75f70d5e.png)
 
   _Tip: If the name you are looking for is not in the list then check by clicking on the magnifying glass to search more thoroughly. If you still don’t see the record then you will need to add a new Taxon (see Adding a New Taxon Name)_
-
+_Note, you cannot enter the author name as part of the search.  enter the Genus, and species name, and if relevant any intraspecific epithets, only.  _
+_
 - **Filed as** – this is automatically ticked as each new determination record is added. Once all determinations have been entered, check that the determination which holds the name under which the specimen is filed is ticked here.
 
   _Tip: it may be that several determinations have the same taxon name which is where the specimen is filed. If this is the case, as a general rule the most recent determination should have the Filed as box ticked._
@@ -191,25 +185,17 @@ When creating a new Preparation under an existing Collection Object
 
 When laying away, the Filed As name should be used.
 
-The number of Determinations is indicated next to the **Determinations** heading
-
-![image](https://user-images.githubusercontent.com/6713716/173853746-3cee7847-9512-4a72-9d3e-bce755e3da17.png)
-
-To view the different determinations use the scroll bar at the bottom of the Determinations section to move between records
-
-![image](https://user-images.githubusercontent.com/6713716/173853837-95cebefc-9b06-49aa-a709-e6047750af26.png)
+The number of Determinations is indicated in brackets next to the **Determinations** heading
 
 ### Removing a Determination
 
-To remove a **Determination** from a record click **Delete**.
-
-![image](https://user-images.githubusercontent.com/6713716/173853884-9c46f6e6-a273-429f-8134-c616a7b4e7b1.png)
+To remove a **Determination** from a record click ![image](https://user-images.githubusercontent.com/8005676/180239866-35e869e6-04ec-4e94-9c52-8d23a3473c9f.png).
 
 ## Collecting Event
 
 This section contains information about the Collectors and the Collecting Event (where and when the specimens were collected).
 
-![image](https://user-images.githubusercontent.com/6713716/173854369-c78c398b-3da9-4b08-afa2-478070d29f0a.png)
+![image](https://user-images.githubusercontent.com/8005676/180240059-bc1e04d7-4529-4e35-85f9-00b5c1ed13fa.png)
 
 ### Collectors
 
@@ -221,17 +207,13 @@ In Specify, all collectors are held in the Agents table, along with expeditions,
 
 **Expeditions** - Expeditions are treated as Group Agent records in the Agents table. Expeditions are defined by a having a unique collection number series that doesn't belong to a particular individual. They may have an expedition name or the name may be a list of the surnames of the collectors. All collectors that took part in an expedition should be added as participants to a Group Agent record. Account for day-to-day discrepancies by added abscences of particular individuals in the remarks field of the Group Agent record. For more information on this, please see the guidance on adding new agents.
 
-To add a **Collector** to the Collection Object record click on the **Add** button next to the Collectors header
-
-![image](https://user-images.githubusercontent.com/6713716/173854446-690a695a-a6ae-44ab-855d-2cfa0ae3eace.png)
+To add a **Collector** to the Collection Object record click on the **+** button next to the Collectors header
 
 This expands the **Collector subform**
 
-![image](https://user-images.githubusercontent.com/6713716/173855088-dd79a12a-99c4-4beb-9f9f-d90234114d83.png)
+![image](https://user-images.githubusercontent.com/8005676/180240333-dd7ce1a8-43e7-4090-b55c-87d44a5c5aef.png)
 
 - **Agent**: enter the name of the collector or expedition. Start typing the last name of the collector or the name of the expedition and a dropdown of all of the matching names will appear. This is refined as you keep typing. Use wildcards to help search, e.g. %Ratter to find individual records and expedition records that include the name Ratter in the name of the record.
-
-![image](https://user-images.githubusercontent.com/6713716/173855129-c6ccdec8-c2ce-4cff-bbf6-5b88f2feaad5.png)
 
 If you are not sure whether collectors should be entered as an expedition or as separate individuals, then the following options may help:
 - Search for the expedition name first
@@ -250,7 +232,7 @@ If the name you are looking for is not in the list, then check by clicking on th
 
 - **Locality** - All records should have a value in here. This field links to the Locality table and is not equivalent to the free text locality in BG-BASE. It currently includes Country, Sub-Country 1, Sub-Country 2 and Sub-Country 3. Search for the lowest known value and select it from the dropdown. Any locality information below the value entered here should be entered in the Verbatim Locality field below. As a minimum, enter the country here.
 
-![image](https://user-images.githubusercontent.com/6713716/173855222-4b3dfbac-0034-4618-aa3c-f2c7fb31488f.png)
+![image](https://user-images.githubusercontent.com/8005676/180240494-5f256657-2acf-4d5d-a3e6-a2d5201b47a4.png)
 
 - **Verbatim Locality** – enter any locality information not included in the Locality field above. 
   _Tip: this field equates to the free text locality in BG-BASE. When entering data you will need to make a decision about division of locality and habitat in some cases._
@@ -263,13 +245,11 @@ If the name you are looking for is not in the list, then check by clicking on th
 ### Collecting Event Attribute
 
 The Collecting Event Attribute part of the form is used to record information relating to Altitude, Latitude, Longitude and Geo-Referencing.
-To add information to the Collecting Event Attribute record click on the Add button next to the Collecting Event Attribute header.
-
-![image](https://user-images.githubusercontent.com/6713716/173856653-8254a378-0440-4ca7-a76b-a2f16fd9d011.png)
+To add information to the Collecting Event Attribute record click on the **+** button next to the Collecting Event Attribute header.
 
 This expands the Collecting Event Attribute part of the form
 
-![image](https://user-images.githubusercontent.com/6713716/173856690-2b897dab-adfd-41e1-a48c-c3bdae1121f6.png)
+![image](https://user-images.githubusercontent.com/8005676/180240654-4d29ad53-c66b-4d27-8d55-8a18ff27d4fc.png)
 
 - **Country as Given** - enter the Country as it was given by the collector as it appears on the label (e.g. Burma, German East Africa).
 - **Altitude Minimum** - enter the altitude. If a range is given enter the lower value in this field. Enter the unit and any qualifiers in separate fields.
@@ -308,7 +288,7 @@ This expands the Collecting Event Attribute part of the form
 
 The Description and Number of Duplicates form part of the Collection Object information. These are positioned on the form after the Determinations and Collecting Event information
 
-![image](https://user-images.githubusercontent.com/6713716/173856747-692836b5-34c9-4bbb-8e6d-39b919b66d5f.png)
+![image](https://user-images.githubusercontent.com/8005676/180240776-7027d765-e6dc-49c2-ad88-149336c2d5cf.png)
 
 - **Description** - enter the description of the specimen as given on the label.
 - **Number of Duplicates** - enter the number of duplicates that were made when the specimen was collected if known.
@@ -382,7 +362,7 @@ If the **Collection Object already exists**, open the record and click **Edit** 
 
 Click **Add** next to Preparations. This will open up a new **Preparation** in the Preparation subform.
 
-![image](https://user-images.githubusercontent.com/6713716/174097579-83097899-0281-4f01-aa2c-5b7344b96975.png)
+![image](https://user-images.githubusercontent.com/8005676/180241183-0d51c889-dcbb-409e-9ded-73e8ca5a1551.png)
 
 Follow the **[Instructions](https://rbge-herbarium.github.io/docs/data-entry/collection-object-form.html#preparations-subform)** for entering a new **Preparation**
 
@@ -402,19 +382,15 @@ By default, use the lowest barcode present on the sheet as the storage location,
 
 If there is a chance that the barcode already exists as a Storage Location, search using a wild card (%) in front of the Barcode.
 
-![image](https://user-images.githubusercontent.com/6713716/174112012-ad88be10-af7a-4ea4-a92a-393538921a04.png)
+![image](https://user-images.githubusercontent.com/8005676/180241367-ae15af33-4288-4a72-bb1e-6da9ecaedce3.png)
 
 If there is not an existing storage location record, then create one by clicking on the + symbol to the right of the storage box. This will bring up the Storage subform in a pop-up window.
 
-![image](https://user-images.githubusercontent.com/6713716/174112708-fa4336b8-9ac3-4ba4-b421-4dff4cfd11e4.png)
+![image](https://user-images.githubusercontent.com/8005676/180241510-8037409b-6f29-4db4-bc15-55f3b5c8e3b0.png)
 
 - **Parent** - Enter the appropriate Parent Storage Location - in most cases this will be Herbarium.
 
-![image](https://user-images.githubusercontent.com/6713716/174112942-ae00e42d-4792-4304-bd3f-ff2660602fd8.png)
-
 - **Level** - enter the Level as Sheet.
-
-![image](https://user-images.githubusercontent.com/6713716/174113441-e063075a-ac53-4da4-b4e0-82374e5e3d02.png)
 
 ## Level of data entry
 
