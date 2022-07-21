@@ -27,31 +27,27 @@ Example: E01035973, E01035943, E01035944, E01035945, E01035946, E01035947, E0103
 
 Save the results as a record set.
 
-![image](https://user-images.githubusercontent.com/6713716/176487491-1a01c261-e9e3-4de0-8ad4-fd9715a8909d.png)
+![image](https://user-images.githubusercontent.com/8005676/180245716-1e15dd23-8b57-499f-be5b-eedd8bfae18c.png)
 
 Click on Interactions and select Loan.
-
-![image](https://user-images.githubusercontent.com/6713716/176487637-6c5ae042-8fdd-477f-9576-5aa1ac5f918f.png)
 
 In the pop-up window, the record sets you have saved should be visible and available. If there are no record sets saved, you will not see this option. 
 
 Select the appropriate record set for the loan.
 
-![image](https://user-images.githubusercontent.com/6713716/176487767-73fe529e-0f5a-4e89-adc0-329a5b6f95de.png)
+![image](https://user-images.githubusercontent.com/8005676/180245988-502ab110-22ab-44e7-adff-c641f4284656.png)
 
 You will now have the option to select the preparations for the loan. Since the query was carried out on Collection Objects, if there are multiple preparations for a single Collection Object you will see all the preparations in this list and will need to select the preparations going on loan. 
 
-![image](https://user-images.githubusercontent.com/6713716/176487850-698d78a4-d3ee-48a0-a7ef-c3a9b926e06e.png)
+![image](https://user-images.githubusercontent.com/8005676/180246085-e37246a5-77d3-4e6e-a8b6-b415cd11f1c8.png)
 
-Click Select all and Apply. 
+Select the appropreate Preparations, or click Select all, then click Apply. 
 
 This will open a Loan record with the preparations attached.
 
-![image](https://user-images.githubusercontent.com/6713716/176487922-cddd500f-af92-46e0-bb13-47f9da297dc2.png)
+![image](https://user-images.githubusercontent.com/8005676/180246283-7d971a5a-5f1f-4a8d-8c49-5d0ea6f67389.png)
 
-Information relating to the loan request can now recorded, including the contents of the loan, any restrictions relating to the use of the specimens being loaned and the duration of the loan.
-
-![image](https://user-images.githubusercontent.com/6713716/176488180-9eb0ba4c-0df1-4e28-b93b-a484c6b7d239.png)
+Information relating to the loan request can now be recorded, including the contents of the loan, any restrictions relating to the use of the specimens being loaned and the duration of the loan.
 
 - **Loan Number:** The Loan Number is allocated when the record is saved so do not enter anything into this field 
 -**Status:** Enter the status of the loan, eg Pending, Shipped 
@@ -73,8 +69,6 @@ Information relating to the loan request can now recorded, including the content
     - Taxonomic descriptors. This would go in contents field in order to be pulled through into the loans letter 
     - Number of specimens – information available elsewhere 
 
-![image](https://user-images.githubusercontent.com/6713716/176488835-a11ef8bd-a752-41b1-9460-9e24ae06f6bc.png)
-
 - **Their Num.:** Enter the other institute’s reference number, if known. 
 - **Loan Agents:** Click on Add to enter the following information if known: 
   - **Herbarium making request:** **Agent** = Herbarium; **Role** = Institution (The IH code can be used to search by using wildcard characters (* or %) before and after it.) 
@@ -89,15 +83,13 @@ Information relating to the loan request can now recorded, including the content
 
 ## Producing a packing list for sending with the Loan
 
-Before Clicking Save, tick **Generate Invoice on Save**
+After Clicking Save, tick **Generate Invoice**
 
-![image](https://user-images.githubusercontent.com/6713716/176490084-8aa47a18-d287-4345-ad2f-3f61fc8f1b11.png)
+![image](https://user-images.githubusercontent.com/8005676/180246613-3f638307-b602-47b1-826f-ee38c0738e24.png)
 
-Click Save. A pop-up window will give you the option of the document to print. Select Loan Packing List v2 and click Ok 
+A pop-up window will give you the option of the document to print. Select Loan Packing List and click Ok 
 
 A pdf document will be created containing a summary list of the specimens being loaned. This can be printed for inclusion with the shipment.
-
-![image](https://user-images.githubusercontent.com/6713716/176490195-192317ff-3aab-4c13-97cb-69320d54c6db.png)
 
 This can also be saved and added to the Loan record as an attachment. When saving the report a range of options is available, including PDF, docx and xlsx. Please use one of the agreed standards that are supported by RBGE.
 
@@ -159,14 +151,23 @@ If you did not select all the specimens to be returned, you should see that ther
 
 ![image](https://user-images.githubusercontent.com/6713716/176491575-1b1f4155-b724-42d2-89e5-b559387db17b.png)
 
+## Recording return of the loaned material - althernative method
+
+The above method works well when a full return has occurred.  if only a partial return is recieved, the below is recommended:
+Perform a query to find the specimens that have been returned.  this can be done by way of the "Loaned Preparations (For Returning) Query: https://herb-rbge.specifycloud.org/specify/query/110/
+Click query, and check that the items are as expected:
+![image](https://user-images.githubusercontent.com/8005676/180250702-6b83c093-ab48-42f6-a32c-4c5ef9d77c2e.png)
+
+then click "Return Loaned Items".  Note, this button will only appear if the query is returning Loan Preparation items (as this one does).  
+![image](https://user-images.githubusercontent.com/8005676/180250881-bbebf9a7-dff2-4b72-ae86-ff6db1a1c04d.png)
+
 ## Closing the loan
 
 When all the specimens have been returned the Loan Record can be closed. Any specimens which will not be returned can be resolved. The Quantify Returned box should be left as 0, and the Quantity Resolved box should have a 1. A note can be included to explain the reason in the Description field for each appropriate specimen.  
 
 - **Date Closed:** Enter the date on which the loan is closed.
 
-![image](https://user-images.githubusercontent.com/6713716/176491711-820f4494-4484-43c7-98af-cbdd64ada4cd.png)
-
+![image](https://user-images.githubusercontent.com/8005676/180251053-12e5212f-965e-47c2-8930-373580b76c68.png)
 
 
 
