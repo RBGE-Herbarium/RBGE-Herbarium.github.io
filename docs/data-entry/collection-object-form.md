@@ -311,7 +311,6 @@ If the specimen is cultivated enter the Accession Number and Cultivated Source. 
 
 - **Accession Number** – enter the full 8 digit Accession Number with the Qualifier if known. There should be no space or punctuation between them. Enter the RBGE accession number and qualifier (8 figure number starting with a year) followed by the qualifier of the individual plant from which this specimen has been made, if it comes from the living collections at E. There should be no space or punctuation between the accession number and qualifier. If the qualifier is not known then just enter the accession number alone. If it has a pre-1968 accession number please contact the Plant Records Officer
 - **Cultivated Source** – enter the name of the donor of the cultivated material if known.
-- **Cultivated** – tick the Cultivated check box if the specimen is cultivated
 - **Cultivated From** – enter the wild collected Collection Object record number (not barcode) if known.
 
 ### Collection Object Attribute
