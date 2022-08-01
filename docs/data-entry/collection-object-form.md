@@ -382,13 +382,13 @@ By default, use the lowest barcode present on the sheet as the storage location,
 
 If there is a chance that the barcode already exists as a Storage Location, search using a wild card (%) in front of the Barcode.
 
-![image](https://user-images.githubusercontent.com/8005676/180241367-ae15af33-4288-4a72-bb1e-6da9ecaedce3.png)
+![image](https://user-images.githubusercontent.com/8155743/182167526-3016fbec-6397-4798-97f8-11f987f55e2d.png)
 
 If there is not an existing storage location record, then create one by clicking on the + symbol to the right of the storage box. This will bring up the Storage subform in a pop-up window.
 
 ![image](https://user-images.githubusercontent.com/8005676/180241510-8037409b-6f29-4db4-bc15-55f3b5c8e3b0.png)
 
-- **Parent** - Enter the appropriate Parent Storage Location - in most cases this will be Herbarium.
+- **Parent** - Enter the appropriate Parent Storage Location - in most cases this will be Sheet.
 
 - **Level** - enter the Level as Sheet.
 
