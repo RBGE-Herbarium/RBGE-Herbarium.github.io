@@ -72,15 +72,4 @@ Workflow:
 
 
 
-**Scenario 3: Specimen created from living material that originated from a collection cultivated outside of RBGE**
-
-eg, Living material collected from Bogor Botanic Garden and cultivated at RBGE and subsequently vouchered in the Herbarium.
-_Wild and first cultivated collection data should be on label_
-
-The accession number and qualifier is entered to create the ability to link the data records so that we can pull the wild collected and previous cultivated data into a label. All previous collection information should be present in Iris.
-
-Workflow:
-
-To be confirmed
-
 
