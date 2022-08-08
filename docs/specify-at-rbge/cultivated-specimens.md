@@ -57,8 +57,7 @@ Workflow:
 
 **Scenario 2: Cultivated specimen (not from RBGE) with previous collecting event information on the label**
 
-eg, Bogor Botanic Garden, private garden (native or introduced)
-_Wild collected data on the label_
+_eg, Bogor Botanic Garden, private garden (native or introduced) Wild collected data on the label_
 
 Create a wild collected Collection Object record, if not already in the database. Then create a cultivated Collection Object record and enter the catalogue number of the Wild Collection Object
 
