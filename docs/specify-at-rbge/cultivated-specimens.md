@@ -11,19 +11,19 @@ Essentially cultivated specimens comprise two or more collecting events which ar
 
 In Specify, the cultivated specimen is created as a Collection Object with the collecting event from the plant growing in cultivation recorded in this record. Depending on the specimen and the data available, the information relating to previous collecting events will be managed as follows.
 
-**1. Cultivated specimen created from RBGE living collection with data in Iris**
+  **1. Cultivated specimen created from RBGE living collection with data in Iris**
 
    The Accession Number and Qualifier is recorded in the cultivated specimen record in Specify to provide the link to the data in Iris. The wild collection data in the record in Iris would not be expected to be updated. The data could be brought together for labels via the html exports.
 
-**2. Cultivated specimen (not from RBGE) with previous collecting event information on the label**
+  **2. Cultivated specimen (not from RBGE) with previous collecting event information on the label**
 
    A separate Collection Object record for this will be created in Specify and the catalogue number should be recorded in the cultivated record. We can use an integer for Their Number if there is a non-RBGE accession number listed (eg http://data.rbge.org.uk/herb/E00632264)
 
-**3. Cultivated specimen (not from RBGE) with limited or no previous collecting event information on label**
+  **3. Cultivated specimen (not from RBGE) with limited or no previous collecting event information on label**
 
    Any information that is available should be entered into the cultivated specimen record in Specify, in the relevant field, eg Description, Habitat, Collecting Event?, Collection Misc.
 
-**4. Cultivated specimen created from RBGE living collection with no data in Iris.**
+  **4. Cultivated specimen created from RBGE living collection with no data in Iris.**
 
    If the Accession Number and Qualifier are available these should be added and no additional Collection Object record will be required since these data will be going into Iris in the coming year. If there is no Accession Number and Qualifier but still some wild collecting event data present, then a separate Collection Object record for this should be created in Specify and the catalogue number should be recorded in the cultivated record. 
 
