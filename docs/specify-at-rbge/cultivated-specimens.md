@@ -27,6 +27,8 @@ In Specify, the cultivated specimen is created as a Collection Object with the c
 
    If the Accession Number and Qualifier are available these should be added and no additional Collection Object record will be required since these data will be going into Iris in the coming year. If there is no Accession Number and Qualifier but still some wild collecting event data present, then a separate Collection Object record for this should be created in Specify and the catalogue number should be recorded in the cultivated record. 
 
+-----------
+
 ## Cultivated specimen scenarios
 
 **Scenario 1: Cultivated specimen created from RBGE living collection with data in Iris**
