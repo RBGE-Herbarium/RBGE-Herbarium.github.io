@@ -1,4 +1,8 @@
+---
+parent: Queries
+---
 
+# Other Queries
 
 [Query: Loans | Specify 7 (specifycloud.org)](https://herb-rbge.specifycloud.org/specify/query/6/)
 
