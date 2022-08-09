@@ -12,6 +12,7 @@ parent: Queries
 ----
 
 [Finding specimens that are physically linked](https://herb-rbge.specifycloud.org/specify/query/91/)
+![image](https://user-images.githubusercontent.com/6713716/183645065-4163e329-8354-4ffd-8855-4cefb06a5d32.png)
 
 ----
 [Searching for keyword](https://herb-rbge.specifycloud.org/specify/query/92/)
