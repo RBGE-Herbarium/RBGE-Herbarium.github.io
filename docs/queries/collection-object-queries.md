@@ -12,9 +12,9 @@ parent: Queries
 
 ----
 
-**[Data request query](https://herb-rbge.specifycloud.org/specify/query/74/)**
+**[Data Request query](https://herb-rbge.specifycloud.org/specify/query/168/)**
 
-  ![image](https://user-images.githubusercontent.com/6713716/183686684-9303650e-9dc0-4c08-8cce-fcc6d20d9262.png)
+  ![image](https://user-images.githubusercontent.com/6713716/183857549-01112352-f281-4fb3-97a0-b8d310070ca7.png)
 
 ----
 
