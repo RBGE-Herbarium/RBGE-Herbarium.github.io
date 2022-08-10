@@ -62,3 +62,13 @@ parent: Queries
 **[Query: Collection Objects search by date or person modified by](https://herb-rbge.specifycloud.org/specify/query/9/)**
 
   ![image](https://user-images.githubusercontent.com/6713716/183646075-cd1f54f0-4da2-477d-9845-93805757eedd.png)
+
+----
+
+**[Query: Collection Objects Storage location for a specific specimen](https://herb-rbge.specifycloud.org/specify/query/74/)**
+
+----
+
+**[Query: Collection Objects Digitisation QA](https://herb-rbge.specifycloud.org/specify/query/166/)**
+
+----
