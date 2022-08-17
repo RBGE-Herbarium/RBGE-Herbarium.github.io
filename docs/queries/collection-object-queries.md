@@ -20,7 +20,7 @@ parent: Queries
 
 **[Data Review query](https://herb-rbge.specifycloud.org/specify/query/184/)**
 
-Created by: Elspeth Haston / Last edited: 17 August 2022
+- Created by: Elspeth Haston / Last edited: 17 August 2022
 
 ![image](https://user-images.githubusercontent.com/6713716/185093501-89331663-1321-45d1-b337-bf6308307ebc.png)
 
