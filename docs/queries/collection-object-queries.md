@@ -67,7 +67,7 @@ parent: Queries
 
 **[Query: Collection Objects Storage location for a specific specimen](https://herb-rbge.specifycloud.org/specify/query/179/)**
 
-![image](https://user-images.githubusercontent.com/6713716/185074516-77a8ead0-70b7-46b6-aa31-65c6964a2ff8.png)
+![image](https://user-images.githubusercontent.com/6713716/185075567-cf10362b-e4d7-42bd-8717-6091ba97510a.png)
 
 ----
 
