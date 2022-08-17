@@ -18,6 +18,12 @@ parent: Queries
 
 ----
 
+**[Data Review query](https://herb-rbge.specifycloud.org/specify/query/184/)**
+
+![image](https://user-images.githubusercontent.com/6713716/185093501-89331663-1321-45d1-b337-bf6308307ebc.png)
+
+----
+
 **[Finding specimens that are physically linked](https://herb-rbge.specifycloud.org/specify/query/91/)**
 
   ![image](https://user-images.githubusercontent.com/6713716/183645065-4163e329-8354-4ffd-8855-4cefb06a5d32.png)
