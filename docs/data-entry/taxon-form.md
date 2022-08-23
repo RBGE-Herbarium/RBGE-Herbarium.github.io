@@ -57,13 +57,13 @@ This will open the Taxon entry screen.
 
   - **Hybrids** - enter the information as below as well as the Hybrid Information fields.
 
-    - **Hybrid formula** should be entered into this field using the standard x key.
+  - **Hybrid formula** should be entered into this field using the standard x key.
 
 ![image](https://user-images.githubusercontent.com/8005676/180253543-3964eaaf-c3fd-4838-8e3e-ade538cf56a0.png)
 
-    - **Nothotaxon/Collective** names should be entered into this field including the x in front of the name.
+  - **Nothotaxon/Collective** names should be entered into this field including the x in front of the name.
     
-    - **Infrageneric hybrid** names should be entered into this field including the + in front of the name.
+  - **Infrageneric hybrid** names should be entered into this field including the + in front of the name.
 
 - **Taxonomic Rank** - enter the rank of the Taxon you are adding e.g. the rank would be **species** for Bellis perennis. The available options are presented in the dropdown list. Currently the default is the next rank below the parent.
 - **Is Accepted** - this is a read only field for the taxonomic status of the name and this is not edited within the Taxon form. The taxonomy of names are managed separately in the Taxon Tree.
