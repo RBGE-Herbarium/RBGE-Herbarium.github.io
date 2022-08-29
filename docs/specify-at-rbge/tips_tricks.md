@@ -12,3 +12,11 @@ when creating a new Taxa, or adding a taxa to a Collection object (e.g. to enter
 To resolve this, change the "serach algorithm" setting:
 Click on your name at the top right. 
 Click Preferences:
+![image](https://user-images.githubusercontent.com/8005676/187171207-91f04d48-5774-498f-bf83-83b76a338f98.png)
+
+Click Forms on the Left.  
+
+Scroll down till you see this:
+![image](https://user-images.githubusercontent.com/8005676/187171438-f9b30775-9386-4f1e-9e0f-40f4508f2287.png)
+Ensure all 3 Search algorithmy boxes are set to "Starts With (Case insensitive)".  
+Click Save (bottom right of screen)
