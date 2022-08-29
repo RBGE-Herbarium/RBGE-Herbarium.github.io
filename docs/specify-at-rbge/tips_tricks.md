@@ -1,5 +1,5 @@
 ---
-parent: Specify at RBGE (when ready)
+parent: Specify at RBGE
 title: Tips and Tricks
 ---
 
