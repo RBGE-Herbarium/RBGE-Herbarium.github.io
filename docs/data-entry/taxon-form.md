@@ -14,13 +14,20 @@ The taxon form can be opened from the Data Entry button on the main menu, from w
 Before creating a new Taxon record, ensure that the name does not already exist.
 
 Start typing the name in the Taxon box to see the drop down list of options
-![image](https://user-images.githubusercontent.com/8005676/180251406-cc13332e-e143-49b6-b510-15c74d872dbe.png)
+
+<p align="right" width="100%">
+    <img width="33%" src="[https://user-images.githubusercontent.com/8005676/180251406-cc13332e-e143-49b6-b510-15c74d872dbe.png]">
+</p>
+
+![img align="right"](https://user-images.githubusercontent.com/8005676/180251406-cc13332e-e143-49b6-b510-15c74d872dbe.png)
 
 Use wildcards (%) to search names more easily
-![image](https://user-images.githubusercontent.com/8005676/180251592-5eedf934-acd3-443c-8cea-977032d107af.png)
+
+- ![image](https://user-images.githubusercontent.com/8005676/180251592-5eedf934-acd3-443c-8cea-977032d107af.png)
 
 Also use wildcards (%) to check spelling variants or uncertainty
-![image](https://user-images.githubusercontent.com/8005676/180251739-f63c7172-d0a1-4d3d-8341-a64622978d0e.png)
+
+- ![image](https://user-images.githubusercontent.com/8005676/180251739-f63c7172-d0a1-4d3d-8341-a64622978d0e.png)
 
 If it does not come up, then there is an option to do an additional search by clicking on the magnifying glass to the right of the Taxon field.
 
