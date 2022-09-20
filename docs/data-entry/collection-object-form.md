@@ -14,11 +14,11 @@ To add a new record click on the **Data Entry** button on the main menu bar:
 
 ![image](https://user-images.githubusercontent.com/8005676/180232974-2bdb0fa8-75a0-4130-99e7-c5f9628d98e3.png)
 
-Select **Agent** from the pop up: 
+Select **Collection Object** from the pop up: 
 
-![image](https://user-images.githubusercontent.com/8005676/180232903-a0f84669-da06-41cd-b0b9-fba373f5908f.png)
+![image](https://user-images.githubusercontent.com/6713716/191250454-56508e0a-c5da-4ac5-a9a6-f543851f7176.png)
 
-This opens the **Agent** entry screen
+This opens the **Collection Object** entry screen
 
 At any point, to save the record click **Save** in the bottom right of the screen. To add another blank record click **Add Another**, or to add another starting with a copy of the current one, click **Clone**.
 
@@ -42,12 +42,15 @@ _Tip: In Specify, this table was called Accessions, but due to possible confusio
 
 To add a preparation to a record click on **+** next to Preparations
 
-![image](https://user-images.githubusercontent.com/8005676/180238308-2a61bc0b-832f-4c9b-81c1-9ed4b75c2738.png)
+![image](https://user-images.githubusercontent.com/6713716/191251001-f9310cb0-a7a9-4aa4-b580-f2ed2e69390f.png)
 
 This expands the Preparation entry form as part of the Collection Object form. For each additional preparation needed click Add. The fields are explained below:
 
 - **Prep Type** - select the kind of material (e.g. Herbarium specimen/sheet, Carpological).
 - **Barcode** - scan the barcode of the specimen or enter the destructive sample item number. Both should be unique.
+
+_Tip: There is a weblink button to the right of the Barcode field which will link to the specimen record on the Herbarium catalogue._
+
 - **Is On Loan** - this is a read-only field. It will be automatically ticked if the preparation is on loan
 - **Label status** – Enter the status of the label information for this record (e.g. Complete, Partial, Minimal, Unknown)
 - **Sheet Number** - enter the number of the sheet in the set if marked on specimen
