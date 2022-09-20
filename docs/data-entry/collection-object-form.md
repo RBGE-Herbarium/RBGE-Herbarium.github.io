@@ -49,7 +49,7 @@ This expands the Preparation entry form as part of the Collection Object form. F
 - **Prep Type** - select the kind of material (e.g. Herbarium specimen/sheet, Carpological).
 - **Barcode** - scan the barcode of the specimen or enter the destructive sample item number. Both should be unique.
 
-_Tip: There is a weblink button to the right of the Barcode field which will link to the specimen record on the Herbarium catalogue._
+  - _Tip: There is a weblink button to the right of the Barcode field which will link to the specimen record on the Herbarium catalogue._
 
 - **Is On Loan** - this is a read-only field. It will be automatically ticked if the preparation is on loan
 - **Label status** – Enter the status of the label information for this record (e.g. Complete, Partial, Minimal, Unknown)
