@@ -25,9 +25,9 @@ At any point, to save the record click **Save** in the bottom right of the scree
 - **Agent Type** - Type of record. Select from:
   - **Person** - an individual, can be a collector, staff member etc.
   - **Group** - this is used for named expeditions, where a number series is shared by those on the trip
-  - **Organisation** - this includes Herbaria and other Institutions
+  - **Organisation** - this includes Herbaria and other Institutions. If you are adding a new Herbarium please contact Robyn to ensure that the herbarium code is added to the Herbarium Code picklist in determinations.
   - **Other** - 
-- **Last Name** - the last name of an individual. For **Groups** and **Organisations** the information should be recorded here
+- **Last Name** - the last name of an individual. For **Groups** and **Organisations** the information should be recorded here. If adding a herbarium, please add the IH code in brackets after the name e.g. Kew (K)
 - **Title** - select the title of an individual from the dropdown. Should only be used for Person records
 - **First Name** - the first name of an individual. Should only be used for **Person** records
 - **Middle Name** - the middle names of an individual. Should only be used for **Person** records
