@@ -113,3 +113,24 @@ click on the parent of the name being created. Then click on the **add Child** o
 ![image](https://user-images.githubusercontent.com/6713716/192742249-1e679caa-8882-4989-be8b-7ad057d84256.png)
 
 This will open the Taxon form and the instructions above can be followed.
+
+## To edit the taxonomic status of a Taxon record in the Taxon Tree.
+
+When a new Taxon is created in Specify, by default it will be created as an Accepted taxon.
+
+To transform it into a synonym, select the taxon to by synonymised.
+Click the Synonimize button in the top right of the Taxon Tree window
+
+![image](https://user-images.githubusercontent.com/6713716/192743285-981c270a-13f9-4876-a22b-655da9a95087.png)
+
+Click on the Accepted name
+
+![image](https://user-images.githubusercontent.com/6713716/192743514-dbfb6d6c-6820-4ca7-a48f-627fac9090ec.png)
+
+Then click on the Make a synonym button (this will provide clear information about what synonymy event is about to be carried out)
+
+![image](https://user-images.githubusercontent.com/6713716/192743604-40e83b2e-b1c9-446f-9d24-8551e442141a.png)
+
+
+
+
