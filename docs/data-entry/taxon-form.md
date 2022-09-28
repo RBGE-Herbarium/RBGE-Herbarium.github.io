@@ -110,6 +110,6 @@ Before creating a new Taxon record, ensure that the name does not already exist 
 
 click on the parent of the name being created. Then click on the **add Child** option at the top Right:
 
-![image](https://user-images.githubusercontent.com/8005676/180253832-68875e19-45b8-4166-bd45-47dbf78e5d08.png)
+![image](https://user-images.githubusercontent.com/6713716/192742249-1e679caa-8882-4989-be8b-7ad057d84256.png)
 
 This will open the Taxon form and the instructions above can be followed.
