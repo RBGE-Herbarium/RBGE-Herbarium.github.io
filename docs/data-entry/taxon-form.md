@@ -15,6 +15,8 @@ Before creating a new Taxon record, ensure that the name does not already exist.
 
 - Start typing the name in the Taxon box to see the drop down list of options
 
+  _Tip: There is currently a limit to the number of taxon names listed in the drop down, so for large genera you will not see all species. In this case, continue to add the beginning of the specific epithet or use wild cards to limit the number of results_
+  
 ![img align="right"](https://user-images.githubusercontent.com/8005676/180251406-cc13332e-e143-49b6-b510-15c74d872dbe.png)
 
   - Use wildcards (%) to search names more easily
