@@ -38,7 +38,7 @@ Before creating a new Taxon record, ensure that the name does not already exist.
 
 - If you are sure that the name is not in the system, then a new taxon name can be created. Click the **+** button to open the Taxon form. Follow the Instructions for entering a new Taxon.
 
-
+----
 
 ## To create a new Taxon record from the Taxon form directly.
 
@@ -106,6 +106,8 @@ This will open the Taxon entry screen.
 
 At any point, to save the record click Save in the bottom right of the screen. The Save and Add Another button saves the record and creates a duplicate - this should not generally be used at present.
 
+----
+
 ## To create a new Taxon record from the Taxon Tree.
 
 Before creating a new Taxon record, ensure that the name does not already exist within the Taxon Tree.
@@ -133,6 +135,7 @@ Then click on the Make a synonym button (this will provide clear information abo
 
 ![image](https://user-images.githubusercontent.com/6713716/192743604-40e83b2e-b1c9-446f-9d24-8551e442141a.png)
 
+----
 
 ## Checking the name online.
 
@@ -178,6 +181,18 @@ Other options
 The World Flora Online - http://www.worldfloraonline.org/ 
 
 Plants of the world online (POWO) - http://www.plantsoftheworldonline.org/  
+
+### Fungi/Lichens
+
+Index fungorum - http://www.indexfungorum.org/
+
+### Bryophytes
+
+Index of Mosses Database (W3MOST) - http://www.mobot.org/mobot/tropicos/most/iom.shtml
+
+### Algae
+
+Algaebase - https://www.algaebase.org/
 
 ## Checking spelling 
 
