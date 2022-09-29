@@ -42,6 +42,10 @@ Before creating a new Taxon record, ensure that the name does not already exist.
 
 ## To create a new Taxon record from the Taxon form directly.
 
+If the name is not in the database then we need to check that the name has been published. 
+
+There are rules governing the creation and publication of new names. In most cases it can be straightforward to find a name and decide about adding it to the database. However, in some cases, it can be a bit more complex and you may want to check. See the section below on Checking names online before entering a new name.
+
 Click on the Data Entry button on the main menu bar and select Taxon from the pop up.
 
 This will open the Taxon entry screen.
@@ -52,18 +56,18 @@ This will open the Taxon entry screen.
 - **Parent of Taxon** - enter the direct parent of the taxon being entered.
   - for a family this would usually be the appropriate order
   - for a genus this would usually be the appropriate family
-  - for a species this would usually be the appropriate genus, e.g. the parent of Bellis perennis would be the genus Bellis
+  - for a species this would usually be the appropriate genus, e.g. the parent of _Bellis perennis_ would be the genus _Bellis_
   - for a subspecies this would usually be the appropriate species
 
-- **Name** - enter the name of the Taxon at the rank you want to add e.g. to add Bellis perennis the name would be perennis. For cultivars and hybrids, please use the following options:
+- **Name** - enter the name of the Taxon at the rank you want to add e.g. to add _Bellis perennis_ the name would be _perennis_. For cultivars and hybrids, please use the following options:
   - **Cultivar** - enter the cultivar name directly into this field without the single quotation marks. Only the cultivar name should be entered into the Taxon field, eg, if the cultivar is of a species, the species would be the parent.
-
+  - 
+  _Tip: Where possible, copy and paste the name from the online resource to reduce typing errors. Ensure that there is no space before or after the name._
+  
   ![image](https://user-images.githubusercontent.com/6713716/174128098-249a8bb9-2093-49f9-b827-533a87f3527a.png)
 
   - **Hybrids** - enter the information as below as well as the Hybrid Information fields.
-
   - **Hybrid formula** should be entered into this field using the standard x key.
-
   - **Nothotaxon/Collective** names should be entered into this field including the x in front of the name.
  
  ![image](https://user-images.githubusercontent.com/8005676/180253543-3964eaaf-c3fd-4838-8e3e-ade538cf56a0.png)
@@ -83,16 +87,13 @@ This will open the Taxon entry screen.
   _Tip: To edit the taxonomy, see the section on the Taxon Tree below._
 
 - **Is Hybrid** - tick this checkbox for all kinds of hybrids, eg hybrid formulae, nothotaxa/collective names, infra generic hybrids, etc.
-
 - **Status** - select the nomenclatural status of the name from the picklist. If the name is considered to be legitimate (and therefore valid), this should be left blank. For invalid, illegitimate, not found names, select the appropriate option, e.g. illegitimate, invalid, nomen nudum, later homonym, not found in literature, manuscript name, etc.
 
-  _Tip: Names should be checked in online nomenclators such as IPNI, TROPICOS, Index Fungorum, MycoBank, Index Muscorum, AlgaeBank, etc._
+  _Tip: The nomenclatural status should be available in online nomenclators such as IPNI, TROPICOS, World Flora Online, Index Fungorum, MycoBank, Index Muscorum, AlgaeBank, etc._
 
 - **Genus Status** - This field was used to bring data across from BG-BASE and will need to be checked, transferred into Status or deleted.
 - **Basionym** - Records that had a basionym recorded in BG-BASE had this name migrated here (15 records). We will be looking to see how we manage this in Specify going forwards.
-
 - **Herbarium Num.** - enter the Herbarium Number for the taxon here as appropriate, eg Family number, Genus number, Species number.
-
 - **Homonym?** - This was used for data being migrated from the BG-BASE Genera table. In future, Later Homonyms should be selected in the Status field.
 
 ### Hybrid Information
