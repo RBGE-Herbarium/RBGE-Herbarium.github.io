@@ -5,7 +5,7 @@ title: Geography and Localities
 
 # Geography and Localities
 
-The geographical information in Specify is managed using a combination of Geography, Locality and Collecting Event information in the Collection Object.
+The geographical information in Specify is managed using a combination of Geography, Locality, Filing Region and Verbatim Locality in the Collection Object.
 
 ## Geography Tree
 
@@ -30,3 +30,16 @@ There are also a number of additional Locality records, each of which is connect
 ![image](https://user-images.githubusercontent.com/6713716/193120259-16e38673-e6f8-4fc3-a012-6c92fa986698.png)
 
 The Locality table is currently fixed. Any localties not included in here should be entered using the Verbatium Locality field in the Collection Object.
+
+## Filing Region
+
+The Filing Region is currently being managed as a drop down list in the Collecting Event section of the Collection Object.
+
+![image](https://user-images.githubusercontent.com/6713716/193121244-63018a0b-4d87-4bac-8009-8596be0623cc.png)
+![image](https://user-images.githubusercontent.com/6713716/193121122-4ac651e8-c2e7-437a-8617-d129c722ac62.png)
+
+## Verbatium locality
+
+The Verbatim locality field is used to record the locality information below the level of the Locality field.
+
+![image](https://user-images.githubusercontent.com/6713716/193122640-afa173cb-fb18-46fc-bf91-06a1e594ca58.png)
