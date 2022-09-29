@@ -19,6 +19,7 @@ Part of the Geography Tree has been customised to include the Vice Counties with
 
 ![image](https://user-images.githubusercontent.com/6713716/193114870-1b2a82dc-08d4-4413-84a8-9e572fee0849.png)
 
+----
 ## Localities
 
 The Locality table is separate to the Geography Tree but is related to it. Each item in the Geography Tree has a corresponding Locality record.
@@ -31,6 +32,7 @@ There are also a number of additional Locality records, each of which is connect
 
 The Locality table is currently fixed. Any localties not included in here should be entered using the Verbatium Locality field in the Collection Object.
 
+----
 ## Filing Region
 
 The Filing Region is currently being managed as a drop down list in the Collecting Event section of the Collection Object.
@@ -38,7 +40,8 @@ The Filing Region is currently being managed as a drop down list in the Collecti
 ![image](https://user-images.githubusercontent.com/6713716/193121244-63018a0b-4d87-4bac-8009-8596be0623cc.png)
 ![image](https://user-images.githubusercontent.com/6713716/193121122-4ac651e8-c2e7-437a-8617-d129c722ac62.png)
 
-## Verbatium locality
+----
+## Verbatim locality
 
 The Verbatim locality field is used to record the locality information below the level of the Locality field.
 
