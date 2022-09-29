@@ -29,4 +29,4 @@ There are also a number of additional Locality records, each of which is connect
 
 ![image](https://user-images.githubusercontent.com/6713716/193120259-16e38673-e6f8-4fc3-a012-6c92fa986698.png)
 
-The Localities table is currently fixed. Any localties not included in here should be entered using the Verbatium Locality field in the Collection Object.
+The Locality table is currently fixed. Any localties not included in here should be entered using the Verbatium Locality field in the Collection Object.
