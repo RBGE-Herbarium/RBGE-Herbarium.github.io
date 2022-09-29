@@ -5,6 +5,7 @@ title: Collection Objects and Preparations
 
 # Collection Objects and Preparations
 
+One of the most important aspects of the data structure in Specify is the concept of a Collection Object and how it relates to Preparations.
 
 ![image](https://user-images.githubusercontent.com/6713716/193096729-67c0a385-c252-4ffd-90fc-a9cb5ded9013.png)
 
