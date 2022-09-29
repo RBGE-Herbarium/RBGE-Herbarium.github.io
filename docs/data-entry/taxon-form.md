@@ -143,13 +143,13 @@ If the specimen is filed as an unknown species OR an unknown genus you will only
 - For an unknown species database the specimen using the Genus record e.g. _Bellis_ sp. would be databased as _Bellis_
 - For an unknown Genus database the specimen using the Family record e.g. Compositae unk. would be databased as Compositae
 
-###Creating name records for label names with Orthography (spelling variants) or unpublished names 
+### Creating name records for label names with Orthography (spelling variants) or unpublished names 
 
 Orthography 
 
 For a spelling variant that differs from accepted spelling on one of the online recommended resources. An orthographic name record should only be created for a genuine variant spelling and not for a typo. If it is not clear which it is, then assume it is a typo and use the correct name record if the incorrect spelling occurs on multiple specimens add the variant to the Taxon record in the remarks field. 
 
-**Creating a record for an orthographic variant **
+**Creating a record for an orthographic variant**
 
 E.g. Tropicos has a record for _Scutellaria caerulea_ Moc. & Sessé ex Benth. which is an orthographic variant of _Scutellaria coerulea_ Moc. & Sessé ex Benth. 
 
