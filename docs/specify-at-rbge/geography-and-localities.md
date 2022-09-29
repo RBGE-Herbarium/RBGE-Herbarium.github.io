@@ -23,10 +23,10 @@ Part of the Geography Tree has been customised to include the Vice Counties with
 
 The Locality table is separate to the Geography Tree but is related to it. Each item in the Geography Tree has a corresponding Locality record.
 
-![image](https://user-images.githubusercontent.com/6713716/193119140-f8ae967c-a7a7-40ed-94e8-2097e8402178.png)
+![image](https://user-images.githubusercontent.com/6713716/193120405-2c622175-e29b-4e44-9e2c-eda650f79aff.png)
 
 There are also a number of additional Locality records, each of which is connected to the Geography Tree. These have been created for the RBGE Garden locations.
 
-![image](https://user-images.githubusercontent.com/6713716/193119341-4bd57161-e057-4e2e-b312-7f3a19df0a49.png)
+![image](https://user-images.githubusercontent.com/6713716/193120259-16e38673-e6f8-4fc3-a012-6c92fa986698.png)
 
 The Localities table is currently fixed. Any localties not included in here should be entered using the Verbatium Locality field in the Collection Object.
