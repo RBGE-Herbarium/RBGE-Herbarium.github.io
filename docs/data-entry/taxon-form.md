@@ -134,5 +134,101 @@ Then click on the Make a synonym button (this will provide clear information abo
 ![image](https://user-images.githubusercontent.com/6713716/192743604-40e83b2e-b1c9-446f-9d24-8551e442141a.png)
 
 
+## Checking the name online.
 
+If the name is not in the database then we need to check that the name has been published. 
 
+There are rules governing the creation and publication of new names. In most cases it can be straightforward to find a name and decide whether to add it to the database. However, in some cases, it can be a bit more complex and you may want to check. 
+
+The main things to check for the name are: 
+
+- Presence (can you find it at all?) 
+- Spelling 
+- Author 
+- Nomenclatural status (valid, legitimate) 
+- Taxonomic status (accepted, synonym) 
+- Hybrid (hybrid formula or nothotaxon/collective name) 
+
+The main resources to use for checking names are listed below: 
+
+### Angiosperms
+
+First option 
+
+IPNI - https://www.ipni.org/ 
+
+This aims to be a complete listing of all vascular plant names that have been published 
+
+- It’s not yet complete, particularly with infraspecific names 
+- It provides nomenclatural information (ie, whether a name is legitimate and/or valid) 
+- It also provides type information for an increasing number of names 
+- It also provides a link to the protologue (where the name was originally published) for an increasing number of names 
+
+Second option (if you can’t find the name in IPNI or are uncertain about information there) 
+
+Tropicos - www.tropicos.org 
+
+- This is stronger on infraspecific names and names in the Americas 
+- It has more type information 
+- It also provides a link to the protologue 
+- It also includes taxonomic information which is less relevant for this project 
+
+Other options 
+
+The World Flora Online - http://www.worldfloraonline.org/ 
+
+Plants of the world online (POWO) - http://www.plantsoftheworldonline.org/  
+
+## Checking spelling 
+
+Similar to the search done in Specify, it makes sense to use a less specific search in these resources to be more likely to find the name in the case of names that have been misspelt or that are difficult to read. 
+
+- Use wildcards, usually an asterisk, to make the search less specific.
+- Consider searching for the genus only and looking down the resulting list of species in the genus. 
+- Some names have been spelled differently in the literature (not just on labels). These are considered as orthographic (spelling) variants and should have separate name records. 
+
+## Checking author	 
+
+There are a number of names that are identical but where the author may be different. These are not treated as the same name. 
+
+Sometimes, it can be difficult to be sure about these because the author may appear to be different if it’s abbreviated in one version or one of the pieces of the authorship may be missing in one. For example, the parenthetical author (the author in brackets) may be missing in IPNI. 
+
+## Checking status 
+
+The status of the name may be nomenclatural or taxonomic. 
+
+Nomenclatural status is about whether the name is allowed to be used (legitimate, valid) 
+
+Taxonomic is about whether people have decided to use it (accepted, synonym) 
+
+In Specify, the status of the name in the Taxon table will be the nomenclatural status.  
+
+The Taxonomic status of a name is managed through the Taxon tree.  
+
+## Checking hybrids 
+
+If a name is a hybrid name then it can be either: 
+
+Hybrid formula (eg, Magnolia denudata × liliiflora) 
+
+Nothotaxon or collective name (eg, Magnolia × soulangeana) 
+
+- Note the use of the symbol × instead of the letter x 
+- In the online resources you will often see the name with the hybrid × sign missing. Please treat these as the same name (there is often disagreement whether a species is a hybrid or not) 
+
+See the section on entering hybrid names for more information 
+
+## Results of the name checking 
+
+If you find the name and it appears to have been published and is both legitimate and valid and is not already in Specify then a new record can be created. 
+- If the name is being used as the Filed As determination, then they are generally considered to be Accepted. As names are added they are all considered to be Accepted. It is possible to use a name that is not accepted as a Filed As determination. 
+- If there appears to be a spelling mistake and you are confident that they are the same name, then use the correct version of the name for the name record. The misspelt version can be included in remarks in the name record. 
+- If the alternative spelling has been used in the literature and can be considered as an orthographic variant, then this can be created as a separate name record, and linked to the correctly spelled version of the name (see the section on linking names for how to do this). 
+
+If you find the name and it is not accepted for a nomenclatural reason (e.g. it is invalid or illegitimate then the appropriate status value should be used, see the Appendix for more information), but the name should still be used as the filing name. 
+
+If you find the name and it does not appear to have been published, then we can still use it but it can be recorded as a Manuscript name. The specimen may have MSS after the name on the label. 
+
+If you don’t find the name in the resources, then again we can still use it but we need to record it as Not found in literature. Include the specimen as a data source. In remarks add the following text ‘Name only found on specimen [barcode]’. 
+
+Follow the instructions above for adding the name to Specify. 
