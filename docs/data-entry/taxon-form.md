@@ -59,16 +59,40 @@ This will open the Taxon entry screen.
   - for a species this would usually be the appropriate genus, e.g. the parent of _Bellis perennis_ would be the genus _Bellis_
   - for a subspecies this would usually be the appropriate species
 
-- **Name** - enter the name of the Taxon at the rank you want to add e.g. to add _Bellis perennis_ the name would be _perennis_. For cultivars and hybrids, please use the following options:
+- **Name** - enter the name of the Taxon at the rank you want to add e.g. to add _Bellis perennis_ the name would be _perennis_. For cultivars and hybrids, please see additional below.
+
+_Tip: Where possible, copy and paste the name from the online resource to reduce typing errors. Ensure that there is no space before or after the name._
+
   - **Cultivar** - enter the cultivar name directly into this field without the single quotation marks. Only the cultivar name should be entered into the Taxon field, eg, if the cultivar is of a species, the species would be the parent.
-  - 
-  _Tip: Where possible, copy and paste the name from the online resource to reduce typing errors. Ensure that there is no space before or after the name._
-  
+  - It is not uncommon for the specific epithet to be dropped. This is because the wild ancestry of the plant is not always known. 
+  - The name will be the cultivar name which should be capitalised, e.g. Midwinter 
+  - Select Cultivar from the taxonomic rank dropdown 
+  - Do not include the single quotes, these will be added automatically
+
+    _Tip: RHS plant finder can be used to check cultivar names: https://www.rhs.org.uk/plants_
+
   ![image](https://user-images.githubusercontent.com/6713716/174128098-249a8bb9-2093-49f9-b827-533a87f3527a.png)
 
-  - **Hybrids** - enter the information as below as well as the Hybrid Information fields.
-  - **Hybrid formula** should be entered into this field using the standard x key.
-  - **Nothotaxon/Collective** names should be entered into this field including the x in front of the name.
+- **Hybrids** - enter the information as below as well as the Hybrid Information fields.
+- **Hybrid formula** should be entered into this field using the standard x key.
+  - The Parent would be the lowest rank of the name that is already in the system e.g. Streptocarpus 
+  - The name would be the first parent x second parent e.g. confusus × polyanthus 
+  - The taxonomic rank would be the level at which the name should sit e.g. Streptocarpus confusus × polyanthus would be a species 
+  - In most cases, the authors should be left blank since it is not easy to record the authors of both epithets in Specify. 
+  - Tick the Is Hybrid check box to indicate that this name is a hybrid.
+  - Add these names into the Hybrid Parent 1 and 2 fields (see below) to record the authors.
+ 
+ ![image](https://user-images.githubusercontent.com/6713716/193086203-e05cb132-5bbc-48b6-977f-037c0ebe4bae.png)
+
+- **Nothotaxon/Collective** names should be entered into this field including the x in front of the name.
+  - The Parent would be the lowest rank of the name that is already in the system e.g. Salix 
+  - The name would be the collective name e.g. Salix x ambigua 
+  - The taxonomic rank would be the level at which the name should sit e.g. Salix x amibigua would be a species 
+  - Enter the author as it is given in the online resource
+  - Tick the Is Hybrid check box to indicate that this name is a hybrid
+  - Add the parents into the Hybrid Parent 1 and 2 fields (see below) if known
+ 
+ ![image](https://user-images.githubusercontent.com/6713716/193085724-781101d2-8236-4e6d-82ba-3f192dcff1bd.png)
  
  ![image](https://user-images.githubusercontent.com/8005676/180253543-3964eaaf-c3fd-4838-8e3e-ade538cf56a0.png)
   
@@ -76,7 +100,13 @@ This will open the Taxon entry screen.
 
 - **Taxonomic Rank** - enter the rank of the Taxon you are adding e.g. the rank would be **species** for Bellis perennis. The available options are presented in the dropdown list. Currently the default is the next rank below the parent.
 - **Is Accepted** - this is a read only field for the taxonomic status of the name and this is not edited within the Taxon form. The taxonomy of names are managed separately in the Taxon Tree.
-- **Author** - enter the author of the Taxon. Use the standard form and check in IPNI if unsure.
+- **Author** - enter the author of the Taxon. Enter the Author of the name as it was found in the online resource. Copy and paste the author from online resource. Please ensure to copy this across exactly with any full stops at the end of the author name as they are often abbreviated to a standard form that is internationally recognised.
+  - There should not be any spaces between initials and the last name. 
+  - There should be a space between the second bracket and the author name after the brackets 
+  - If there are any accents or other diacritical in the name, copying and pasting should ensure that they are maintained in the record. 
+  - If you see the same name in two resources, but one resource has additional authors in the name, either in brackets (parenthetical authors), or prefixed by ex or in, please include these in the Author field. Ask if unsure. 
+  - If you see the same name in two resources but the author abbreviation is different, please use the abbreviation in IPNI if possible. Ask if unsure. 
+ 
 - **LSID** - enter the Life Sciences Identifier (LSID) or equivalent for other taxonomic groups in here. Example of an LSID from IPNI below.
   ![image](https://user-images.githubusercontent.com/6713716/174129301-47a82242-b7af-4de1-919e-0c7e266b791e.png)
 
@@ -106,6 +136,38 @@ This will open the Taxon entry screen.
 - **Parentage** - This information has been migrated from BG-BASE and will gradually be cleaned and transferred to the parent fields above.
 
 At any point, to save the record click Save in the bottom right of the screen. The Save and Add Another button saves the record and creates a duplicate - this should not generally be used at present.
+
+### Creating a name record for an unknown species 
+
+If the specimen is filed as an unknown species OR an unknown genus you will only need to create a new taxon record if the genus or family isn’t already in the system. 
+- For an unknown species database the specimen using the Genus record e.g. _Bellis_ sp. would be databased as _Bellis_
+- For an unknown Genus database the specimen using the Family record e.g. Compositae unk. would be databased as Compositae
+
+###Creating name records for label names with Orthography (spelling variants) or unpublished names 
+
+Orthography 
+
+For a spelling variant that differs from accepted spelling on one of the online recommended resources. An orthographic name record should only be created for a genuine variant spelling and not for a typo. If it is not clear which it is, then assume it is a typo and use the correct name record if the incorrect spelling occurs on multiple specimens add the variant to the Taxon record in the remarks field. 
+
+**Creating a record for an orthographic variant **
+
+E.g. Tropicos has a record for _Scutellaria caerulea_ Moc. & Sessé ex Benth. which is an orthographic variant of _Scutellaria coerulea_ Moc. & Sessé ex Benth. 
+
+Open a new Taxon record and create the name as outlined in the ‘Creating a new Taxon record’ section.  
+- For Status select ‘Orthographic Variant’ 
+
+![image](https://user-images.githubusercontent.com/6713716/193086789-b4335363-d099-4945-b555-c69091c19268.png)
+
+
+**Unpublished names and Names not found **
+
+Create a new Taxon record as outlined above 
+
+For a name that is found but does not appear to have been published, eg the IPNI record states that it is a Manuscript name, or the name on the label has MS, or MSS after it, select Manuscript Name from the status dropdown.
+- Enter the author if present, otherwise leave blank.
+
+For a name that is not found, enter select Not Found in Literature from the status dropdown and add the following text "Name only found on specimen [barcode]" in the Remarks field.
+- Enter the author if present, otherwise leave blank.
 
 ----
 
