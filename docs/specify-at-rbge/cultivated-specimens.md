@@ -5,6 +5,18 @@ title: Cultivated Specimens
 
 # Managing cultivated specimen data
 
+{: .no_toc }
+
+  {: .no_toc .text-delta }
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 ## Overview of cultivated specimens
 
 Essentially cultivated specimens comprise two or more collecting events which are related. The primary collecting event in terms of citations and location of the specimen is the most recent event from the plant growing in cultivation. Previous collecting events may or may not be recorded.
