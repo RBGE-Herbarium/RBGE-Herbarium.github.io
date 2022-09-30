@@ -1,1 +1,3 @@
 remote_theme: just-the-docs/just-the-docs
+# Enable or disable heading anchors
+heading_anchors: true
