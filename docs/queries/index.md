@@ -6,6 +6,14 @@ title: Queries
 # Queries
 
 ---
+
+[The query builder](#the-query-builder)
+- [Field Mapper](field-mapper)
+- [Operator](operator)
+- [Negate](negate)
+- [OR search term](or-search-term)
+- [Sorting and Organising tools](sorting-and-organising-tools)
+
 To start using queries click on Queries in the top bar:
 
 ![image](https://user-images.githubusercontent.com/8155743/193250392-dd0c666e-bd0e-4008-86df-abdcb4a6b1e0.png)
