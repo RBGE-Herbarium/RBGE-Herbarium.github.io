@@ -1,7 +1,7 @@
 parent
 Query 
 
-[The query builder](#the-query-builder)
+# The Query Builder
 - [Field Mapper](field-mapper)
 - [Operator](operator)
 - [Negate](negate)
