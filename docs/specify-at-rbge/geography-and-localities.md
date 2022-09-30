@@ -5,6 +5,18 @@ title: Geography and Localities
 
 # Geography and Localities
 
+{: .no_toc }
+
+  {: .no_toc .text-delta }
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 The geographical information in Specify is managed using a combination of Geography, Locality, Filing Region and Verbatim Locality in the Collection Object.
 
 ## Geography Tree
