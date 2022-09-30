@@ -9,6 +9,12 @@ Query
 - [Negate](negate)
 - [OR search term](or-search-term)
 - [Sorting and Organising tools](sorting-and-organising-tools)
+- [Modifying the query’s results](modifying-the-query’s-results)
+- [Running the query](running-the-query)
+
+Query results section
+- [Saving and Editing Queries](saving-and-editing-queries)
+- [Viewing Query results](viewing-query-results)
 
 To start using queries click on Queries in the top bar:
 
