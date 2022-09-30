@@ -4,6 +4,18 @@ parent: Data Entry
 
 # Destructive Sampling Form
 
+{: .no_toc }
+
+  {: .no_toc .text-delta }
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 This workflow will take you through recording a basic destructive sampling request where the sampling will be undertaken in-house. The workflow will involve the following basic steps:
 
 1.	Create the Destructive Sampling Request record 
