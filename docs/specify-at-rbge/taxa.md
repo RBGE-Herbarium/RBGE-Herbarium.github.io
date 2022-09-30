@@ -2,6 +2,7 @@
 parent: Specify at RBGE (when ready)
 title: Taxa
 ---
+# Taxa
 {: .no_toc }
 
   {: .no_toc .text-delta }
@@ -14,4 +15,4 @@ title: Taxa
 {:toc}
 </details>
 
-# Taxa
+
