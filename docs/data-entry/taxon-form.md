@@ -4,6 +4,18 @@ parent: Data Entry
 
 # Taxon Form
 
+{: .no_toc }
+
+  {: .no_toc .text-delta }
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 Creating a record in the Taxon Form essentially creates the name as a nomenclatural element and does not include any taxonomic status for the name. Creating relationships between names with synonymy where you are building a taxonomic structure is done in the Taxon Tree.
 
 The taxon form can be opened from the Data Entry button on the main menu, from within the Collection Object form and from within the Taxon tree. The two most common routes will be from within the Collection Object form and from the Taxon tree so these are covered below.
