@@ -2,6 +2,8 @@ parent
 Query 
 
 # The Query Builder
+
+[Understanding the query tool interface](understanding-the-query-tool-interface)
 - [Field Mapper](field-mapper)
 - [Operator](operator)
 - [Negate](negate)
