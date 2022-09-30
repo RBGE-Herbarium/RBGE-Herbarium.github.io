@@ -1,5 +1,6 @@
-parent
-Query 
+---
+parent: Queries
+---
 
 # The Query Builder
 
