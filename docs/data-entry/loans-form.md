@@ -4,6 +4,18 @@ parent: Data Entry
 
 # Loans Form
 
+{: .no_toc }
+
+  {: .no_toc .text-delta }
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 In Specify, an outgoing loan is treated as a Loan interaction. 
 
 
