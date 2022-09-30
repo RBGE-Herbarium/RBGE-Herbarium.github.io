@@ -1,5 +1,5 @@
 parent
-Query
+Query 
 
 [The query builder](#the-query-builder)
 - [Field Mapper](field-mapper)
