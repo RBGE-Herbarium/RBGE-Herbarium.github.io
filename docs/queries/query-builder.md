@@ -93,11 +93,11 @@ Count ![image](https://user-images.githubusercontent.com/8155743/193251792-dbda9
 To run the query, click the ![image](https://user-images.githubusercontent.com/8155743/193251825-793413d7-46db-4f1e-9c4c-628566a50b3a.png)
  button. The page will jump down and may take a few minutes to load, depending on the nature of the query.
    
-### Query results section
+## Query results section
 
 The main body of this section will be the results from your query, they will be displayed based on the sort settings you may have applied in the query builder. 
 
-#### Saving and Editing Queries
+### Saving and Editing Queries
 
 At the top of this view are three buttons:
 
@@ -110,7 +110,7 @@ At the top of this view are three buttons:
  ![image](https://user-images.githubusercontent.com/8155743/193252072-e74b8afe-55ee-4d90-a3ab-68db2217a919.png)
  allows you to save changes to a previously saved query, whilst keeping the original.
  
-#### Viewing Query results
+### Viewing Query results
 
 There are several ways in which the results of the query can be worked with.
 
