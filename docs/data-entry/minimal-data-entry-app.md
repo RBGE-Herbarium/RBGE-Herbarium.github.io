@@ -4,6 +4,18 @@ parent: Data Entry
 
 # Minimal Data Entry App
 
+{: .no_toc }
+
+  {: .no_toc .text-delta }
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 Go to the **[Specify tools site](http://herbmgt.rbge.org.uk/specify_tasks/public/index.php/login)** in a web browser: 
 
 Log in with your **Specify username and password**. 
