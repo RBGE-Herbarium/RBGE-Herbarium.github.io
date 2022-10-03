@@ -1,5 +1,6 @@
-parent
-Queries
+---
+parent: Queries
+---
 
 ## Working with Saved queries
 
