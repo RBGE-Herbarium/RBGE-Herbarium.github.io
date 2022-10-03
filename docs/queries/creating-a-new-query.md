@@ -2,6 +2,8 @@
 parent: Queries
 ---
 
+## Creating a New Query
+
 To create a new query click on the Queries button in the top bar
 
 ![image](https://user-images.githubusercontent.com/8155743/193580047-aa1d1891-be2d-43ed-81dd-35f5615152f8.png)
