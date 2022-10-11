@@ -234,6 +234,7 @@ If you are not sure whether collectors should be entered as an expedition or as 
 - Search for the expedition name first
 - Search for the primary collector and check the drop-down list for records which look like groups collecting as an expedition
 - Click on the edit symbol to look more closely at any agent record (but remember that any changes made to the record will affect all records in the database attached to that agent!)
+- Until we deduplicate the Agent names, please use the version that has the most complete name. This may have a collector code in the summary, eg Forrest, George; FOR
 
 If the name you are looking for is not in the list, then check by clicking on the magnifying glass to search more thoroughly. If you still don’t see the record then you will need to add a new Agent (see Adding a New Agent)
 
