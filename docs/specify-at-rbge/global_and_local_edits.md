@@ -41,9 +41,11 @@ In the example of the Collection Object form, some of the subforms here are seen
 ![image](https://user-images.githubusercontent.com/6713716/195291514-ef229875-aa2a-48f4-bca0-9312547bc384.png) 
 
 A determination can be deleted from subform within the Collection Object and it will only really impact this Collection Object record - it's essentially a local edit.
+
 ![image](https://user-images.githubusercontent.com/6713716/195292783-c397eb6e-94cf-4e9b-9cc8-fe051c571c99.png)
 
 Similarly, an entire Collection Object can be deleted as a local edit.
+
 ![image](https://user-images.githubusercontent.com/6713716/195293061-2b59dc4a-315d-471a-b8cc-12de81e6d9ef.png)
 
 ## Global Edits
