@@ -23,11 +23,15 @@ To know whether a change you are making is acting at a local or global level, it
 
 There are five field types in Specify
 
-> Plain Text
-> Picklist
-> Date Format and Date Field
-> Checkboxes (often automated in the background)​
-> Query combo box (to be handled with caution!)
+> **Plain Text**
+
+> **Picklist**
+
+> **Date Format and Date Field**
+
+> **Checkboxes** (often automated in the background)
+
+> **Query combo box** (to be handled with caution!)
 
 
 ## Local Edits
