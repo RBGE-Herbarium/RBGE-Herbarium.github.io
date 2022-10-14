@@ -1,6 +1,6 @@
 ---
 parent: Specify at RBGE
-title: Collection Objects and Preparations
+title: Global and local edits
 ---
 
 # Global and local edits
@@ -50,8 +50,23 @@ Similarly, an entire Collection Object can be deleted as a local edit.
 
 ## Global Edits
 
-Some changes, however, may impact more than a local record. These are changes that are made to data that a large number of other records are attached to. A good example of this is the storage location in the Collection Object form.
+Some changes, however, may impact more than a local record. These are changes that are made to data that a large number of other records are attached to. These changes can be made in a form or subform, often when in a Query Combo box.
 
+When entering or editing data in a Query Combo box, search and replace a pre-existing value with another one.
+
+> ** Do not edit the value in a Query Combo box.**
+
+A good example of this is the storage location in the Collection Object form. The storage location is used to record where in the building the specimen is stored (_as well as storing the specimen on which physically linked specimens are stored_). In this case, a large number of specimens are explicitly recorded as being stored in the Main Herbarium.
+
+![image](https://user-images.githubusercontent.com/6713716/195838174-f958f575-3f8e-4a23-8b01-d4e4d605ade3.png)
+
+If the correct storage location for this specimen is the Long Store and the Storage Location is edited to reflect this, rather than selecting the correct pre-existing value, the edit will apply to all the specimens currently stored under the Main Herbarium.
+
+![image](https://user-images.githubusercontent.com/6713716/195838326-fe517403-1d14-43ad-80ab-f908b04513b4.png)
+
+The main fields to watch out for in the Collection Object form are shown below.
+
+![image](https://user-images.githubusercontent.com/6713716/195839721-c7ecb188-59ec-4647-86f7-4400ff7180cc.png)
 
 
 
