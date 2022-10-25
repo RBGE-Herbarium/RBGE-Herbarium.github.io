@@ -187,7 +187,9 @@ For a name that is not found, enter select Not Found in Literature from the stat
 
 ## To create a new Taxon record from the Taxon Tree.
 
-Before creating a new Taxon record, ensure that the name does not already exist within the Taxon Tree.
+Before creating a new Taxon record, ensure that the name does not already exist within the Taxon Tree. You cannot currently search for a binomial in the tree search.
+
+![image](https://user-images.githubusercontent.com/6713716/197758149-6e54ab4b-3aae-4f98-b8ba-658c314db17f.png)
 
 click on the parent of the name being created. Then click on the **add Child** option at the top Right:
 
@@ -214,6 +216,8 @@ Click on the Accepted name
 Then click on the Make a synonym button (this will provide clear information about what synonymy event is about to be carried out)
 
 ![image](https://user-images.githubusercontent.com/6713716/192743604-40e83b2e-b1c9-446f-9d24-8551e442141a.png)
+
+The synonymised name will now appear in red in the tree and the preferred name will appear when hovering over. In the taxon record, the Accepted Taxon will be automatically updated.
 
 ----
 
@@ -262,6 +266,8 @@ The World Flora Online - [http://www.worldfloraonline.org/](http://www.worldflor
 
 Plants of the world online (POWO) - [http://www.plantsoftheworldonline.org/](http://www.plantsoftheworldonline.org/)
 
+Royal Horticultural Society (RHS) - [https://www.rhs.org.uk/plants/search-form](https://www.rhs.org.uk/plants/search-form)
+
 ### Fungi/Lichens
 
 Index fungorum - [http://www.indexfungorum.org/](http://www.indexfungorum.org/)
@@ -304,9 +310,9 @@ The Taxonomic status of a name is managed through the Taxon tree.
 
 If a name is a hybrid name then it can be either: 
 
-Hybrid formula (eg, Magnolia denudata × liliiflora) 
+Hybrid formula (eg, _Magnolia denudata_ × _liliiflora_) 
 
-Nothotaxon or collective name (eg, Magnolia × soulangeana) 
+Nothotaxon or collective name (eg, _Magnolia_ × _soulangeana_) 
 
 - Note the use of the symbol × instead of the letter x 
 - In the online resources you will often see the name with the hybrid × sign missing. Please treat these as the same name (there is often disagreement whether a species is a hybrid or not) 
