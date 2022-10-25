@@ -81,36 +81,38 @@ _Tip: Where possible, copy and paste the name from the online resource to reduce
   - Select Cultivar from the taxonomic rank dropdown 
   - Do not include the single quotes, these will be added automatically
 
-    _Tip: RHS plant finder can be used to check cultivar names: https://www.rhs.org.uk/plants_
+    _Tip: RHS plant finder can be used to check cultivar names: [https://www.rhs.org.uk/plants](https://www.rhs.org.uk/plants)_
 
   ![image](https://user-images.githubusercontent.com/6713716/174128098-249a8bb9-2093-49f9-b827-533a87f3527a.png)
 
-- **Hybrids** - enter the information as below as well as the Hybrid Information fields.
-- **Hybrid formula** should be entered into this field using the standard x key.
-  - The Parent would be the lowest rank of the name that is already in the system e.g. Streptocarpus 
-  - The name would be the first parent x second parent e.g. confusus × polyanthus 
-  - The taxonomic rank would be the level at which the name should sit e.g. Streptocarpus confusus × polyanthus would be a species 
-  - In most cases, the authors should be left blank since it is not easy to record the authors of both epithets in Specify. 
-  - Tick the Is Hybrid check box to indicate that this name is a hybrid.
-  - Add these names into the Hybrid Parent 1 and 2 fields (see below) to record the authors.
+  - **Hybrids** - enter the information as below as well as the Hybrid Information fields.
+  - **Hybrid formula** should be entered into this field using the standard x key.
+    - The Parent would be the lowest rank of the name that is already in the system e.g. _Streptocarpus_ 
+    - The name would be the first parent x second parent e.g. _confusus_ × _polyanthus_ 
+    - The taxonomic rank would be the level at which the name should sit e.g. _Streptocarpus confusus_ × _polyanthus_ would be a species 
+    - In most cases, the authors should be left blank since it is not easy to record the authors of both epithets in Specify. 
+    - Tick the Is Hybrid check box to indicate that this name is a hybrid.
+    - Add these names into the Hybrid Parent 1 and 2 fields (see below) to record the authors.
  
  ![image](https://user-images.githubusercontent.com/6713716/193086203-e05cb132-5bbc-48b6-977f-037c0ebe4bae.png)
 
-- **Nothotaxon/Collective** names should be entered into this field including the x in front of the name.
-  - The Parent would be the lowest rank of the name that is already in the system e.g. Salix 
-  - The name would be the collective name e.g. Salix x ambigua 
-  - The taxonomic rank would be the level at which the name should sit e.g. Salix x amibigua would be a species 
-  - Enter the author as it is given in the online resource
-  - Tick the Is Hybrid check box to indicate that this name is a hybrid
-  - Add the parents into the Hybrid Parent 1 and 2 fields (see below) if known
+  - **Nothotaxon/Collective names** should be entered into this field including the x in front of the name.
+    - The Parent would be the lowest rank of the name that is already in the system e.g. Salix 
+    - The name would be the collective name e.g. _Salix_ x _ambigua_ 
+    - The taxonomic rank would be the level at which the name should sit e.g. _Salix_ x _amibigua_ would be a species 
+    - Enter the author as it is given in the online resource
+    - Tick the Is Hybrid check box to indicate that this name is a hybrid
+    - Add the parents into the Hybrid Parent 1 and 2 fields (see below) if known
  
  ![image](https://user-images.githubusercontent.com/6713716/193085724-781101d2-8236-4e6d-82ba-3f192dcff1bd.png)
  
  ![image](https://user-images.githubusercontent.com/8005676/180253543-3964eaaf-c3fd-4838-8e3e-ade538cf56a0.png)
   
-  - **Infrageneric hybrid** names should be entered into this field including the + in front of the name.
+  - **Intergeneric hybrid names** should be entered into this field including the x placed before the name of an intergeneric hybrid. An intervening space is optional. e.g.: _Sorbaronia_ or x _Sorbaronia_ is the name of hybrids between the genera Sorbus and Aronia.
 
-- **Taxonomic Rank** - enter the rank of the Taxon you are adding e.g. the rank would be **species** for Bellis perennis. The available options are presented in the dropdown list. Currently the default is the next rank below the parent.
+  - **Graft chimaera names** should be entered into this field including a + sign in front of the name.
+
+- **Taxonomic Rank** - enter the rank of the Taxon you are adding e.g. the rank would be **species** for _Bellis perennis_. The available options are presented in the dropdown list. Currently the default is the next rank below the parent.
 - **Is Accepted** - this is a read only field for the taxonomic status of the name and this is not edited within the Taxon form. The taxonomy of names are managed separately in the Taxon Tree.
 - **Author** - enter the author of the Taxon. Enter the Author of the name as it was found in the online resource. Copy and paste the author from online resource. Please ensure to copy this across exactly with any full stops at the end of the author name as they are often abbreviated to a standard form that is internationally recognised.
   - There should not be any spaces between initials and the last name. 
@@ -171,7 +173,7 @@ Open a new Taxon record and create the name as outlined in the ‘Creating a new
 ![image](https://user-images.githubusercontent.com/6713716/193086789-b4335363-d099-4945-b555-c69091c19268.png)
 
 
-**Unpublished names and Names not found **
+**Unpublished names and Names not found**
 
 Create a new Taxon record as outlined above 
 
