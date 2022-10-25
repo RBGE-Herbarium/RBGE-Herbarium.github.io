@@ -191,7 +191,7 @@ Before creating a new Taxon record, ensure that the name does not already exist 
 
 click on the parent of the name being created. Then click on the **add Child** option at the top Right:
 
-![image](https://user-images.githubusercontent.com/6713716/192742249-1e679caa-8882-4989-be8b-7ad057d84256.png)
+![image](https://user-images.githubusercontent.com/6713716/197754042-78dc65e3-961a-4b7e-a280-3ee09251351f.png)
 
 This will open the Taxon form and the instructions above can be followed.
 
@@ -199,14 +199,17 @@ This will open the Taxon form and the instructions above can be followed.
 
 When a new Taxon is created in Specify, by default it will be created as an Accepted taxon.
 
-To transform it into a synonym, select the taxon to by synonymised.
+To transform it into a synonym, select the taxon to be synonymised.
+
+![image](https://user-images.githubusercontent.com/6713716/197754898-2d81c882-504c-404b-9fec-0817dbea40c5.png)
+
 Click the Synonimize button in the top right of the Taxon Tree window
 
 ![image](https://user-images.githubusercontent.com/6713716/192743285-981c270a-13f9-4876-a22b-655da9a95087.png)
 
 Click on the Accepted name
 
-![image](https://user-images.githubusercontent.com/6713716/192743514-dbfb6d6c-6820-4ca7-a48f-627fac9090ec.png)
+![image](https://user-images.githubusercontent.com/6713716/197754387-30a5b9f9-e5e7-4e8a-b4f1-48704a2d8977.png)
 
 Then click on the Make a synonym button (this will provide clear information about what synonymy event is about to be carried out)
 
@@ -235,7 +238,7 @@ The main resources to use for checking names are listed below:
 
 First option 
 
-IPNI - https://www.ipni.org/ 
+IPNI - [https://www.ipni.org/](https://www.ipni.org/)
 
 This aims to be a complete listing of all vascular plant names that have been published 
 
@@ -246,7 +249,7 @@ This aims to be a complete listing of all vascular plant names that have been pu
 
 Second option (if you can’t find the name in IPNI or are uncertain about information there) 
 
-Tropicos - www.tropicos.org 
+Tropicos - [www.tropicos.org](www.tropicos.org)
 
 - This is stronger on infraspecific names and names in the Americas 
 - It has more type information 
@@ -255,21 +258,21 @@ Tropicos - www.tropicos.org
 
 Other options 
 
-The World Flora Online - http://www.worldfloraonline.org/ 
+The World Flora Online - [http://www.worldfloraonline.org/](http://www.worldfloraonline.org/)
 
-Plants of the world online (POWO) - http://www.plantsoftheworldonline.org/  
+Plants of the world online (POWO) - [http://www.plantsoftheworldonline.org/](http://www.plantsoftheworldonline.org/)
 
 ### Fungi/Lichens
 
-Index fungorum - http://www.indexfungorum.org/
+Index fungorum - [http://www.indexfungorum.org/](http://www.indexfungorum.org/)
 
 ### Bryophytes
 
-Index of Mosses Database (W3MOST) - http://www.mobot.org/mobot/tropicos/most/iom.shtml
+Index of Mosses Database (W3MOST) - [http://www.mobot.org/mobot/tropicos/most/iom.shtml](http://www.mobot.org/mobot/tropicos/most/iom.shtml)
 
 ### Algae
 
-Algaebase - https://www.algaebase.org/
+Algaebase - [https://www.algaebase.org/](https://www.algaebase.org/)
 
 ## Checking spelling 
 
@@ -279,21 +282,21 @@ Similar to the search done in Specify, it makes sense to use a less specific sea
 - Consider searching for the genus only and looking down the resulting list of species in the genus. 
 - Some names have been spelled differently in the literature (not just on labels). These are considered as orthographic (spelling) variants and should have separate name records. 
 
-## Checking author	 
+## Checking author
 
 There are a number of names that are identical but where the author may be different. These are not treated as the same name. 
 
-Sometimes, it can be difficult to be sure about these because the author may appear to be different if it’s abbreviated in one version or one of the pieces of the authorship may be missing in one. For example, the parenthetical author (the author in brackets) may be missing in IPNI. 
+Sometimes, it can be difficult to be sure about these because the author may appear to be different if it’s abbreviated in one version or one of the pieces of the authorship may be missing in one. For example, the parenthetical author (the author in brackets) may be missing in IPNI. These should not be added as separate names, but the correct version of the name should be used.
 
-## Checking status 
+## Checking status
 
-The status of the name may be nomenclatural or taxonomic. 
+A name will have both a nomenclatural and taxonomic status. 
 
-Nomenclatural status is about whether the name is allowed to be used (legitimate, valid) 
+Nomenclatural status is about whether the name is allowed to be used (legitimate, valid). It is also used to record if the name has not been found in the literature.
 
 Taxonomic is about whether people have decided to use it (accepted, synonym) 
 
-In Specify, the status of the name in the Taxon table will be the nomenclatural status.  
+In Specify, the status field for the name in the Taxon table will be the nomenclatural status.  
 
 The Taxonomic status of a name is managed through the Taxon tree.  
 
