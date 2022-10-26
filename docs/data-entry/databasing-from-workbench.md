@@ -38,7 +38,7 @@ Workbench import data entry: https://herb-rbge.specifycloud.org/specify/query/19
 
 If you are working with a large batch, then you may want to restrict the number coming up in the query by including part of the collecting number. 
 
-## Entering the barcode and any other relevant data
+## Entering the barcode and other relevant data
 
 Click on the appropriate record to open it in a new window. This will keep the remaining results to be selected more easily. 
 
