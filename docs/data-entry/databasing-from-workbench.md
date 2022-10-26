@@ -46,7 +46,7 @@ You can now save the record and select the next appropriate record in the result
 
 ![image](https://user-images.githubusercontent.com/6713716/197982390-fda041b3-fd03-438e-9dba-418d79e61194.png)
 
-- **Barcode** enter the barcode being applied to the specimen.
+- **Barcode** - enter the barcode being applied to the specimen.
 
 _Tip: if the material has been mounted on more than one sheet, then create an additional preparation for each sheet and add the relevant information, ie Sheet number and Number in set for each preparation._
 
