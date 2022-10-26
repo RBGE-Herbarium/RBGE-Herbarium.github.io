@@ -40,17 +40,33 @@ _Tip: In Specify, this table was called Accessions, but due to possible confusio
 - **Transfer permitted**
 - **Restriction Text**
 
-**Restriction Agents**
+**Registration Agents**
+
+![image](https://user-images.githubusercontent.com/6713716/197975931-87b22c43-eb86-4457-a144-0ec14ce3b8a7.png)
+
+- **Agent** - enter the agents related to the receipt of the specimens, including the collector and donor
+- **Role** - enter the role of each agent
+- **Remarks** - enter any remarks specific to this registration for each of the agents.
+
+_Tip: Any more general remarks about the Agent should be added to the Agent record itself._
 
 **Permit Documentation**
 
+- **Permit** - enter the permit number from the Permit table for all relevant permits for this incoming batch of specimens.
+- **Remarks** - enter any remarks specific to this registration for each of the permits.
+
+_Tip: Any more general remarks about the Permit should be added to the Permit record itself._
+
 **Collection Objects**
 
-- **Total Count**
-- **Actual Total Count**
-- **Specimen Count**
-- **Preparation Count**
+Collection Objects can be added by entering the registration number into the Collection Object record.
+
+- **Total Count** - autofilled and read only.
+- **Actual Total Count** - autofilled and read only.
+- **Specimen Count** - autofilled and read only.
+- **Preparation Count** - autofilled and read only.
 
 **Attachments**
 
+Any documentation relating to the receipt of the specimens, including correspondence, can be uploaded as an attachment here.
 
