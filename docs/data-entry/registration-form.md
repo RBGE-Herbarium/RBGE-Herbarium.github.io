@@ -52,6 +52,8 @@ _Tip: Any more general remarks about the Agent should be added to the Agent reco
 
 **Permit Documentation**
 
+![image](https://user-images.githubusercontent.com/6713716/197978386-9935e9c9-dba3-49d6-9cf5-e40789d914f4.png)
+
 - **Permit** - enter the permit number from the Permit table for all relevant permits for this incoming batch of specimens.
 - **Remarks** - enter any remarks specific to this registration for each of the permits.
 
