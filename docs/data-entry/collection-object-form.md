@@ -238,6 +238,8 @@ If you are not sure whether collectors should be entered as an expedition or as 
 
 If the name you are looking for is not in the list, then check by clicking on the magnifying glass to search more thoroughly. If you still don’t see the record then you will need to add a new Agent (see Adding a New Agent)
 
+  _Tip: if you infer the collector from the handwriting or other information, provide this information in the Collection Object remarks._
+
 - **Verbatim Collector Name** - this is a read-only field for the free text collector name in BG-BASE. 
 - **Collector Number** - this is the number given to the collection by the collector. This includes any prefixes or suffixes. Do not enter any spaces between any prefixes and suffixes.
 - **Collection Date** - enter the date the collection was made in the following format DD/MM/YYYY. Use the dropdown to the left to select whether it is a Full Date, Mon/Year or Year.
