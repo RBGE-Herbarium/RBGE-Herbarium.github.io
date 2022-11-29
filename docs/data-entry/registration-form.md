@@ -34,11 +34,12 @@ _Tip: In Specify, this table was called Accessions, but due to possible confusio
 - **Remarks** - enter any additional information in this field.
 
 **Restrictions section**
+For RBGE-collected specimens this information should be available within the Permit record information in the central Collection Permit sharepoint.
 
-- **Restriction Type**
-- **DNA extraction**
-- **Transfer permitted**
-- **Restriction Text**
+- **Restriction Type** - this has been simplified, resulting in two options only. 
+  -  No restrictions, excluding commercial - genetic material used in compliance with the Nagoya Protocol.
+  -  Restrictions apply - please check restrictions text or the permits for more details.
+- **Restriction Text** - Please enter the restrictions from the permit documentation accurately and clearly. This information will be used by researchers and curators to determine future use of specimens collected under this permit to comply with the Nagoya Protocol.
 
 **Registration Agents**
 
