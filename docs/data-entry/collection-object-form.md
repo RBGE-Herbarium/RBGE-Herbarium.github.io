@@ -172,7 +172,7 @@ _
 
 - **IH Code** – enter the Index Herbarium Code of the determiner if known.
 - **Determined Date** - enter the date the determination was made if known. Use the dropdown to the left to select whether it is a Full Date, Mon/Year or Year. This is not required for Label name, Data Capture name or Typification determinations.
-- **Det. Barcode** - enter the barcode of the specimen the determination is from. For collection objects which have more than one preparation, this will ensure that it is known which individual specimen was seen and identified.
+- **Det. Barcode** - enter the barcode of the specimen the determination is from. For collection objects which have more than one preparation, this will ensure that it is known which individual specimen was seen and identified. This should be entered for all Dets, Curatorial Annotations and Typification determinations. It is not required for Label name determinations.
 - **Verbatim Determination** - this is a read only field for data migrated from BG-BASE
 - **Verbatim Determined By** – If there are multiple determiners, enter their names here. This also contains the name of the determiner from BG-BASE
 - **Type Status** – for a Typification determination, enter the kind of type (e.g. Holotype, Isotype, Syntype, etc.)
