@@ -33,3 +33,7 @@ The aim is to import specimen data through the Specify Workbench as much as poss
 There are tools available to help parse the taxon name strings. One good option is the [GBIF Name Parser](https://www.gbif.org/tools/name-parser). Copy and paste all the names to be parsed or upload a text file.
 
 The output is a csv file with the component parts of the taxon name in separate columns.
+
+To format the columns:
+
+- 
