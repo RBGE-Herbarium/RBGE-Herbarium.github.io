@@ -26,8 +26,8 @@ parent: Data Entry
 - Ensure that you have an electronic version 
 
 - Each document should be a separate file (a single document can be comprised of several files but a single file cannot be comprised of several documents) 
-
  
+----
 
 ## Upload the collecting permits and other documents 
 
