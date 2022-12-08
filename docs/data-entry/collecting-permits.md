@@ -16,10 +16,14 @@ parent: Data Entry
 {:toc}
 </details>
 
+The aim of the Permit Management System is to provide a central digital storage point for permit documentation relating to the biodiversity collections, both living and preserved. It will hold digital copies of Collecting, Export and Import Permits, MoUs, MTAs, Phytosanitary documentation, Plant Passports, Patens, Licenses, etc., along with some basic information, including restriction information for the documents.
+
+----
 
 ## User Instructions for Collection Permit Management system 
 
- 
+The system has been designed to be as simple as possible. As we get feedback we will update the instructions below to ensure that users are able to upload permit documentation as easily as possible.
+
 
 ## Prepare the documents to be uploaded into the system 
 
