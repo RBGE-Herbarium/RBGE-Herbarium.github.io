@@ -21,7 +21,7 @@ parent: Data Entry
 
  
 
-Prepare the documents to be uploaded into the system 
+## Prepare the documents to be uploaded into the system 
 
 - Ensure that you have an electronic version 
 
@@ -29,7 +29,7 @@ Prepare the documents to be uploaded into the system
 
  
 
-Upload the collecting permits and other documents 
+## Upload the collecting permits and other documents 
 
 - Click on the Microsoft Form link [here](https://forms.office.com/Pages/ResponsePage.aspx?id=ALtju14Xt0a3s7x0FY5P1ET8Q983ho5Avn6BJ57Fkm9UNFFSSENDNE1NWUpCQzg2MDdDSVRKWDdJUSQlQCN0PWcu)
 
