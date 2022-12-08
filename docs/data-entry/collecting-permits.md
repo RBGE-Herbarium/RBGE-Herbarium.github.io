@@ -31,7 +31,7 @@ Prepare the documents to be uploaded into the system
 
 Upload the collecting permits and other documents 
 
-- Click on the Microsoft Form link here 
+- Click on the Microsoft Form link [here](https://forms.office.com/Pages/ResponsePage.aspx?id=ALtju14Xt0a3s7x0FY5P1ET8Q983ho5Avn6BJ57Fkm9UNFFSSENDNE1NWUpCQzg2MDdDSVRKWDdJUSQlQCN0PWcu)
 
 - Enter as much information as you can for the document being uploaded 
 
