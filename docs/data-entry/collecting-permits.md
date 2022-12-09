@@ -25,7 +25,7 @@ The system has been designed to be as simple as possible. As we get feedback we 
 
 ### Upload the collecting permits and other documents 
 
-- Click on the Microsoft Form link [here](https://forms.office.com/Pages/ResponsePage.aspx?id=ALtju14Xt0a3s7x0FY5P1ET8Q983ho5Avn6BJ57Fkm9UNFFSSENDNE1NWUpCQzg2MDdDSVRKWDdJUSQlQCN0PWcu)
+- Click on the Microsoft Form link [please ask Herbarium for link]
 
 - Enter as much information as you can for the document being uploaded 
 
