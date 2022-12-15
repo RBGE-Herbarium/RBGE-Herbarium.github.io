@@ -25,7 +25,7 @@ The system has been designed to be as simple as possible. As we get feedback we 
 
 ### Upload the collecting permits and other documents 
 
-- Click on the Microsoft Form link [please ask Herbarium for link]
+- Click on the Microsoft Form link available in a [document here](https://royalbotanicgarden.sharepoint.com/:w:/r/sites/RBGECollectionPermits/_layouts/15/Doc.aspx?sourcedoc=%7BB59CE38F-CCD2-490C-A63B-5D2A1951CE74%7D&file=User%20Instructions%20for%20Collection%20Permit%20Management%20system.docx&action=default&mobileredirect=true)
 
 - Enter as much information as you can for the document being uploaded 
 
