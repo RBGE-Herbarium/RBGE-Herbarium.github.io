@@ -132,7 +132,7 @@ More guidance will be provided on removing preparations, but please use with cau
 
 Any name that has been applied to a specimen is treated as a Determination. This includes the Label Name, the BG-BASE Filing Name, Typification names as well as any additional determinations.
 
-![image](https://user-images.githubusercontent.com/8005676/180239106-74c9fedf-aebd-4503-9884-12b8fc647da1.png)
+![image](https://user-images.githubusercontent.com/8155743/216963564-a59451b8-e05f-4555-af47-07e980063eaf.png)
 
 To add a determination click on Add next to Determinations. A new determination should be added for each name being applied to the specimen.
 
@@ -167,8 +167,11 @@ _
   
 - **Determination Qualifier** – enter the qualifier if present in the determination (e.g. cf., aff. ?, forsan)
 - **Determination Addendum** – enter the taxon addendum if present (e.g. sensu latu (s.l.), sensu strictu (s.s.), auct. non Brit. etc.)
-- **Determined by** – enter the name of the person who made the determination if known. This is not required for Label name, Data Capture name or Typification determinations.
-  _Tip: for determinations made by more than one person, leave this field blank and enter all the names into Verbatim Determined By at present._
+- **Determined by** – Enter the name of the person who made the determination if known. This is not required for Label name, Data Capture name or Typification determinations.
+
+  To add a determiner click the green + and search for the agent in the query combo box. To add additional determiners click the green +
+
+![image](https://user-images.githubusercontent.com/8155743/216964049-f803d0eb-adc9-41d7-97f1-ba3d0a6b4a62.png)
 
 - **IH Code** – enter the Index Herbarium Code of the determiner if known.
 - **Determined Date** - enter the date the determination was made if known. Use the dropdown to the left to select whether it is a Full Date, Mon/Year or Year. This is not required for Label name, Data Capture name or Typification determinations.
