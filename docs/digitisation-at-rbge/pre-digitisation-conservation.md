@@ -76,12 +76,6 @@ parent: Digitisation at RBGE
 
 ## Identifying insect damage 
 
-Herbarium beetles (Trogoderma) and their larvae can seriously damage specimens.  
-
- 
-
-The beetles and larvae are small, approx. 1-3mm. 
-
- 
-
-If you see any of these, follow the instructions in the flow chart below:   
+- Herbarium beetles (Trogoderma) and their larvae can seriously damage specimens.  
+- The beetles and larvae are small, approx. 1-3mm. 
+- If you see any of these, follow the instructions in the flow chart below:   
