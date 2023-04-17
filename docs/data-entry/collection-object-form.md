@@ -412,6 +412,41 @@ If there is not an existing storage location record, then create one by clicking
 
 - **Level** - enter the Level as Sheet.
 
+## Cultivated specimens
+
+See [Managing cultivated specimen data](https://rbge-herbarium.github.io/docs/specify-at-rbge/cultivated-specimens.html) for an overview of the cultivated data structure in Specify.
+
+Guidance is given below for each of the categories of cultivated specimens.
+
+### Cultivated specimen created from RBGE living collection with data in Iris
+
+- Create a Collection Object record for the cultivated specimen only. The wild colleting information will be held in Iris.
+  - Follow the basic procedure for Collection Object data entry with the following:
+    - Enter the Accession Number and Qualifier in the Cultivated Information section
+
+### Cultivated specimen (not from RBGE) with previous collecting event information on the label
+
+- Create a Collection Object record for the wild collecting event if there is not an existing specimen and if there is sufficient data (ie, who, when, where).
+  - Follow the basic procedure for Collection Object data entry with the following:
+    - In Prep type, select Data record, to indicate that there is no physical specimen in the Herbarium.
+- Create a Collection Object record for the cultivated specimen.
+  - Follow the basic procedure for Collection Object data entry with the following:
+    - In the Cultivated Information section, enter the Catalogue number of the wild Collection Object in Cultivated from.
+
+### Cultivated specimen (not from RBGE) with limited or no previous collecting event information on label
+
+- Create a Collection Object record for the cultivated specimen.
+  - Follow the basic procedure for Collection Object data entry with the following:
+    - Enter any previous collecting event information in the relevant field or in Collection Misc.
+
+### Cultivated specimen created from RBGE living collection with no data in Iris
+
+- Create a Collection Object record for the cultivated specimen only. The wild colleting information should be going into Iris in the future. Please check with the Plant Records Officer if not sure.
+  - Follow the basic procedure for Collection Object data entry with the following:
+    - Enter the Accession Number and Qualifier in the Cultivated Information section
+- If there is no Accession Number and Qualifier but still some wild collecting event data present, then a separate Collection Object record for this should be created in Specify and the catalogue number should be recorded in the cultivated Information section of the Cultivated record.
+
+
 ## Level of data entry
 
 ### Minimal data entry
