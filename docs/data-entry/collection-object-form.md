@@ -378,7 +378,7 @@ Additional Record Data
 
 ## To create a new Preparation for an existing Collection Object
 
-Search for the existing Collection Object using a [Query](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/blob/main/queries.md#checking-for-an-existing-collection-object-httpsherb-rbgespecifycloudorgspecifyquery90).
+Search for the existing Collection Object using a [Query](https://rbge-herbarium.github.io/docs/queries/collection-object-queries.html). The Query [Collection Objects by country or collector](https://herb-rbge.specifycloud.org/specify/query/8/) may be helpful.
 
 If the **Collection Object already exists**, open the record and click **Edit** at the bottom right of the Collection Object form.
 
