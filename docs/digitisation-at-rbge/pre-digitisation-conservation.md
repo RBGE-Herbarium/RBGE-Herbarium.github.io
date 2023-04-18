@@ -30,8 +30,8 @@ parent: Digitisation at RBGE
 
 - Please remove any old rusty paperclips yourself (replace with a new brass one if necessary). You can also replace pins in capsules with a paperclip.
 - Put each specimen for repair in a flimsy (paper folded like a species cover), with a completed repairs slip paperclipped on, and put it in your ‘Specimens for repair’ box.
-- Kate Eden will collect them weekly and return them to your ‘Completed repairs’ box asap for you to lay away.  
-- If your ‘For repair’ box is filling up very quickly, please let Kate know as we may decide to record  some repairs for completion at a later date. 
+- These will be collected weekly and returned to your ‘Completed repairs’ box asap for you to lay away.  
+- If your ‘For repair’ box is filling up very quickly, we may decide to record some repairs for completion at a later date. 
 
 ## Using protective covers for specimens
 
@@ -56,7 +56,7 @@ parent: Digitisation at RBGE
 - Use tweezers to hold the det slip and paint the glue on one end and then the other end (indicated in blue) 
 - Once applied to the specimen the tweezers can be used to lift and apply additional glue to the corners of the det slip if required 
 - Suggested position: near label and bottom of specimen 
-- Touch test for dryness, be careful excess around edges of det slip that can be smeared on specimen. 
+- Touch test for dryness, be careful of excess around edges of det slip that can be smeared on specimen. 
 - Avoid attaching a det slip by one side unless space constraints mean this is the only option 
 - Brush can be used for a session of repair and then should be washed and dried with a paper towel 
 - PVA glue can be used for attaching det slips on newer specimens, and the glue can be applied across the whole back surface of the det slip. 
