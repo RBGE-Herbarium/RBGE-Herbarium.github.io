@@ -27,7 +27,10 @@ parent: Digitisation at RBGE
 
 - Specimens with a lot of loose or broken pieces (rule of thumb: ‘if you can’t pick it up without something falling off then it needs repaired’ -- this will partly depend on how rigid the mounting sheet is).  
   - If there are just a few small loose pieces put them in the capsule if there’s one on the sheet. If you need to add a capsule see section 4 below. 
-- Specimens on very small sheets, and specimens attached with pins  
+- Specimens on very small sheets, and specimens attached with pins
+![image](https://user-images.githubusercontent.com/6713716/232707765-5f6ed52d-323a-4371-a0db-51e06c47bf72.png)
+![image](https://user-images.githubusercontent.com/6713716/232707867-e8740d93-f777-47a5-abb1-778f6496343e.png)
+
 
 ### Procedure
 
