@@ -37,7 +37,14 @@ parent: Digitisation at RBGE
 ### Procedure
 
 - Please remove any old rusty paperclips yourself (replace with a new brass one if necessary). You can also replace pins in capsules with a paperclip.
+
+![image](https://user-images.githubusercontent.com/6713716/232858025-4d6df41f-fe9f-442e-beb7-ee18556938b9.png)
+
 - Put each specimen for repair in a flimsy (paper folded like a species cover), with a completed repairs slip paperclipped on, and put it in your ‘Specimens for repair’ box.
+
+![image](https://user-images.githubusercontent.com/6713716/232858267-a5b18df7-11ac-464a-8f22-b81956235464.png)
+![image](https://user-images.githubusercontent.com/6713716/232858345-f9699ebb-0a5e-44ed-be98-d033ca0d4401.png)
+
 - These will be collected weekly and returned to your ‘Completed repairs’ box asap for you to lay away.  
 - If your ‘For repair’ box is filling up very quickly, we may decide to record some repairs for completion at a later date. 
 
@@ -47,12 +54,22 @@ parent: Digitisation at RBGE
 
 - Specimens with fragile fluffy seedheads (eg some Compositae) and conifers with loose needles etc 
 - Specimens on very fragile, brittle paper (often from the ‘Lace Herbarium’) 
+
+![image](https://user-images.githubusercontent.com/6713716/232858479-a73c1af9-bb09-4a15-98cd-bed703059718.png)
+
 - White folders come in two sizes -- please use the slightly smaller one whenever possible as we have more of them!  
 - Fill out the stamped form on the front in pencil
+
+![image](https://user-images.githubusercontent.com/6713716/232858565-e64cd421-5698-4912-8a89-c20a86f0e21b.png)
+![image](https://user-images.githubusercontent.com/6713716/232858630-79eddc09-c4b8-46ef-80d7-7a1b9b2b1eeb.png)
+
 
 ### Grey boxes: 
 
 - Use a grey box if a bulky specimen is distorting others in the folder
+
+![image](https://user-images.githubusercontent.com/6713716/232858794-967bf697-8615-4020-8e0e-8457f76169ec.png)
+
 - Due to the limited amount of space in the herbarium cabinets, only use them when absolutely necessary. Wherever possible, place the box at the bottom of the Genus cover, and preferably at the bottom of a shelf. 
 - Complete the stamped form on the outer flap in pencil, as for the white folders (see above).
 
@@ -86,4 +103,7 @@ parent: Digitisation at RBGE
 
 - Herbarium beetles (Trogoderma) and their larvae can seriously damage specimens.  
 - The beetles and larvae are small, approx. 1-3mm. 
-- If you see any of these, follow the instructions in the flow chart below:   
+- If you see any of these, follow the instructions in the flow chart below.
+
+![image](https://user-images.githubusercontent.com/6713716/232859082-855a5b9f-877d-46a3-b671-9a17faaf16df.png)
+ 
