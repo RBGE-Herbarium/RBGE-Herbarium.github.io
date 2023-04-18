@@ -21,6 +21,9 @@ parent: Digitisation at RBGE
 ### Which specimens to send for repair?
 
 - All specimens covered with cellophane or polythene; and any type specimens stuck with sellotape. (Please image these after repair if at all possible.) 
+![image](https://user-images.githubusercontent.com/6713716/232706779-41d64c92-4be6-4afd-a730-f70b5ad526b3.png)
+![image](https://user-images.githubusercontent.com/6713716/232706863-c5e6789b-0901-4aad-9965-c4608677c3ad.png)
+![image](https://user-images.githubusercontent.com/6713716/232707021-84804cb8-54b3-4a22-a1ae-05bebfe22ebd.png)
 
 - Specimens with a lot of loose or broken pieces (rule of thumb: ‘if you can’t pick it up without something falling off then it needs repaired’ -- this will partly depend on how rigid the mounting sheet is).  
   - If there are just a few small loose pieces put them in the capsule if there’s one on the sheet. If you need to add a capsule see section 4 below. 
