@@ -26,11 +26,10 @@ The screen that is initially opened relates to the table you started in e.g. if 
 
 To select a field to carry forward click on the field name, selected fields will have an orange tick to the left of field name.
 
-![image](https://user-images.githubusercontent.com/8155743/234038135-08377f14-cd8f-434c-b7da-a85f67e032d2.png)
+![image](https://user-images.githubusercontent.com/8155743/234042154-b0a7e21b-6511-4c16-9c16-f41151b80fc0.png)
 
 To ensure that values from a sub table are included in Carry Forward the sub table needs to be selected. 
-
-![image](https://user-images.githubusercontent.com/8155743/234038579-355cac49-6a95-45fe-aea2-1908cbc4d934.png)
+![image](https://user-images.githubusercontent.com/8155743/234042271-2f37d7f7-96e6-4be4-b793-4c1bd10c9c95.png)
 
 Once all fields have been selected for a particular table, click close at the bottom right, the settings are automatically saved. Once you have completed configuration for all tables click close on the Form Meta screen. 
 
@@ -38,11 +37,11 @@ You should now see a button for carry forward at the bottom right of the data en
 
 ![image](https://user-images.githubusercontent.com/8155743/234039432-bad49a5d-03b1-4c84-846b-9c982d24d676.png)
 
-##Using Carry Forward
+## Using Carry Forward
 
 Once you have configured carry forward you will be able to start using it. After saving a record where you want to Carry Forward the data  for your selected fields, click on the Carry Forward buttob. This will create a new record with the selected fields already filled in with the **same** data as the previous record.
 
-##Guidlines for using Carry Forward
+## Guidlines for using Carry Forward
 
 - The Carry Forward button will only copy data for fields that have been selected in the configuration screens. 
 - When selecting fields be aware of which ones will be the same between records and which will be unique. Only set Carry Forward for the values that will be the same between records.
