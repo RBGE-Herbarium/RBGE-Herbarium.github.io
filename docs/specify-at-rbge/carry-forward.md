@@ -46,4 +46,4 @@ Once you have configured carry forward you will be able to start using it. After
 
 - The Carry Forward button will only copy data for fields that have been selected in the configuration screens. 
 - When selecting fields be aware of which ones will be the same between records and which will be unique. Only set Carry Forward for the values that will be the same between records.
-- Before using Carry Forward for a new task check which fields are selected
+- Before using Carry Forward for a new task check which fields are selected.
