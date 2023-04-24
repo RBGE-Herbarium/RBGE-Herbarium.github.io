@@ -39,7 +39,7 @@ You should now see a button for carry forward at the bottom right of the data en
 
 ## Using Carry Forward
 
-Once you have configured carry forward you will be able to start using it. After saving a record where you want to Carry Forward the data  for your selected fields, click on the Carry Forward buttob. This will create a new record with the selected fields already filled in with the **same** data as the previous record.
+Once you have configured carry forward you will be able to start using it. After saving a record where you want to Carry Forward the data  for your selected fields, click on the Carry Forward button. This will create a new record with the selected fields already filled in with the **same** data as the previous record.
 
 ## Guidlines for using Carry Forward
 
