@@ -38,4 +38,12 @@ You should now see a button for carry forward at the bottom right of the data en
 
 ![image](https://user-images.githubusercontent.com/8155743/234039432-bad49a5d-03b1-4c84-846b-9c982d24d676.png)
 
+##Using Carry Forward
 
+Once you have configured carry forward you will be able to start using it. After saving a record where you want to Carry Forward the data  for your selected fields, click on the Carry Forward buttob. This will create a new record with the selected fields already filled in with the **same** data as the previous record.
+
+##Guidlines for using Carry Forward
+
+- The Carry Forward button will only copy data for fields that have been selected in the configuration screens. 
+- When selecting fields be aware of which ones will be the same between records and which will be unique. Only set Carry Forward for the values that will be the same between records.
+- Before using Carry Forward for a new task check which fields are selected
