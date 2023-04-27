@@ -52,9 +52,10 @@ The Filing Region is currently being managed as a drop down list in the Collecti
 ![image](https://user-images.githubusercontent.com/6713716/193121244-63018a0b-4d87-4bac-8009-8596be0623cc.png)
 ![image](https://user-images.githubusercontent.com/6713716/193121122-4ac651e8-c2e7-437a-8617-d129c722ac62.png)
 
+Tip: The Filing Region is displayed in Locality as an aid.
 ----
 ## Verbatim locality
 
 The Verbatim locality field is used to record the locality information below the level of the Locality field.
 
-![image](https://user-images.githubusercontent.com/6713716/193122640-afa173cb-fb18-46fc-bf91-06a1e594ca58.png)
+![image](https://user-images.githubusercontent.com/6713716/234915918-710add0f-af1a-438e-b374-95572e67da50.png)
