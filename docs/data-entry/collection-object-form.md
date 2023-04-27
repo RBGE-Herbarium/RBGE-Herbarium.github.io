@@ -322,7 +322,7 @@ The Description and Number of Duplicates form part of the Collection Object info
   - If the associated material is a **duplicate herbarium specimen in another institute**, this should be entered as a note in **Remarks**, prefixed with Associated_mat if possible.
 
 
-## Cultivated Information
+### Cultivated Information
 
 In Specify, all cultivated specimen collection data are treated at the same level as wild-collected collection data using the same fields. The specimens are then linked to show the relationship. 
 
