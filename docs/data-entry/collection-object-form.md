@@ -34,7 +34,7 @@ This opens the **Collection Object** entry screen
 
 At any point, to save the record click **Save** in the bottom right of the screen. To add another blank record click **Add Another**, or to add another starting with a copy of the current one, click **Clone**.
 
-![image](https://user-images.githubusercontent.com/8005676/180233295-8db73aba-a12d-4c65-b2a6-1c4e44f65e58.png)
+![image](https://user-images.githubusercontent.com/6713716/234895742-54ff2fef-4d63-45cb-8424-880ba879cdb3.png)
 
   _Tip: If you are in a subform as a pop-up window, such as Preparations, then you will need to save / close the window first to return to the Collection Object form to click Save._
 
@@ -54,7 +54,7 @@ _Tip: In Specify, this table was called Accessions, but due to possible confusio
 
 To add a preparation to a record click on **+** next to Preparations
 
-![image](https://user-images.githubusercontent.com/6713716/191251001-f9310cb0-a7a9-4aa4-b580-f2ed2e69390f.png)
+![image](https://user-images.githubusercontent.com/6713716/234896156-cf112174-4f6d-4de8-bac4-9d3a217f7d0b.png)
 
 This expands the Preparation entry form as part of the Collection Object form. For each additional preparation needed click Add. The fields are explained below:
 
