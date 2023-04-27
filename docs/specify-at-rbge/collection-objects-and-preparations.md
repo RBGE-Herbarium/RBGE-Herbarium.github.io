@@ -21,7 +21,7 @@ _Note: where a single herbarium sheet contains material from the same genetic in
 
 ## Preparations
 
-Definition: One element of a Collection Object that may be stored or loaned separately.
+> Definition: One element of a Collection Object that may be stored or loaned separately.
 
 - Only the information unique to each of these specimens (or which may differ) is recorded in the Preparation record.
 
