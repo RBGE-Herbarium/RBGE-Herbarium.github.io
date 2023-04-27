@@ -54,7 +54,7 @@ _Tip: In Specify, this table was called Accessions, but due to possible confusio
 
 To add a preparation to a record click on **+** next to Preparations
 
-![image](https://user-images.githubusercontent.com/6713716/234896156-cf112174-4f6d-4de8-bac4-9d3a217f7d0b.png)
+![image](https://user-images.githubusercontent.com/6713716/234897382-9a4156da-fcf9-4636-a941-fc3972d5c230.png)
 
 This expands the Preparation entry form as part of the Collection Object form. For each additional preparation needed click Add. The fields are explained below:
 
