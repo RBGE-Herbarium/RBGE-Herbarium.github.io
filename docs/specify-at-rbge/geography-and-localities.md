@@ -58,4 +58,4 @@ Tip: The Filing Region is displayed in Locality as an aid.
 
 The Verbatim locality field is used to record the locality information below the level of the Locality field.
 
-![image](https://user-images.githubusercontent.com/6713716/234915918-710add0f-af1a-438e-b374-95572e67da50.png)
+![image](https://user-images.githubusercontent.com/6713716/234916578-faf8fcec-632f-45a6-ae71-649ff7ff1bcc.png)
