@@ -2,7 +2,7 @@
 parent: Data Entry
 ---
 
-# Form - Collection Object
+# Collection Object form
 
 {: .no_toc }
 
