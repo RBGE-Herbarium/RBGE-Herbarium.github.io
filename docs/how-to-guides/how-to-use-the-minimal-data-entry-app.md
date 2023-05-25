@@ -2,7 +2,7 @@
 parent: How to guides
 ---
 
-# Minimal Data Entry App
+# How to use the Minimal Data Entry App
 
 {: .no_toc }
 
