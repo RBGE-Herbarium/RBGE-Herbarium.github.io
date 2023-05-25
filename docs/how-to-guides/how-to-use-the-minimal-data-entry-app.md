@@ -18,13 +18,12 @@ parent: How-to guides
 
 Go to the **[Specify tools site](http://herbmgt.rbge.org.uk/specify_tasks/public/index.php/login)** in a web browser: 
 
-Log in with your **Specify username and password**. 
-
-![image](https://user-images.githubusercontent.com/6713716/174188515-9fb29e92-1893-439a-a5a1-870e814b4630.png)
+Click on **Sign in with RBGE**. 
+![image](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/6713716/80b356ff-6c57-4c64-9d2d-c0c659bd135a)
 
 Click ‘Start’ for the Minimal Data Entry Application.
 
-![image](https://user-images.githubusercontent.com/6713716/174188600-4fd723f6-0425-4829-8e8a-8c7b977a7e98.png)
+![image](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/6713716/5530dbc2-489e-4824-8b50-50b7308f46d1)
 
 The fields for the Minimal Data Entry procedure are on this form, and are completed as follows:
 
@@ -36,8 +35,10 @@ Start typing the taxon name for the record you want to create. If it is a large 
 ![image](https://user-images.githubusercontent.com/6713716/174188817-be6df353-df72-440f-8223-1a06f5285322.png)
 
 Select the name from the list. 
-Note: The dropdown will show results for what is currently typed in, so if you are uncertain about some of the spelling you can type what you know and look at what the options are.
-Note: If a name you wish to use does not come up in the list or is spelt different from the one on the species cover, please ask for help. 
+
+_Note: The dropdown will show results for what is currently typed in, so if you are uncertain about some of the spelling you can type what you know and look at what the options are._
+
+_Note: If a name you wish to use does not come up in the list or is spelt different from the one on the species cover, please ask for help._
 
 ## Geography
 
@@ -47,7 +48,7 @@ For all regions except 1A, select a region from the dropdown list:
 
 - Locality – Start to type the country here and select the appropriate option from the drop down list. 
 
-Note: In general we ask that you only record region. As most regions consist of multiple countries.
+_Note: In general we ask that you only record region._
 
 Region 1A
 
@@ -65,9 +66,9 @@ Start typing the sub-country in the locality field and select it from the drop d
 
 ![image](https://user-images.githubusercontent.com/6713716/174189069-21193c3a-9b9d-4a6a-bcc4-8a3e4ab7bbc0.png)
 
-In general most sheets have a single specimen on them, so ensure that the toggle is showing Single Specimen. If your sheet has multiple specimens on it, click on the white box and it will switch to show Multiple Specimens. (See linking specimens guidance for more information)
+In general most sheets have a single specimen on them, so ensure that the toggle is showing Single Specimen. If your sheet has multiple specimens on it, click on the white box and it will switch to show Multiple Specimens. (See [linking specimens guidance](https://rbge-herbarium.github.io/docs/how-to-guides/how-to-enter-specimen-data.html#how-to-physically-link-specimens) for more information)
 
-Check that you have set all the values correctly. If you are happy all the values are correct start scanning barcodes:
+Check that you have set all the values correctly. If they are all correct start scanning barcodes:
 
 ![image](https://user-images.githubusercontent.com/6713716/174189093-3eb94cd8-0430-4330-8ae7-8e2060c30899.png)
 
