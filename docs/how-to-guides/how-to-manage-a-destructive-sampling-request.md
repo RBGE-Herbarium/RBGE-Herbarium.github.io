@@ -49,11 +49,8 @@ This will open the **Destructive Sampling** form with a Destructive Sampling rec
 
 ![image](https://user-images.githubusercontent.com/8005676/180242316-4780a3f6-fe38-48f5-8f45-ea750bfed900.png)
 
-**Status**: Select the current status from the dropdown menu
+**Status**: Select the current status from the dropdown menu (Complete, Denied, Pending)
 
-- **Justification**: Select the Justification. Current recommendation is to only select one of the following options. If you need a different value, please ask.
-  - Research
-  - Education
 - **Purpose**: Select a value from a dropdown menu. Current recommendation is to only select one of the following options. If you need a different value, please ask.
   - molecular research (DNA, gene sequencing, etc.)
   - anatomical research
@@ -65,8 +62,8 @@ This will open the **Destructive Sampling** form with a Destructive Sampling rec
 - **Loan Num**: Enter the associated Loan number if the request originated from a Loan Request or if it triggers a Loan Request.
 - **Their Num**: Enter the other institute’s reference number, if known.
 - **Legacy Number**: This is read only and provides the BG-BASE number for the Desiderata record.
-- **Remarks**: This holds the Remarks for the whole Destructive Sampling record. You can enter any additional information or notes relating to the destructive sampling request. This field may be used as part of the report to be sent to the Requestor.
-- **Internal Misc**: This can be used to help with the management process of the request and notes in here do not have to be retained. This would not be included in any report to the Requestor.
+- **Remarks**: This holds the Remarks for the whole Destructive Sampling record. You can enter any additional information or notes relating to the destructive sampling request. This field may be used as part of the report to be sent to the Requester.
+- **Internal Misc**: This can be used to help with the management process of the request and notes in here do not have to be retained. This would not be included in any report to the Requester.
 
 - **Destructive Sampling Agents**: Enter the following information if known:
   - Herbarium making request: Agent = Herbarium; Role = Herbarium
@@ -79,9 +76,7 @@ This will open the **Destructive Sampling** form with a Destructive Sampling rec
 - **Date**: The default will be today’s date.
 - **Remarks**: In the Remarks field under the Agent you can add any additional information about the agent/role/status relating to this particular request. Enter any more general remarks about the request to the higher level Request Remarks field.
 
-Click Accept
-
-Click Save
+Click **Save**
 
 At this point any documentation can be attached to this record using the Attachment icon.
 ![image](https://user-images.githubusercontent.com/6713716/178465341-64b5b059-2674-4ca2-a4db-0b733542d204.png)
@@ -90,11 +85,13 @@ At this point any documentation can be attached to this record using the Attachm
 
 A CBD form should be sent to the requester and signed. The CBD documentation will need to be in place for any further progress to be made with the request.
 
+The request number, internal contact and Herbarium code should be added to any CBD documentation. 
+
 Tick the **CBD Form checkbox** to indicate that the CBD Form has been received.
 
-Click Save (in the bottom right-hand corner of the form)
+Click **Save**
 
-Make a note of the Gift Number which will function as the Destructive Sampling Request number. You can find this number at the top of the form, but only after you have saved the form.
+Make a note of the Destructive Sampling Number. You can find this number at the top of the form, but only after you have saved the form.
 
 Add the following notes to the completed CBD form:
 a.	Destructive Sampling Request number 
@@ -108,8 +105,6 @@ At this point you will need to assess the request.
 - Approval by appropriate members of staff
 
 If the request is fully or partially approved, then the specimens can be looked out and databased if required.
-
-The request number, internal contact and Herbarium code should be added to any CBD documentation. 
 
 Record the name of the person who approves or denies the request in the Destructive Sampling record request record in the Agent field. In **Agent Remarks** enter any additional information relating to the agent in the context of the destructive sampling request, including the date and if the request is approved or denied.
 
@@ -125,7 +120,9 @@ First, check whether a Collection Object and Preparation already exists for the 
 
 If a specimen has not yet been databased, this should be done at this stage.
 
-Once all requested specimens have been databased, the barcodes can be entered into a Query in Specify.  – this can be done manually, or using a barcode scanner if you have the specimens to hand.  
+Once all requested specimens have been databased, the barcodes can be entered into a Query in Specify.  
+
+_Note: This can be done manually, or using a barcode scanner if you have the specimens to hand._
 
 Click on the queries in the Menu Ribbon
 
@@ -235,9 +232,8 @@ Open the Destructive Sampling record and add the following information.
 - **Date received**: Enter the date the samples were received by the requesting institution.
 - **Received Comments**: Enter the response from the receiving institute here. 
 
-Click Save.
+Click **Save**.
 
-END
 
 
 
