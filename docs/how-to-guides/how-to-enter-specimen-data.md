@@ -1,5 +1,5 @@
 ---
-parent: Data Entry
+parent: How-to guides
 ---
 
 # How to enter specimen data
