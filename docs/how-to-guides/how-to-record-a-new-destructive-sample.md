@@ -49,7 +49,7 @@ This section should only be completed for preparations created during destructiv
 - **Sample Number** – do not enter data here. This has been used for the destructive sample collector number migrated from BG-BASE. 
 - **Legacy Number** – this is a read-only field for the BG-BASE specimen number.
 
-For more information on entering data into the Preparation record see the **[Instructions](https://rbge-herbarium.github.io/docs/data-entry/collection-object-form.html#preparations-subform)** for entering a new **Preparation**
+For more information on entering data into the Preparation record see the **[Instructions](https://rbge-herbarium.github.io/docs/how-to-guides/how-to-enter-specimen-data.html))** for entering a new **Preparation**
 
 Enter any specific **Determinations** relating to this Preparation if required.
 
