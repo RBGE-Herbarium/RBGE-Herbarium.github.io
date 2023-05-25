@@ -2,7 +2,7 @@
 parent: How-to guides
 ---
 
-# How to create a new destructive sample record
+# How to record a new destructive sample
 
 {: .no_toc }
 
@@ -16,7 +16,7 @@ parent: How-to guides
 {:toc}
 </details>
 
-When sampling a Herbarium specimen or silic-dried sample, you will need to create a new Preparation for the new sample.
+When sampling a Herbarium specimen or silica-dried sample, you will need to create a new Preparation for the new sample.
 
 ### How to create a new Preparation for an existing Collection Object
 
