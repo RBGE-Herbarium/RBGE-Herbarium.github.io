@@ -24,7 +24,7 @@ Search for the existing Collection Object using a [Query](https://rbge-herbarium
 
 _Tip: The [Collection Objects by country or collector Query](https://herb-rbge.specifycloud.org/specify/query/8/) may be helpful._
 
-If the Collection Object already exists, open the record and click **Edit** at the bottom right of the Collection Object form. If it does not exist then you will need to create a new Collection Object record. See instructions in [How to enter specimen data](https://rbge-herbarium.github.io/docs/how-to-guides/how-to-enter-specimen-data.html).
+If the Collection Object already exists, open the record. If it does not exist then you will need to create a new Collection Object record. See instructions in [How to enter specimen data](https://rbge-herbarium.github.io/docs/how-to-guides/how-to-enter-specimen-data.html).
 
 To add a preparation to a record click on **+** next to Preparations
 
