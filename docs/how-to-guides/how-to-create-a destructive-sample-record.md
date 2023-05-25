@@ -18,19 +18,21 @@ parent: How-to guides
 
 When sampling a Herbarium specimen or silic-dried sample, you will need to create a new Preparation for the new sample.
 
-## How to create a new Preparation for an existing Collection Object
+### How to create a new Preparation for an existing Collection Object
 
-Search for the existing Collection Object using a [Query](https://rbge-herbarium.github.io/docs/queries/collection-object-queries.html). The Query [Collection Objects by country or collector](https://herb-rbge.specifycloud.org/specify/query/8/) may be helpful.
+Search for the existing Collection Object using a [Query](https://rbge-herbarium.github.io/docs/queries/collection-object-queries.html).
+_Tip: The Query [Collection Objects by country or collector](https://herb-rbge.specifycloud.org/specify/query/8/) may be helpful._
 
-If the **Collection Object already exists**, open the record and click **Edit** at the bottom right of the Collection Object form.
+If the Collection Object already exists, open the record and click **Edit** at the bottom right of the Collection Object form. If it does not exist then you will need to create a new Collection Object record. See instructions in [How to enter specimen data](https://rbge-herbarium.github.io/docs/how-to-guides/how-to-enter-specimen-data.html).
 
-Click **Add** next to Preparations. This will open up a new **Preparation** in the Preparation subform.
+To add a preparation to a record click on **+** next to Preparations
 
 ![image](https://user-images.githubusercontent.com/8005676/180241183-0d51c889-dcbb-409e-9ded-73e8ca5a1551.png)
 
-- **Prep Type** - select the kind of material (e.g. Herbarium specimen/sheet, Carpological).
-- **Barcode** - scan the barcode of the specimen or enter the destructive sample item number. Both should be unique.
-- **Storage** – enter the storage location of the specimen (e.g. Main Herbarium, Long Store, Spirit Room, Silica Room, Carpological Collection). For physically linked specimens (where there is more than one specimen permanently mounted on a sheet), the lowest barcode should be created as a storage location and used to store all the specimens on the sheet. See the **[Physically Linked](https://rbge-herbarium.github.io/docs/data-entry/collection-object-form.html#physically-linked-specimens)** section for more information.
+The following information should be entered for a destructive sample record:
+
+- **Prep Type** - select Destructive Sample
+- **Barcode** - enter the destructive sample item number. This is constructed using the Destructive Sampling request number followed by a running number for each sample, separated by a colon (eg, 03306:2). The combination must be unique.
 - **Remarks** - enter any remarks specific to the Preparation, not the Collection Object, here.
 - **Internal Misc** – use this field for any internal curatorial information which is not to be shared.
 
