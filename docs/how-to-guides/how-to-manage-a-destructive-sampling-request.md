@@ -1,8 +1,8 @@
 ---
-parent: Data Entry
+parent: How-to guides
 ---
 
-# Destructive Sampling Form
+# How to manage a Destructive Sampling request
 
 {: .no_toc }
 
