@@ -40,7 +40,7 @@ At any point, to save the record click **Save** in the bottom right of the scree
 
 ![image](https://user-images.githubusercontent.com/8005676/180237494-5813a685-a010-4883-b721-850d1fe1dc87.png)
 
-The Collection Object form will open as a single form with several sections. Some of these sections are subforms which can be expanded, such as Preparations, Determinations etc. Each of these will expand when you click on **+** to the right of the section heading to add a new item, or click the **>** to expand an existing item.
+The Collection Object form will open as a single form with several sections. Click on **+** to the right of the section heading to add a new item, or click the **>** to expand an existing item.
 
 ![image](https://user-images.githubusercontent.com/8005676/180237890-95d0c7b2-fd7f-4303-8b34-dcc64832c228.png)
 
