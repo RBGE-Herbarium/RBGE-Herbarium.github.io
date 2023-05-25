@@ -2,7 +2,7 @@
 parent: Data Entry
 ---
 
-# Collection Object form
+# How to enter specimen data
 
 {: .no_toc }
 
@@ -16,11 +16,11 @@ parent: Data Entry
 {:toc}
 </details>
 
-In Specify, specimens considered to be part of the same collecting event and assigned the same collector number are entered as individual Preparations with a Collection Object. Preparations currently being stored in Specify include Herbarium sheets/packets (duplicates and multi-sheet specimens), Spirit material and Carpological specimens. Silica-dried material will be held in Specify in the future.
+In Specify, specimens considered to be part of the same collecting event and assigned the same collector number are entered as individual Preparations with a Collection Object. Use Specify for Herbarium sheets/packets (duplicates and multi-sheet specimens), Spirit material and Carpological specimens. Do not use Specify for Silica-dried material at present.
 
-When entering a specimen, consider whether it is possible that there may already be data in Specify for it. Data may have been imported if electronic data were received with the specimens, or there may be a separate related preparation already in the database. If you think that this might be the case, use a query to check. If you need to create a new Collection Object for the Preparation follow the instructions immediately below. If a Collection Object already exists and you want to add a Preparation, then follow the instructions at the bottom of this page.
+When entering a specimen, consider whether there may already be data imported. Data may have been imported if electronic data were received with the specimens, or there may be a separate related preparation already in the database. If you think that this might be the case, use a query to check. If you need to create a new Collection Object for the Preparation follow the instructions immediately below. If a Collection Object already exists and you want to add a Preparation, then follow the instructions at the bottom of this page.
 
-## Creating a new Preparation in a new Collection Object
+## How to create a new Preparation in a new Collection Object
 
 To add a new record click on the **Data Entry** button on the main menu bar: 
 
@@ -46,7 +46,7 @@ The Collection Object form will open as a single form with several sections. Som
 
 ## Entering data into the record.
 
-Registration Num: Enter the Registration Number if this specimen has been registered in the Registration table. The Registration table is now being used for incoming specimens. Any records from Incoming Gifts/Exchanges in BG-BASE have been migrated here.
+Registration Num: Enter the Registration Number if this specimen has been registered as incoming material.
 
 _Tip: In Specify, this table was called Accessions, but due to possible confusion for RBGE, it has been renamed Registrations. However, the icon for this table is still ACC._
 
