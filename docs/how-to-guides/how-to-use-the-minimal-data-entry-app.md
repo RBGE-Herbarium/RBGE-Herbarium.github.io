@@ -1,5 +1,5 @@
 ---
-parent: How to guides
+parent: How-to guides
 ---
 
 # How to use the Minimal Data Entry App
