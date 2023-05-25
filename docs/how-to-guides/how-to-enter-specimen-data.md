@@ -44,7 +44,7 @@ The Collection Object form will open as a single form with several sections. Cli
 
 ![image](https://user-images.githubusercontent.com/8005676/180237890-95d0c7b2-fd7f-4303-8b34-dcc64832c228.png)
 
-## How to enter data into the record.
+## How to enter data
 
 Registration Num: Enter the Registration Number if this specimen has been registered as incoming material.
 
@@ -69,34 +69,18 @@ This expands the Preparation entry form as part of the Collection Object form. F
 - **Number in Set** - enter the number of sheets in the set if marked on specimen
 
 - **Storage** – enter the storage location of the specimen (e.g. Main Herbarium, Long Store, Spirit Room, Silica Room, Carpological Collection). For physically linked specimens (where there is more than one specimen permanently mounted on a sheet), the lowest barcode should be created as a storage location and used to store all the specimens on the sheet. See the **[Physically Linked](https://rbge-herbarium.github.io/docs/data-entry/collection-object-form.html#physically-linked-specimens)** section for more information.
-- **Physically linked** - This is a read-only field used for data migrated from BG-BASE. If there is more than one specimen on the herbarium sheet or in the spirit jar (i.e. more than one barcode), this field will have the barcodes of the other specimens with a comma between each barcode.
+- **Physically linked** - This is a read-only field used for data migrated from BG-BASE. Do not enter data into this field.
 
 - **Donor** - enter the name of the Institute/collection that directly donated the specimen to RBGE. (e.g. Glasgow, Herb of John Ball). More guidance will be provided on the use of this field.
 - **Herbarium Collection** – enter the name of the Herbarium Collection (e.g. Herb. Greville, Herb. Wight, Herb. Wallich, Herb. Drege) where the herbarium collection differs from the donor and collector. More guidance will be provided on the use of this field.
-  - _Tip: Some of the Herbarium Collections will have been donated from a third party, such as Kew, Glasgow, etc. In these cases the Donor will be Kew and the Herbarium Collection should be entered here. In future, we will be aiming to use the Registrations table to hold more information about these collections._
+  - _Tip: Some of the Herbarium Collections will have been donated from a third party, such as Kew, Glasgow, etc. In these cases the Donor will be Kew and the Herbarium Collection should be entered here._
 - **Collection Series** - only enter if a collection series is known.
 - **Project** - if applicable select the project from the dropdown list. At present it is only possible to select a single project so this field should be used with caution. Please ask if unsure.
 - **Label Header** - enter the label header here, eg Flora of Nepal.
 - **Label Footer** - enter the label footer here.
-- **Remarks** - this currently includes data previously held in: Specimens (associated_mat_misc, curatorial_misc, keyword, misc, other_label_information) and Des_Items (keyword, status_full (linked via specimen_num - denied (D), unavailable (U), no longer required (N) , may be available in the future (F), pending (P), Status_by_full)
-- **Internal Misc** – use this field for any internal curatorial information. This currently holds data previously held in: Specimens (int_misc).
+- **Remarks** - enter any remarks specific to the Preparation, not the Collection Object, here.
+- **Internal Misc** – use this field for any internal curatorial information which is not to be shared.
  
-### Destructive Sampling section
-
-This section should only be completed for preparations created during destructive sampling.
-
-- **Material type** - enter the type of material sample (e.g. Flower sample, Leaf sample, Pollen sample).
-- **Derived from** - this is for preparations made for Destructive Sampling ONLY. Enter the barcode of the specimen from which the sample was taken.
-- **Prepared By** – enter the person who prepared the sample.
--- _Tip: type in the last name and, if the person is already in the Agents table, their name should come up as one of the options in a list._
-- **Prepared Date** – enter the date that the destructive sample was created.
-- **Sample Number** – this will be a read-only field for the destructive sample collector number migrated from BG-BASE.
-- **Legacy Number** – this is a read-only field for the BG-BASE specimen number.
-
-### How to add more preparations
-
-If there are multiple preparations to add to the Collection Object click **+** again to add an additional record. Once they are added, preparations will be displayed above the Preparation section of the form.
-
 ### How to add phenology information to the specimen
 
 This subform holds additional information about an individual specimen. 
@@ -112,13 +96,31 @@ The fields in this section are:
 - **Packet Content** – enter the packet content.
 - **Sex** – enter the sex of the plant, if known.
 
+### How to enter Destructive Sampling information
+
+This section should only be completed for preparations created during destructive sampling.
+
+- **Material type** - enter the type of material sample (e.g. Flower sample, Leaf sample, Pollen sample).
+- **Derived from** - this is for preparations made for Destructive Sampling ONLY. Enter the barcode of the specimen from which the sample was taken.
+- **Prepared By** – enter the person who prepared the sample.
+-- _Tip: type in the last name and, if the person is already in the Agents table, their name should come up as one of the options in a list._
+- **Prepared Date** – enter the date that the destructive sample was created.
+- **Sample Number** – do not enter data here. This has been used for the destructive sample collector number migrated from BG-BASE. 
+- **Legacy Number** – this is a read-only field for the BG-BASE specimen number.
+
 ### How to attach documents to a Preparation
 
 Click on the icon to open up the Preparation Attachments form and add attachments to an individual preparation.
 
 ![image](https://user-images.githubusercontent.com/6713716/173849200-f2ca8470-c5b2-462e-95e5-130488e7fedc.png)
 
-_Currently, this is not used.  
+_Currently, this is not used._  
+
+
+### How to add more preparations
+
+If there are multiple preparations to add to the Collection Object click **+** again to add an additional record. Once they are added, preparations will be displayed above the Preparation section of the form.
+
 
 ### How to remove a preparation
 
@@ -128,9 +130,9 @@ Only delete records created in error at present. To remove a Preparation from a 
 
 More guidance will be provided on removing preparations, but please use with caution.
 
-## How to add a determinations 
+## How to add determinations
 
-Any name that has been applied to a specimen is treated as a Determination. This includes the Label Name, the BG-BASE Filing Name, Typification names as well as any additional determinations.
+Any name that has been applied to a specimen is treated as a Determination. This includes the Label Name, the Filing Name, Typification names as well as any additional determinations.
 
 ![image](https://user-images.githubusercontent.com/8155743/216963564-a59451b8-e05f-4555-af47-07e980063eaf.png)
 
@@ -156,19 +158,20 @@ Please note that we are no longer creating a separate ‘Filing Name’ entry. T
 ![image](https://user-images.githubusercontent.com/8005676/180239266-a3e1dccf-63b3-4198-aa4a-ca9c75f70d5e.png)
 
   _Tip: If the name you are looking for is not in the list then check by clicking on the magnifying glass to search more thoroughly. If you still don’t see the record then you will need to add a new Taxon (see Adding a New Taxon Name)_
-_Note, you cannot enter the author name as part of the search.  enter the Genus, and species name, and if relevant any intraspecific epithets, only.  _
-_
+  
+_Note, you cannot enter the author name as part of the search. Enter the Genus, species name and any intraspecific epithets only._
+
 - **Filed as** – this is automatically ticked as each new determination record is added. Once all determinations have been entered, check that the determination which holds the name under which the specimen is filed is ticked here.
 
   _Tip: it may be that several determinations have the same taxon name which is where the specimen is filed. If this is the case, as a general rule the most recent determination should have the Filed as box ticked._
 
 - **Prefered Taxon** - if the name entered into Taxon Name is a Synonym, the Prefered Taxon will be displayed here. This is a read only field.
-  _Tip: You can copy and paste the Preferred Taxon name even though the field is grayed out.  Then you can paste it into a new Filing Name determination._
+  _Tip: You can copy the Preferred Taxon name even though the field is grayed out, and paste it into a new Filing Name determination._
   
 - **Determination Qualifier** – enter the qualifier if present in the determination (e.g. cf., aff. ?, forsan)
 - **Determination Addendum** – enter the taxon addendum if present (e.g. sensu latu (s.l.), sensu strictu (s.s.), auct. non Brit. etc.)
-- **Determined by** – Enter the name of the person who made the determination if known. This is not required for Label name, Data Capture name or Typification determinations.
-
+- **Determiners** – enter the name(s) of the person(s) who made the determination if known. This is not required for Label name, Data Capture name or Typification determinations.
+ - **Remarks** - enter any remarks specific to the determiner of this Preparation.
   To add a determiner click the green + and search for the agent in the query combo box. To add additional determiners click the green +
 
 ![image](https://user-images.githubusercontent.com/8155743/216964049-f803d0eb-adc9-41d7-97f1-ba3d0a6b4a62.png)
@@ -177,20 +180,20 @@ _
 - **Determined Date** - enter the date the determination was made if known. Use the dropdown to the left to select whether it is a Full Date, Mon/Year or Year. This is not required for Label name, Data Capture name or Typification determinations.
 - **Det. Barcode** - enter the barcode of the specimen the determination is from. For collection objects which have more than one preparation, this will ensure that it is known which individual specimen was seen and identified. This should be entered for all Dets, Curatorial Annotations and Typification determinations. It is not required for Label name determinations.
 - **Verbatim Determination** - this is a read only field for data migrated from BG-BASE
-- **Verbatim Determined By** – If there are multiple determiners, enter their names here. This also contains the name of the determiner from BG-BASE
+- **Verbatim Determined By** – if there are multiple determiners, enter their names here. This also contains the name of the determiner from BG-BASE
 - **Type Status** – for a Typification determination, enter the kind of type (e.g. Holotype, Isotype, Syntype, etc.)
 - **Det. Note** - enter any miscellaneous information associated with the determination (e.g. unusually large leaves for this species).
 - **Det. Citation** – this holds the citation information relating to the determination as a temporary measure until the Taxon Citation table is in place.
-- **Family No.** – this is a calcuated field for the RBGE family filing number.
-- **Genus No.** – this is a calculated field for the RBGE genus filing number.
+- **Family No.** – do not enter data here. This is a calcuated field for the RBGE family filing number.
+- **Genus No.** – do not enter data here. This is a calculated field for the RBGE genus filing number.
 
 - **Free Text Name** - this is a read only field for data migrated from BG-BASE
 
-When all the determinations have been added, check that the correct name has been ticked as the Filed As name.
+When all the determinations have been added, check that the correct name has been ticked as the **Filed As** name.
 
-Be aware that the Filed As name is applied to all Preparations within the Collection Object. This should not be an issue for most of the spirit collection, silica-dried collection and much of the carpological collection. If there are other Herbarium Sheet preparations within the Collection Object, they should be checked to ensure that they are physically filed under the Filed As name being selected.
+_Note: Be aware that the **Filed As** name is applied to all Preparations within the Collection Object. This should not be an issue for most of the spirit collection, silica-dried collection and much of the carpological collection. If there are other Herbarium Sheet preparations within the Collection Object, they should be checked to ensure that they are physically filed under the Filed As name being selected._
 
-To help decide which name should be used as the filing name, the following guidance can be used:
+To help decide which name should be used as the **Filed As** name, the following guidance can be used:
 
 When creating a new Collection Object for a Preparation
 - If there is only a single name associated with the Collection Object then use this by default
@@ -201,13 +204,13 @@ When creating a new Preparation under an existing Collection Object
 - If the most recent det. agrees with the existing filing name then this name should be used by default
 - If the most recent det. does not agree with the existing filing name then a decision will need to be made whether the other specimens can be recurated.
 
-When laying away, the Filed As name should be used.
+When laying away, **the Filed As** name should be used.
 
-The number of Determinations is indicated in brackets next to the **Determinations** heading
+_Note: The number of Determinations is indicated in brackets next to the **Determinations** heading._
 
 ### How to remove a Determination
 
-To remove a **Determination** from a record click ![image](https://user-images.githubusercontent.com/8005676/180239866-35e869e6-04ec-4e94-9c52-8d23a3473c9f.png).
+To remove a **Determination** from a record click the bin icon ![image](https://user-images.githubusercontent.com/8005676/180239866-35e869e6-04ec-4e94-9c52-8d23a3473c9f.png).
 
 ## How to add Collecting event data
 
@@ -305,7 +308,7 @@ This expands the Collecting Event Attribute part of the form
 - **Accuracy** – enter the accuracy of the geocoordinate information if known (e.g. <5km from coordinates, 5-20km from corrdinates, > 20km from coodrindates, GPS accuracy, no information).
 - **Certainty** – enter the certainty of the geocoordinate information (e.g. Certain, etc.).
  
-### How to enter Description, Number of Duplicates and additional Remarks to the Collection Object record
+### How to enter Description, Number of Duplicates, Associated Material and additional Remarks to the Collection Object record
 
 The Description and Number of Duplicates form part of the Collection Object information. These are positioned on the form after the Determinations and Collecting Event information
 
@@ -313,7 +316,7 @@ The Description and Number of Duplicates form part of the Collection Object info
 
 - **Description** - enter the description of the specimen as given on the label.
 - **Number of Duplicates** - enter the number of duplicates that were made when the specimen was collected if known.
-
+- **Associated Material** - enter any information about associated material that are not being created as Preparations within the Collection Object record here. This should include DNA, silic-dried material, photographs, etc.
 - **Remarks** - (this field is currently being added to the form) - enter any additional information about the Collection Object, including Associated Material. When adding Associated material:
   - If the associated material is a **duplicate, spirit or a destructive sample held at RBGE** then a separate **preparation** should be created if not already done
   - If the associated material is **silica gel** then it should be entered into the **silica-dried material database** - a note can be made in **Remarks**.
@@ -336,9 +339,9 @@ If the specimen is cultivated enter the Accession Number and Cultivated Source. 
   - _Tip: The Catalog Number can be found at the very bottom of the Collection Object form._
 
 
-### Collection Object Attribute
+### How to enter information about the population size, abundance, area of occupancy, etc
 
-The Collection Object Attribute part of the form is used to record information relating to Phenology, Abundance, Sample size, Population and Area of Occupancy
+The Collection Object Attribute part of the form is used to record information relating to Abundance, Sample size, Population and Area of Occupancy
 To add information to the Collection Object Attribute record click on the Add button next to the Collection Object Attribute header.
 
 This expands the Collection Object Attribute part of the form
@@ -350,7 +353,7 @@ This expands the Collection Object Attribute part of the form
 - **Area of Occupancy** - enter the size of the area occupied by this population
 - **Area of Occupancy Qualifier** - select an option from the dropdown specifying the unit for the area of occupancy 
 
-### Collection Object Properties
+### How to enter local names or usage information
 
 The Collection Object Properties part of the form is used to record information relating to Uses and Local Name
 
