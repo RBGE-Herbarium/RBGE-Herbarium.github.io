@@ -44,13 +44,13 @@ The Collection Object form will open as a single form with several sections. Som
 
 ![image](https://user-images.githubusercontent.com/8005676/180237890-95d0c7b2-fd7f-4303-8b34-dcc64832c228.png)
 
-## Entering data into the record.
+## How to enter data into the record.
 
 Registration Num: Enter the Registration Number if this specimen has been registered as incoming material.
 
 _Tip: In Specify, this table was called Accessions, but due to possible confusion for RBGE, it has been renamed Registrations. However, the icon for this table is still ACC._
 
-### Preparations subform
+### How to add a Preparation
 
 To add a preparation to a record click on **+** next to Preparations
 
@@ -93,11 +93,11 @@ This section should only be completed for preparations created during destructiv
 - **Sample Number** – this will be a read-only field for the destructive sample collector number migrated from BG-BASE.
 - **Legacy Number** – this is a read-only field for the BG-BASE specimen number.
 
-### Adding more preparations
+### How to add more preparations
 
 If there are multiple preparations to add to the Collection Object click **+** again to add an additional record. Once they are added, preparations will be displayed above the Preparation section of the form.
 
-### Preparation attributes subform
+### How to add phenology information to the specimen
 
 This subform holds additional information about an individual specimen. 
 
@@ -112,7 +112,7 @@ The fields in this section are:
 - **Packet Content** – enter the packet content.
 - **Sex** – enter the sex of the plant, if known.
 
-### Preparation attachments
+### How to attach documents to a Preparation
 
 Click on the icon to open up the Preparation Attachments form and add attachments to an individual preparation.
 
@@ -120,7 +120,7 @@ Click on the icon to open up the Preparation Attachments form and add attachment
 
 _Currently, this is not used.  
 
-### Remove a preparation
+### How to remove a preparation
 
 Only delete records created in error at present. To remove a Preparation from a record click the dustbin icon next to the Preparation.
 
@@ -128,7 +128,7 @@ Only delete records created in error at present. To remove a Preparation from a 
 
 More guidance will be provided on removing preparations, but please use with caution.
 
-## Determinations 
+## How to add a determinations 
 
 Any name that has been applied to a specimen is treated as a Determination. This includes the Label Name, the BG-BASE Filing Name, Typification names as well as any additional determinations.
 
@@ -205,17 +205,17 @@ When laying away, the Filed As name should be used.
 
 The number of Determinations is indicated in brackets next to the **Determinations** heading
 
-### Removing a Determination
+### How to remove a Determination
 
 To remove a **Determination** from a record click ![image](https://user-images.githubusercontent.com/8005676/180239866-35e869e6-04ec-4e94-9c52-8d23a3473c9f.png).
 
-## Collecting Event
+## How to add Collecting event data
 
 This section contains information about the Collectors and the Collecting Event (where and when the specimens were collected).
 
 ![image](https://user-images.githubusercontent.com/8005676/180240059-bc1e04d7-4529-4e35-85f9-00b5c1ed13fa.png)
 
-### Collectors
+### How to enter Collectors
 
 In Specify, all collectors are held in the Agents table, along with expeditions, organisations and institutes.
 
@@ -263,7 +263,7 @@ If the name you are looking for is not in the list, then check by clicking on th
 - **Substrate/Host** – enter the substrate or host if the specimen was found growing on another species or substrate e.g. a lichen growing on an Oak branch
 - **Collection Misc.** - enter miscellaneous information about the collecting event here.
 
-### Collecting Event Attribute
+### How to enter Locality data
 
 The Collecting Event Attribute part of the form is used to record information relating to Altitude, Latitude, Longitude and Geo-Referencing.
 To add information to the Collecting Event Attribute record click on the **+** button next to the Collecting Event Attribute header.
@@ -305,7 +305,7 @@ This expands the Collecting Event Attribute part of the form
 - **Accuracy** – enter the accuracy of the geocoordinate information if known (e.g. <5km from coordinates, 5-20km from corrdinates, > 20km from coodrindates, GPS accuracy, no information).
 - **Certainty** – enter the certainty of the geocoordinate information (e.g. Certain, etc.).
  
-### Collection Object Information continued
+### How to enter Description, Number of Duplicates and additional Remarks to the Collection Object record
 
 The Description and Number of Duplicates form part of the Collection Object information. These are positioned on the form after the Determinations and Collecting Event information
 
@@ -322,7 +322,7 @@ The Description and Number of Duplicates form part of the Collection Object info
   - If the associated material is a **duplicate herbarium specimen in another institute**, this should be entered as a note in **Remarks**, prefixed with Associated_mat if possible.
 
 
-### Cultivated Information
+### How to enter Cultivated Information
 
 In Specify, all cultivated specimen collection data are treated at the same level as wild-collected collection data using the same fields. The specimens are then linked to show the relationship. 
 
@@ -364,7 +364,7 @@ This expands the Collection Object Properties part of the form
 
 Please note: if there is both a Use and a Local Name given enter one and then add an additional record to add the other.
 
-### Collection Object Attachments
+### How to attach documents to the Collection Object record
 
 It is possible to attach documents and images to a Collection Object record.
 
@@ -376,7 +376,7 @@ Additional Record Data
 - **Record Modified By** -  name of the Agent who modified the record. This field is read only
 - **Modified Date** - the date the record was modified. This field is read only 
 
-## To create a new Preparation for an existing Collection Object
+## How to create a new Preparation for an existing Collection Object
 
 Search for the existing Collection Object using a [Query](https://rbge-herbarium.github.io/docs/queries/collection-object-queries.html). The Query [Collection Objects by country or collector](https://herb-rbge.specifycloud.org/specify/query/8/) may be helpful.
 
@@ -396,7 +396,7 @@ If there is any additional information that may be **relevant for all preparatio
 
 # Special situations
 
-## Physically Linked Specimens
+## How to physically link specimens
 
 Where a single sheet contains more than one specimen (i.e. multiple barcodes), then each specimen should be entered as a separate Collection Object and then linked using the Storage Location. Essentially, the specimen sheet itself is defined as a storage location which 'stores' one or more additional specimens.
 
