@@ -1,6 +1,3 @@
----
-parent: 
----
 
 # Collection Object form - archive
 
