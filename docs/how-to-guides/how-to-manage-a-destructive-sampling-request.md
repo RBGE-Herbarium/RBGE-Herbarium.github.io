@@ -47,28 +47,31 @@ This will open the **Destructive Sampling** form with a Destructive Sampling rec
 - This record can be saved at any time and completed at a later time. Click Save at the bottom right of the screen.
 - The **Destructive Sampling Request Number** will be automatically allocated when the record is saved. Take a note of this to find the record more quickly later.
 
-![image](https://user-images.githubusercontent.com/8005676/180242316-4780a3f6-fe38-48f5-8f45-ea750bfed900.png)
+![image](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/6713716/c35a82f4-dc7c-48fc-b584-48a89788f55e)
+
 
 **Status**: Select the current status from the dropdown menu (Complete, Denied, Pending)
+![image](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/6713716/93ed0620-fa33-4535-91b6-997dec263530)
 
-- **Purpose**: Select a value from a dropdown menu. Current recommendation is to only select one of the following options. If you need a different value, please ask.
+- **Purpose**: Select a value from a dropdown menu. Only select one of the following options. If you need a different value, please ask.
   - molecular research (DNA, gene sequencing, etc.)
   - anatomical research
-  - general research (not one of the above)
   - phytochemical research
+  - general research (when not molecular, anatomical or phytochemical)
   - teaching
   - illustration
 - **Description**: Enter a short summary of the intended research, and a general taxonomic or geographic summary.
 - **Loan Num**: Enter the associated Loan number if the request originated from a Loan Request or if it triggers a Loan Request.
 - **Their Num**: Enter the other institute’s reference number, if known.
-- **Legacy Number**: This is read only and provides the BG-BASE number for the Desiderata record.
-- **Remarks**: This holds the Remarks for the whole Destructive Sampling record. You can enter any additional information or notes relating to the destructive sampling request. This field may be used as part of the report to be sent to the Requester.
+- **Legacy Number**: This is read only, do not enter data.
+- **Remarks**: Enter any additional information or notes relating to the destructive sampling request. Any information relating to any particular samples should be entered into the Preparation record. This field may be used as part of the report to be sent to the Requester.
 - **Internal Misc**: This can be used to help with the management process of the request and notes in here do not have to be retained. This would not be included in any report to the Requester.
 
 - **Destructive Sampling Agents**: Enter the following information if known:
   - Herbarium making request: Agent = Herbarium; Role = Herbarium
   - Individual researcher named on request: Agent = individual name; Role = Requester
   - Supervisor if named on request: Agent = individual name; Role = Supervisor
+  - Person preparing the samples: Agent = individual name; Role = Preparer
   _Tip – if you want to search by institution code – you can enter in the agent box: %(CODE) – e.g. see screenshot below:_
 
 ![image](https://user-images.githubusercontent.com/8005676/180242530-43b21a1b-9991-4641-9d4f-936e19ca944f.png)
