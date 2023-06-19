@@ -72,6 +72,7 @@ This will open the **Destructive Sampling** form with a Destructive Sampling rec
   - Individual researcher named on request: Agent = individual name; Role = Requester
   - Supervisor if named on request: Agent = individual name; Role = Supervisor
   - Person preparing the samples: Agent = individual name; Role = Preparer
+    
   _Tip – if you want to search by institution code – you can enter in the agent box: %(CODE) – e.g. see screenshot below:_
 
 ![image](https://user-images.githubusercontent.com/8005676/180242530-43b21a1b-9991-4641-9d4f-936e19ca944f.png)
