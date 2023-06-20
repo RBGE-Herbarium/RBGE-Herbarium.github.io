@@ -45,7 +45,7 @@ This section should only be completed for preparations created during destructiv
 - **Derived from** - this is for preparations made for Destructive Sampling ONLY. Enter the barcode of the specimen from which the sample was taken.
 - **Prepared By** – enter the person who prepared the sample.
 
--- _Tip: type in the last name and, if the person is already in the Agents table, their name should come up as one of the options in a list._
+  _Tip: type in the last name and, if the person is already in the Agents table, their name should come up as one of the options in a list._
 - **Prepared Date** – enter the date that the destructive sample was created.
 - **Sample Number** – do not enter data here. This has been used for the destructive sample collector number migrated from BG-BASE. 
 - **Legacy Number** – this is a read-only field for the BG-BASE specimen number.
