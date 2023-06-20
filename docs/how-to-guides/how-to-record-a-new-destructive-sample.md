@@ -43,7 +43,7 @@ This section should only be completed for preparations created during destructiv
 
 - **Material type** - enter the type of material sample (e.g. Flower sample, Leaf sample, Pollen sample).
 - **Derived from** - this is for preparations made for Destructive Sampling ONLY. Enter the barcode of the specimen from which the sample was taken.
-- **Prepared By** – enter the person who prepared the sample.
+- **Prepared By** – enter the person who prepared the sample if different from the person who prepared the whole request.
 
   _Tip: type in the last name and, if the person is already in the Agents table, their name should come up as one of the options in a list._
 - **Prepared Date** – enter the date that the destructive sample was created.
