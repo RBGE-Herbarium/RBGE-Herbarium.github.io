@@ -1,5 +1,5 @@
 ---
-parent: Specify at RBGE
+parent: Information and explanation
 title: Cultivated Specimens
 ---
 
