@@ -1,7 +1,7 @@
 
 Welcome to the RBGE Herbarium guidelines website
 
-
+----
 The guidance has been divided into several main sections:
 
 How-to guides
