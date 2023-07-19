@@ -2,7 +2,7 @@
 parent: How-to guides
 ---
 
-# Loans Form
+# How to manage Loans
 
 {: .no_toc }
 
