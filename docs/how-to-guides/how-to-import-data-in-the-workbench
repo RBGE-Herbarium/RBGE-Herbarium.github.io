@@ -1,8 +1,8 @@
 ---
-parent: Data Entry
+parent: How-to guides
 ---
 
-# Importing data through the Workbench
+# How to import data through the Workbench
 
 {: .no_toc }
 
@@ -18,7 +18,7 @@ parent: Data Entry
 
 The aim is to import specimen data through the Specify Workbench as much as possible to reduce the databasing required by Herbarium staff. A template spreadsheet is available for collectors and can be requested from the Herbarium Office or from Rob Cubey. This spreadsheet is used to import the specimen data directly into Specify, creating Collection Objects and Preparations. The import will link to existing Agents and Taxa or create new records when appropriate.
 
-## Preparing the spreadsheets for import
+## How to prepare the spreadsheets for import
 
 ### Checklist
 
@@ -28,12 +28,12 @@ The aim is to import specimen data through the Specify Workbench as much as poss
 - Parse determiner name strings
 
 
-### Parse taxon name strings
+### How to parse taxon name strings
 
 There are tools available to help parse the taxon name strings. One good option is the [GBIF Name Parser](https://www.gbif.org/tools/name-parser). Copy and paste all the names to be parsed or upload a text file.
 
 The output is a csv file with the component parts of the taxon name in separate columns.
 
-To format the columns:
+Ho to format the columns:
 
 - 
