@@ -4,15 +4,17 @@
 ----
 The guidance has been divided into several main sections:
 
-### How-to guides
+### [How-to guides](https://rbge-herbarium.github.io/docs/how-to-guides/)
 
+These are designed to help you work through specific tasks.
 
-### Information and explanation
+### [Information and explanation](https://rbge-herbarium.github.io/docs/information-and-explanation/)
 
+These provide additional information about data structure, etc.
 
-### Reference manual
+### [Reference manual](https://rbge-herbarium.github.io/docs/reference-manual/)
 
-
+This section includes a technical overview of Specify, listing the various tables and fields being used at RBGE.
 
 ----
 There are two additional sections:
