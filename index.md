@@ -16,9 +16,10 @@ The guidance has been divided into several main sections:
 
 ----
 There are two additional sections:
-Queries
 
-Digitisation at RBGE
+## Queries
+
+## Digitisation at RBGE
 
 ----
 Specify is available here: [Specify](https://herb-rbge.specifycloud.org/specify/)
