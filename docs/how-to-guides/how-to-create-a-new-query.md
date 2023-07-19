@@ -1,5 +1,5 @@
 ---
-parent: Queries
+parent: How-to guides
 ---
 
 ## How to Create a New Query
