@@ -1,15 +1,30 @@
 
-Welcome to the RBGE Specify website
+Welcome to the RBGE Herbarium guidelines website
 
-Use the navigation on the left to view the docs.  
 
-Specify is available here (login required):
+The guidance has been divided into several main sections:
 
-[Live Specify](https://herb-rbge.specifycloud.org/specify/)
+How-to guides
 
-["Sandbox" deployment (non live deployment, for use for testing / training)](https://sandbox-rbge.specifycloud.org/specify/)
 
-if you are on the RBGE network, you can access our specify tools, in cluding the rapid minimal data entry app here:
+Information and explanation
+
+
+Reference manual
+
+----
+There are two additional sections:
+Queries
+
+Digitisation at RBGE
+
+
+Specify is available here: [Specify](https://herb-rbge.specifycloud.org/specify/)
+
+There is also a 'Sandbox' version for testing here: [Sandbox](https://sandbox-rbge.specifycloud.org/specify/)
+
+----
+If you are on the RBGE network, you can access additional Specify tools, including the minimal data entry app here:
 
 [Live](http://herbmgt.rbge.org.uk/specify_tasks/public/index.php)
  
