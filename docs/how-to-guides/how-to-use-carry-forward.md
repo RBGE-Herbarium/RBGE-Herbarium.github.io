@@ -1,13 +1,13 @@
 ---
-parent: Specify at RBGE
-title: Carry Forward
+parent: How-to guides
+title: How to use Carry Forward
 ---
 
-# Carry Forward
+# How to use Carry Forward
 
 Carry Forward allows data in selected fields to be copied between new records. The fields that are carried forward between records are defined by the user and can be adjusted depending on the task. 
 
-## To Enable and configure Carry Forward
+## How to enable and configure Carry Forward
 
 To enable Carry Forward for a Data entry form click on the cog ![image](https://user-images.githubusercontent.com/8155743/234029614-4b3ca9be-7f38-43d6-9880-ba423baee7d6.png) at the top right of the screen. This opens the Form Meta screen for the page:
 
@@ -38,7 +38,7 @@ You should now see a button for carry forward at the bottom right of the data en
 
 ![image](https://user-images.githubusercontent.com/8155743/234039432-bad49a5d-03b1-4c84-846b-9c982d24d676.png)
 
-## Using Carry Forward
+## How to use Carry Forward
 
 Once you have configured carry forward you will be able to start using it. After saving a record where you want to Carry Forward the data  for your selected fields, click on the Carry Forward button. This will create a new record with the selected fields already filled in with the **same** data as the previous record.
 
