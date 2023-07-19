@@ -1,5 +1,5 @@
 ---
-parent: Data Entry
+parent: How-to guides
 ---
 
 # Loans Form
@@ -19,7 +19,7 @@ parent: Data Entry
 In Specify, an outgoing loan is treated as a Loan interaction. 
 
 
-## Creating the Loan record and entering information about the loaned material 
+## How to create a Loan record and enter information about the loaned material 
 
 There are several options for creating a record with the specimens to be loaned. Each user may want to use the method that works best for them and the loan in question. 
 
