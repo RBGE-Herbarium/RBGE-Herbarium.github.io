@@ -1,8 +1,8 @@
 ---
-parent: Data Entry
+parent: How-to guides
 ---
 
-# Collecting permits
+# How to record collecting permits
 
 
 
