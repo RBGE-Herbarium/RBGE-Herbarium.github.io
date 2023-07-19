@@ -1,16 +1,18 @@
 
 # Welcome to the RBGE Herbarium guidelines website
 
-
+----
 The guidance has been divided into several main sections:
 
-How-to guides
+## How-to guides
 
 
-Information and explanation
+## Information and explanation
 
 
-Reference manual
+## Reference manual
+
+
 
 ----
 There are two additional sections:
