@@ -4,22 +4,22 @@
 ----
 The guidance has been divided into several main sections:
 
-## How-to guides
+### How-to guides
 
 
-## Information and explanation
+### Information and explanation
 
 
-## Reference manual
+### Reference manual
 
 
 
 ----
 There are two additional sections:
 
-## Queries
+### Queries
 
-## Digitisation at RBGE
+### Digitisation at RBGE
 
 ----
 Specify is available here: [Specify](https://herb-rbge.specifycloud.org/specify/)
