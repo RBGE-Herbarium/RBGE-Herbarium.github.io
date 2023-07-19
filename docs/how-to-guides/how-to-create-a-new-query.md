@@ -2,7 +2,7 @@
 parent: Queries
 ---
 
-## Creating a New Query
+## How to Create a New Query
 
 To create a new query click on the Queries button in the top bar
 
