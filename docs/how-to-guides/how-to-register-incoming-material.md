@@ -1,8 +1,8 @@
 ---
-parent: Data Entry
+parent: How-to guides
 ---
 
-# Registration Form
+# How to register incoming material
 
 The Registration table is used to record all specimens coming into the herbarium. Data about previous incoming gifts have been migrated into this table.
 
