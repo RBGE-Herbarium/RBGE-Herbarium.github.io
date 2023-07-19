@@ -1,8 +1,8 @@
 ---
-parent: Queries
+parent: How-to guides
 ---
 
-## Working with Saved queries
+## How to use and edit saved queries
 
 To open a saved query click on the Queries button in the top bar
 
@@ -18,7 +18,7 @@ To start using the query enter the search term into the field(s) you wish to sea
 
 ![image](https://user-images.githubusercontent.com/8155743/193556891-100800f1-56d3-4e13-81f9-e14fef75617f.png)
 
-### Editing a saved query
+### How to Edit a saved query
 
 Once you have opened a saved query you can edit it, either by changing the operators being used for a particular filed, or you can add additional fields to search on and return in your results.
 
@@ -28,7 +28,7 @@ To save this as a new query click ![image](https://user-images.githubusercontent
 . You can rename the query in the pop up.
 To update the original query click ![image](https://user-images.githubusercontent.com/8155743/193557011-08ae6b66-c8c3-4617-8f47-9382161f4317.png). This will save your modifications under the same name as the one you opened. 
 
-### Sharing a saved query
+### How to share a saved query
 
 It is possible to share queries between users. To do this copy the url from the web browser
 
