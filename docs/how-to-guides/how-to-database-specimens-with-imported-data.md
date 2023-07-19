@@ -1,8 +1,8 @@
 ---
-parent: Data Entry
+parent: How-to guides
 ---
 
-# Databasing from workbench
+# How to database specimens with imported data
 
 {: .no_toc }
 
@@ -22,7 +22,7 @@ When the specimens have been prepared for accession (mounted, packets prepared, 
 
 This guidance provides some options for how the Collection Object records can be retrieved and the data that can be checked and added at this stage.
 
-## Retrieving Collection Object records
+## How to retrieve Collection Object records
 
 Depending how the specimens are being received for databasing, you may want to retrieve the Collection Object records in different ways. 
 
@@ -38,7 +38,7 @@ Workbench import data entry: https://herb-rbge.specifycloud.org/specify/query/19
 
 If you are working with a large batch, then you may want to restrict the number coming up in the query by including part of the collecting number. 
 
-## Entering the barcode and other relevant data
+## How to entering the barcode and other relevant data
 
 Click on the appropriate record to open it in a new window. This will keep the remaining results to be selected more easily. 
 
