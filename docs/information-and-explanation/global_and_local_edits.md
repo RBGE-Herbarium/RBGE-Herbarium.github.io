@@ -1,5 +1,5 @@
 ---
-parent: Specify at RBGE
+parent: Information and explanation
 title: Global and local edits
 ---
 
