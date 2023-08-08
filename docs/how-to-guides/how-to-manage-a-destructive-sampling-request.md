@@ -64,7 +64,7 @@ This will open the **Destructive Sampling** form with a Destructive Sampling rec
 - **Loan Num**: Enter the associated Loan number if the request originated from a Loan Request or if it triggers a Loan Request.
 - **Their Num**: Enter the other institute’s reference number, if known.
 - **Legacy Number**: This is read only, do not enter data.
-- **Remarks**: Enter any additional information or notes relating to the destructive sampling request. Any information relating to any particular samples should be entered into the Preparation record. This field may be used as part of the report to be sent to the Requester.
+- **Remarks**: Enter any additional information or notes relating to the destructive sampling request. This field may be used as part of the report to be sent to the Requester.
 - **Internal Misc**: This can be used to help with the management process of the request and notes in here do not have to be retained. This would not be included in any report to the Requester.
 
 - **Destructive Sampling Agents**: Enter the following information if known:
