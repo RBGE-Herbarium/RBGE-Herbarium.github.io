@@ -23,7 +23,7 @@ parent: Reference manual
    <th><strong>BG-BASE mapping</strong>
    </th>
   </tr>
-    <tr>    
+  <tr>    
    <td>Registration Num
    </td>
    <td>accession
@@ -32,9 +32,9 @@ parent: Reference manual
    </td>
    <td>ManyToOne to Collection Object 
    </td>
-   <td>Yes
+   <td>On form
    </td>
-   <td>No
+   <td>Visible
    </td>
    <td>n/a
    </td>
@@ -55,7 +55,7 @@ parent: Reference manual
    <td>to be added
    </td>
   </tr>
-    <tr>    
+  <tr>    
    <td>Accession Number
    </td>
    <td>altCatalogNumber
@@ -64,156 +64,156 @@ parent: Reference manual
    </td>
    <td>String, 64 
    </td>
-   <td>Yes
+   <td>On form
    </td>
-   <td>No
+   <td>Visible
    </td>
    <td>Specimens > acc_num 
 Specimens > acc_num_qual 
    </td>
   </tr>
    <tr>    
-   <td>
+   <td>Appraisal
    </td>
-   <td>
+   <td>appraisal
    </td>
-   <td>
+   <td>to be added
    </td>
-   <td>
+   <td>ManyToOne to Collection Object
    </td>
-   <td>
+   <td>Not on form
    </td>
-   <td>
+   <td>n/a
    </td>
-   <td>
-   </td>
-  </tr>
-    <tr>    
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
+   <td>n/a
    </td>
   </tr>
-    <tr>    
-   <td>
+  <tr>    
+   <td>Location Sensitive
    </td>
-   <td>
+   <td>Availability
    </td>
-   <td>
+   <td>For specimens of protected species, select how much information should be suppressed in the online catalogue 
    </td>
-   <td>
+   <td>String, 32
    </td>
-   <td>
+   <td>Not on form
    </td>
-   <td>
+   <td>n/a
    </td>
-   <td>
-   </td>
-  </tr>
-    <tr>    
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
+   <td>Specimens > location_sensitive 
    </td>
   </tr>
-    <tr>    
-   <td>
+  <tr>    
+   <td>Catalog Number
    </td>
-   <td>
+   <td>catalogNumber
    </td>
-   <td>
+   <td>Automatically allocated by system. Read only.
    </td>
-   <td>
+   <td>String, 32 
    </td>
-   <td>
+   <td>On form
    </td>
-   <td>
+   <td>Visible
    </td>
-   <td>
-   </td>
-  </tr>
-    <tr>    
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
+   <td>n/a
    </td>
   </tr>
-    <tr>    
-   <td>
+  <tr>    
+   <td>Cataloged Date
    </td>
-   <td>
+   <td>catalogedDate
    </td>
-   <td>
+   <td>Cataloged Date
    </td>
-   <td>
+   <td>Date
    </td>
-   <td>
+   <td>Not on form
    </td>
-   <td>
+   <td>n/a
    </td>
-   <td>
-   </td>
-  </tr>
-    <tr>    
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
+   <td>n/a
    </td>
   </tr>
-    <tr>    
-   <td>
+  <tr>    
+   <td>Cataloged Date Precision
    </td>
-   <td>
+   <td>catalogedDatePrecision
    </td>
-   <td>
+   <td>Cataloged Date Precision
    </td>
-   <td>
+   <td>Byte
    </td>
-   <td>
+   <td>Not on form
    </td>
-   <td>
+   <td>n/a
    </td>
-   <td>
+   <td>n/a
+   </td>
+  </tr>
+  <tr>    
+   <td>catalogedDateVerbatim
+   </td>
+   <td>catalogedDateVerbatim
+   </td>
+   <td>Cataloged Date Verbatim
+   </td>
+   <td>String, 32
+   </td>
+   <td>Not on form
+   </td>
+   <td>n/a
+   </td>
+   <td>n/a
+   </td>
+  </tr>
+  <tr>    
+   <td>Cataloger
+   </td>
+   <td>cataloger
+   </td>
+   <td>Cataloger
+   </td>
+   <td>ManyToOne to Collection Object
+   </td>
+   <td>Not on form
+   </td>
+   <td>n/a
+   </td>
+   <td>n/a
+   </td>
+  </tr>
+  <tr>    
+   <td>Collecting Event
+   </td>
+   <td>collectingEvent
+   </td>
+   <td>Collecting Event
+   </td>
+   <td>ManyToOne to Collection Object
+   </td>
+   <td>On form
+   </td>
+   <td>Yes
+   </td>
+   <td>n/a
+   </td>
+  </tr>
+  <tr>    
+   <td>Collection
+   </td>
+   <td>collection
+   </td>
+   <td>Collection
+   </td>
+   <td>ManyToOne to Collection Object 
+   </td>
+   <td>to be added
+   </td>
+   <td>to be added
+   </td>
+   <td>to be added
    </td>
   </tr>
   <tfoot>
