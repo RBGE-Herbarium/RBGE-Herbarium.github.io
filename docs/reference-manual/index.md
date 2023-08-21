@@ -195,7 +195,7 @@ Specimens > acc_num_qual
    </td>
    <td>On form
    </td>
-   <td>Yes
+   <td>Visible
    </td>
    <td>n/a
    </td>
