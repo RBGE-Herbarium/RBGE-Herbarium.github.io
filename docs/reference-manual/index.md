@@ -23,7 +23,7 @@ parent: Reference manual
    <th><strong>BG-BASE mapping</strong>
    </th>
   </tr>
-   <tr>    
+    <tr>    
    <td>
    </td>
    <td>
@@ -39,7 +39,6 @@ parent: Reference manual
    <td>
    </td>
   </tr>
-
   <tr>    
    <td>
    </td>
@@ -72,7 +71,22 @@ parent: Reference manual
    <td>
    </td>
   </tr>
-
+   <tr>    
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
     <tr>    
    <td>
    </td>
@@ -89,7 +103,6 @@ parent: Reference manual
    <td>
    </td>
   </tr>
-
     <tr>    
    <td>
    </td>
@@ -106,7 +119,6 @@ parent: Reference manual
    <td>
    </td>
   </tr>
-
     <tr>    
    <td>
    </td>
@@ -123,7 +135,6 @@ parent: Reference manual
    <td>
    </td>
   </tr>
-
     <tr>    
    <td>
    </td>
@@ -140,7 +151,6 @@ parent: Reference manual
    <td>
    </td>
   </tr>
-
     <tr>    
    <td>
    </td>
@@ -157,7 +167,6 @@ parent: Reference manual
    <td>
    </td>
   </tr>
-
     <tr>    
    <td>
    </td>
@@ -174,7 +183,6 @@ parent: Reference manual
    <td>
    </td>
   </tr>
-
     <tr>    
    <td>
    </td>
@@ -191,7 +199,6 @@ parent: Reference manual
    <td>
    </td>
   </tr>
-
     <tr>    
    <td>
    </td>
@@ -208,24 +215,6 @@ parent: Reference manual
    <td>
    </td>
   </tr>
-
-    <tr>    
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-
   <tfoot>
    <tr>
     <td style="font-weight:400;text-align:left" colspan="7" >
