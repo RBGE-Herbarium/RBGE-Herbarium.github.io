@@ -40,35 +40,36 @@ parent: Reference manual
    </td>
   </tr>
   <tr>    
-   <td>
+   <td>Agent1 
    </td>
-   <td>
+   <td>agent1
    </td>
-   <td>
+   <td>to be added
    </td>
-   <td>
+   <td>ManyToOne to Collection Object 
    </td>
-   <td>
+   <td>to be added
    </td>
-   <td>
+   <td>to be added
    </td>
-   <td>
+   <td>to be added
    </td>
   </tr>
     <tr>    
-   <td>
+   <td>Accession Number
    </td>
-   <td>
+   <td>altCatalogNumber
    </td>
-   <td>
+   <td>Enter the RBGE accession number (8 figure number starting with a year) of the plant from which this specimen has been made if it comes from the living collections at E. If it has a pre-1968 accession number please contact the Plant Records Officer. 
    </td>
-   <td>
+   <td>String, 64 
    </td>
-   <td>
+   <td>Yes
    </td>
-   <td>
+   <td>No
    </td>
-   <td>
+   <td>Specimens > acc_num 
+Specimens > acc_num_qual 
    </td>
   </tr>
    <tr>    
