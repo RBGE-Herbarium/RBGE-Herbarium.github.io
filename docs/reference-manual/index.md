@@ -24,19 +24,19 @@ parent: Reference manual
    </th>
   </tr>
     <tr>    
-   <td>
+   <td>Registration Num
    </td>
-   <td>
+   <td>accession
    </td>
-   <td>
+   <td>Registration number is the number allocated to a group of specimens as they enter the herbarium collection.
    </td>
-   <td>
+   <td>ManyToOne to Collection Object 
    </td>
-   <td>
+   <td>Yes
    </td>
-   <td>
+   <td>No
    </td>
-   <td>
+   <td>n/a
    </td>
   </tr>
   <tr>    
