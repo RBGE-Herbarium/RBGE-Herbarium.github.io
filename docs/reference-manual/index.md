@@ -23,8 +23,7 @@ parent: Reference manual
    <th><strong>BG-BASE mapping</strong>
    </th>
   </tr>
-  
-  <tr>    
+   <tr>    
    <td>
    </td>
    <td>
