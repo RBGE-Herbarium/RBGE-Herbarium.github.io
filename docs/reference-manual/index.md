@@ -60,7 +60,7 @@ parent: Reference manual
    </td>
    <td>altCatalogNumber
    </td>
-   <td>Enter the RBGE accession number (8 figure number starting with a year) of the plant from which this specimen has been made if it comes from the living collections at E. If it has a pre-1968 accession number please contact the Plant Records Officer. 
+   <td>Enter the RBGE accession number (8 figure number starting with a year) of the plant from which this specimen has been made if it comes from the living collections at E. If it has a pre-1968 accession number, please contact the Plant Records Officer. 
    </td>
    <td>String, 64 
    </td>
