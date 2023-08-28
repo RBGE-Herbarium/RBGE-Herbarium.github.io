@@ -58,5 +58,5 @@ parent: Reference manual
      Note:	Test note.
     </td>
    </tr>
-  <tfoot>
+  </tfoot>
 </table>
