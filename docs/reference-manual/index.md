@@ -18,9 +18,9 @@ parent: Reference manual
   <tr>    
    <td>Registration Num
    </td>
-   <td>Examples to be added
-   </td>
    <td>Registration number is the number allocated to a group of specimens as they enter the herbarium collection.
+   </td>
+   <td>Examples to be added
    </td>
   </tr>
    <td>Accession Number
