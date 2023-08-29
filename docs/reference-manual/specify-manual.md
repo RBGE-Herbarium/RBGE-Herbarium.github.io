@@ -54,6 +54,44 @@ parent: Reference manual
   </tr>
 </table>
 
+### Preparation 
+
+<table>
+  <tr>
+   <th><strong>Specify field</strong>
+   </th>
+   <th><strong>Description</strong>
+   </th>
+   <th><strong>Examples</strong>
+   </th>
+  </tr>
+  <tr>    
+   <td>Prep type
+   </td>
+   <td>Select the kind of material (e.g. Herbarium sheet, Carpological) 
+   </td>
+   <td>Examples to be added
+   </td>
+  </tr>
+  <tr>    
+   <td>Barcode
+   </td>
+   <td>For Herbarium sheets the format is E + 8 digits, which are assigned from the physical barcodes. For Destructive samples the format is the Destructive sampling request number followed by a running number for each sample with no leading 0s.
+   </td>
+   <td>Examples to be added
+   </td>
+  </tr>
+  <tr>    
+   <td>Is on loan
+   </td>
+   <td>This is an automatically calculated field which pulls information from the Loans table. This is read only. It will be checked if the preparation is currently out on loan. 
+   </td>
+   <td> Examples to be added
+   </td>
+  </tr>
+</table>
+
+
 <!--- <tfoot>
  <tr>
  <td style="font-weight:400;text-align:left" colspan="3" >
