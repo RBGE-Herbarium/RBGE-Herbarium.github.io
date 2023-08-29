@@ -17,7 +17,7 @@ parent: Reference manual
 </details>
 
 
-## Collection Object 
+## Collection Object Form
 
 <table>
   <tr>
@@ -46,7 +46,7 @@ parent: Reference manual
   </tr>
 </table>
 
-### Preparation 
+### Preparation subform
 
 <table>
   <tr>
@@ -195,7 +195,7 @@ parent: Reference manual
   </tr>
 </table>
 
-#### Preparation Attribute
+#### Preparation Attribute section
 
 <table>
   <tr>
@@ -240,7 +240,7 @@ parent: Reference manual
   </tr>
 </table>
 
-#### Destructive Sampling
+#### Destructive Sampling section
 
 <table>
   <tr>
@@ -277,7 +277,7 @@ parent: Reference manual
   </tr>
 </table>
 
-#### Preparation (continued)
+#### Preparation subform (continued)
 
 <table>
   <tr>
@@ -314,7 +314,83 @@ parent: Reference manual
   </tr>
 </table>
 
-#### Cultivated Information (Collection Object)
+### Collecting Event subform
+
+#### Collectors section
+
+<table>
+  <tr>
+   <th><strong>Specify field</strong>
+   </th>
+   <th><strong>Description</strong>
+   </th>
+   <th><strong>Examples</strong>
+   </th>
+  </tr>
+  <tr>    
+   <td>Agent
+   </td>
+   <td>This field links to the Agent table. The look-up has been formatted to search for the last name. The results have been formatted to include the full name, abbreviation, and dates to help select the correct record. All collectors are held in the Agents table, along with expeditions, organisations and institutes
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>    
+   <td>Verbatim Collector Name
+   </td>
+   <td>This has been used to record the free text collector name from BG-BASE. Where this is the case, the name will be prefixed by "From BG-BASE" and the Collector Code.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>    
+   <td>Collection Date
+   </td>
+   <td>This is used to record the date on which the Collection Object was collected. A qualifier field enables the format of the date to be selected, ie Full date, Month / Year, or Year only.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>    
+   <td>Second Collection Date
+   </td>
+   <td>This is used to record a second collection date if the Collection Object was collected over a period of time. A qualifier field enables the format of the date to be selected, ie Full date, Month / Year, or Year only.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>    
+   <td>Date as given
+   </td>
+   <td>This is used to record the date on which the Collection Object was collected if it does not align with a standard date.
+   </td>
+   <td>Spring, Summer, Autumn, Winter
+   </td>
+  </tr>
+</table>
+
+### Collecting Event subform (continued)
+
+<table>
+  <tr>
+   <th><strong>Specify field</strong>
+   </th>
+   <th><strong>Description</strong>
+   </th>
+   <th><strong>Examples</strong>
+   </th>
+  </tr>
+  <tr>    
+   <td>Accession Number
+   </td>
+   <td>Enter the RBGE accession number (8 figure number starting with a year) of the plant from which this specimen has been made if it comes from the living collections at E. If it has a pre-1968 accession number, please contact the Plant Records Officer. 
+   </td>
+   <td> Examples to be added
+   </td>
+  </tr>
+</table>
+
+#### Cultivated Information subform (Collection Object)
 
 <table>
   <tr>
