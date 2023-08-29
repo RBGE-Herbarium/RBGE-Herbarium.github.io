@@ -52,11 +52,12 @@ parent: Reference manual
    <td> Examples to be added
    </td>
   </tr>
-  <tfoot>
-   <tr>
-    <td style="font-weight:400;text-align:left" colspan="3" >
-     Note:	Test note.
-    </td>
-   </tr>
-  </tfoot>
 </table>
+
+[//]: #   <tfoot>
+[//]: #    <tr>
+[//]: #     <td style="font-weight:400;text-align:left" colspan="3" >
+[//]: #      Note:	Test note.
+[//]: #     </td>
+[//]: #    </tr>
+[//]: #   </tfoot>
