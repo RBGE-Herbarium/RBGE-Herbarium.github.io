@@ -44,14 +44,6 @@ parent: Reference manual
    <td>Examples to be added
    </td>
   </tr>
-  <tr>    
-   <td>Accession Number
-   </td>
-   <td>Enter the RBGE accession number (8 figure number starting with a year) of the plant from which this specimen has been made if it comes from the living collections at E. If it has a pre-1968 accession number, please contact the Plant Records Officer. 
-   </td>
-   <td> Examples to be added
-   </td>
-  </tr>
 </table>
 
 ### Preparation 
@@ -164,7 +156,7 @@ parent: Reference manual
   <tr>
    <td>Project
    </td>
-   <td>This is used to record a project for the preparation. If applicable select the project from the dropdown list. At present it is only possible to select a single project so this field should be used with caution.
+   <td>This is used to record a project for the Preparation. If applicable select the project from the dropdown list. At present it is only possible to select a single project so this field should be used with caution.
    </td>
    <td
    </td>
@@ -172,7 +164,7 @@ parent: Reference manual
   <tr>
    <td>Label Header
    </td>
-   <td>
+   <td>This is used to record the label header. It enables the correct formatting of labels if they are being printed from Specify.
    </td>
    <td
    </td>
@@ -180,7 +172,7 @@ parent: Reference manual
   <tr>
    <td>Label Footer
    </td>
-   <td>
+   <td>This is used to record the label footer. It enables the correct formatting of labels if they are being printed from Specify.
    </td>
    <td
    </td>
@@ -188,7 +180,7 @@ parent: Reference manual
   <tr>
    <td>Remarks
    </td>
-   <td>
+   <td>This is used to record any remarks relevant to the individual Preparation. Any information entered here may be visible to the general public. For remarks relevant to the Collection Object as a whole, use the Remarks field below Specimen Description.
    </td>
    <td
    </td>
@@ -196,7 +188,7 @@ parent: Reference manual
   <tr>
    <td>Internal Misc
    </td>
-   <td>
+   <td>This is used to record any internal information relevant to the individual Preparation. Any information entered here will not be visible to the general public. 
    </td>
    <td
    </td>
@@ -241,6 +233,29 @@ parent: Reference manual
    </td>
   </tr>
 </table>
+
+### Cultivated Information (Collection Object)
+
+<table>
+  <tr>
+   <th><strong>Specify field</strong>
+   </th>
+   <th><strong>Description</strong>
+   </th>
+   <th><strong>Examples</strong>
+   </th>
+  </tr>
+  <tr>    
+   <td>Accession Number
+   </td>
+   <td>Enter the RBGE accession number (8 figure number starting with a year) of the plant from which this specimen has been made if it comes from the living collections at E. If it has a pre-1968 accession number, please contact the Plant Records Officer. 
+   </td>
+   <td> Examples to be added
+   </td>
+  </tr>
+</table>
+
+
 
 <!--- <tfoot>
  <tr>
