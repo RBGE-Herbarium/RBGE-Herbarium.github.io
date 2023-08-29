@@ -16,6 +16,92 @@ parent: Reference manual
 {:toc}
 </details>
 
+## A-Z
+
+<table>
+  <tr>
+   <th><strong>Specify field</strong>
+   </th>
+   <th><strong>Description</strong>
+   </th>
+   <th><strong>Examples</strong>
+   </th>
+  </tr>
+  <tr>    
+   <td>**Barcode**
+   </td>
+   <td>For Herbarium sheets the format is E + 8 digits, which are assigned from the physical barcodes. For Destructive samples the format is the Destructive sampling request number followed by a running number for each sample with no leading 0s.
+   </td>
+   <td>Examples to be added
+   </td>
+  </tr>
+  <tr>    
+   <td>**Catalog Number**
+   </td>
+   <td>Format is 8 digits. An automatically incremental value is allocated by the system. Read only. Be aware that this may not be the same number as the value in the Collection url.
+   </td>
+   <td>Examples to be added
+   </td>
+  </tr>
+  <tr>    
+   <td>Is on loan
+   </td>
+   <td>This is an automatically calculated field which pulls information from the Loans table. This is read only. It will be checked if the preparation is currently out on loan. 
+   </td>
+   <td> Examples to be added
+   </td>
+  </tr>
+  <tr>    
+   <td>Label status
+   </td>
+   <td>This is used to indicate the level of transcription carried out from the specimen labels. The options are Minimal, Partial, Complete or Unknown.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>    
+   <td>Num. in Set
+   </td>
+   <td>This is used to record the total number of sheets when there is a set of sheets for a single specimen. It can be common for some large plants or plants with complex morphology for each duplicate to comprise separate sheets for the flower, root, leaves, fruit, stem, etc. Only the total number in the set should be recorded here, the individual sheet numbers should be recorded separately.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>    
+   <td>**Prep type**
+   </td>
+   <td>Select the kind of material (e.g. Herbarium sheet, Carpological) 
+   </td>
+   <td>Examples to be added
+   </td>
+  </tr>
+  <tr>    
+   <td>**Registration Num**
+   </td>
+   <td>Registration number is the number allocated to a group of specimens as they enter the herbarium collection.
+   </td>
+   <td>Examples to be added
+   </td>
+  </tr>
+  <tr>
+   <td>Sheet Num. 
+   </td>
+   <td>This is used to record the number of the sheet when it is part of a set of sheets for a single specimen. It can be common for some large plants or plants with complex morphology for each duplicate to comprise separate sheets for the flower, root, leaves, fruit, stem, etc. Only the sheet number should be recorded here, the total number in the set should be recorded separately.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>    
+   <td>Show Interactions
+   </td>
+   <td>This is a button which automatically queries the Loan and Destructive Sampling tables, opening a pop-up window which lists any transactions for this preparation.
+   </td>
+   <td>
+   </td>
+  </tr>
+
+</table>
+
 
 ## Collection Object Form
 
