@@ -86,7 +86,7 @@ parent: Reference manual
    </td>
    <td>This is a button which automatically queries the Loan and Destructive Sampling tables, opening a pop-up window which lists any transactions for this preparation.
    </td>
-   <td
+   <td>
    </td>
   </tr>
   <tr>    
@@ -94,7 +94,7 @@ parent: Reference manual
    </td>
    <td>This is used to indicate the level of transcription carried out from the specimen labels. The options are Minimal, Partial, Complete or Unknown.
    </td>
-   <td
+   <td>
    </td>
   </tr>
   <tr>
@@ -102,7 +102,7 @@ parent: Reference manual
    </td>
    <td>This is used to record the number of the sheet when it is part of a set of sheets for a single specimen. It can be common for some large plants or plants with complex morphology for each duplicate to comprise separate sheets for the flower, root, leaves, fruit, stem, etc. Only the sheet number should be recorded here, the total number in the set should be recorded separately.
    </td>
-   <td
+   <td>
    </td>
   </tr>
   <tr>    
@@ -110,7 +110,7 @@ parent: Reference manual
    </td>
    <td>This is used to record the total number of sheets when there is a set of sheets for a single specimen. It can be common for some large plants or plants with complex morphology for each duplicate to comprise separate sheets for the flower, root, leaves, fruit, stem, etc. Only the total number in the set should be recorded here, the individual sheet numbers should be recorded separately.
    </td>
-   <td
+   <td>
    </td>
   </tr>
   <tr>    
@@ -118,7 +118,7 @@ parent: Reference manual
    </td>
    <td>This is used to record the storage location of the specimen (e.g. Main Herbarium, Long Store, Spirit Room, Silica Room, Carpological Collection). For lichens which are classified taxonomically under the fungal element, this is used to record the specimens that are physically stored as lichenised fungi. For physically linked specimens (where there is more than one specimen permanently mounted on a sheet), the lowest barcode should be created as a storage location and used to store all the specimens on the sheet. For the spirit collection, this is used to record the running number for each of the specimens.
    </td>
-   <td
+   <td>
    </td>
   </tr>
   <tr>
@@ -126,7 +126,7 @@ parent: Reference manual
    </td>
    <td>This is a read-only field used for data migrated from BG-BASE. Do not enter data into this field.
    </td>
-   <td
+   <td>
    </td>
   </tr>
   <tr>    
@@ -134,7 +134,7 @@ parent: Reference manual
    </td>
    <td>This is used to record the name of the Institute/collection that directly donated the specimen to RBGE. (e.g. Glasgow, Herb of John Ball). More guidance will be provided on the use of this field. Some of the Herbarium Collections will have been donated from a third party, such as Kew, Glasgow, etc. In these cases the Donor will be Kew.
    </td>
-   <td
+   <td>
    </td>
   </tr>
   <tr>
@@ -142,7 +142,7 @@ parent: Reference manual
    </td>
    <td>This is used to record the name of the Herbarium Collection (e.g. Herb. Greville, Herb. Wight, Herb. Wallich, Herb. Drege) where the herbarium collection differs from the donor and collector. Some of the Herbarium Collections will have been donated from a third party, such as Kew, Glasgow, etc. In these cases the Donor will be Kew and the Herbarium Collection should be entered here. More guidance will be provided on the use of this field.
    </td>
-   <td
+   <td>
    </td>
   </tr>
   <tr>
@@ -150,7 +150,7 @@ parent: Reference manual
    </td>
    <td>More guidance to be provided on the use of this field.
    </td>
-   <td
+   <td>
    </td>
   </tr>
   <tr>
@@ -158,7 +158,7 @@ parent: Reference manual
    </td>
    <td>This is used to record a project for the Preparation. If applicable select the project from the dropdown list. At present it is only possible to select a single project so this field should be used with caution.
    </td>
-   <td
+   <td>
    </td>
   </tr>
   <tr>
@@ -166,7 +166,7 @@ parent: Reference manual
    </td>
    <td>This is used to record the label header. It enables the correct formatting of labels if they are being printed from Specify.
    </td>
-   <td
+   <td>
    </td>
   </tr>
   <tr>
@@ -174,7 +174,7 @@ parent: Reference manual
    </td>
    <td>This is used to record the label footer. It enables the correct formatting of labels if they are being printed from Specify.
    </td>
-   <td
+   <td>
    </td>
   </tr>
   <tr>
@@ -182,7 +182,7 @@ parent: Reference manual
    </td>
    <td>This is used to record any remarks relevant to the individual Preparation. Any information entered here may be visible to the general public. For remarks relevant to the Collection Object as a whole, use the Remarks field below Specimen Description.
    </td>
-   <td
+   <td>
    </td>
   </tr>
   <tr>
@@ -190,7 +190,7 @@ parent: Reference manual
    </td>
    <td>This is used to record any internal information relevant to the individual Preparation. Any information entered here will not be visible to the general public. 
    </td>
-   <td
+   <td>
    </td>
   </tr>
 </table>
@@ -211,7 +211,7 @@ parent: Reference manual
    </td>
    <td>
    </td>
-   <td
+   <td>
    </td>
   </tr>
 </table>
@@ -220,7 +220,7 @@ parent: Reference manual
    </td>
    <td>
    </td>
-   <td
+   <td>
    </td>
   </tr>
 </table>
@@ -229,7 +229,7 @@ parent: Reference manual
    </td>
    <td>
    </td>
-   <td
+   <td>
    </td>
   </tr>
 </table>
