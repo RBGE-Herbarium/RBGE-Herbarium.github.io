@@ -195,7 +195,7 @@ parent: Reference manual
   </tr>
 </table>
 
-### Preparation Attribute
+#### Preparation Attribute
 
 <table>
   <tr>
@@ -207,25 +207,31 @@ parent: Reference manual
    </th>
   </tr>
   <tr>
+   <td>Phenology
+   </td>
+   <td>Please be aware that this subform is not working properly at present and should not be used until the bug is fixed.
+   </td>
    <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Treatment
    </td>
    <td>
    </td>
    <td>
    </td>
   </tr>
-</table>
   <tr>
-   <td>
+   <td>Packet Content
    </td>
    <td>
    </td>
    <td>
    </td>
   </tr>
-</table>
   <tr>
-   <td>
+   <td>Sex
    </td>
    <td>
    </td>
@@ -234,7 +240,81 @@ parent: Reference manual
   </tr>
 </table>
 
-### Cultivated Information (Collection Object)
+#### Destructive Sampling
+
+<table>
+  <tr>
+   <th><strong>Specify field</strong>
+   </th>
+   <th><strong>Description</strong>
+   </th>
+   <th><strong>Examples</strong>
+   </th>
+  </tr>
+  <tr>
+   <td>Material type
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Derived From
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Prepared Date
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+#### Preparation (continued)
+
+<table>
+  <tr>
+   <th><strong>Specify field</strong>
+   </th>
+   <th><strong>Description</strong>
+   </th>
+   <th><strong>Examples</strong>
+   </th>
+  </tr>
+  <tr>
+   <td>Legacy Number
+   </td>
+   <td>This has been used to record the Specimen number of the record in BG-BASE. It is read only.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Preparation attachments
+   </td>
+   <td>This button is used to upload attachments relevant to the individual Preparation. Any attachments relevant to the Collection Object as a whole should be uploaded using the Collection Object attachments button at the foot of the form.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Counter
+   </td>
+   <td>This is for Specify management purposes. It is automatically filled and should not be edited.
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+#### Cultivated Information (Collection Object)
 
 <table>
   <tr>
