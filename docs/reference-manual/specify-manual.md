@@ -330,7 +330,7 @@ parent: Reference manual
   <tr>    
    <td>Agent
    </td>
-   <td>This field links to the Agent table. The look-up has been formatted to search for the last name. The results have been formatted to include the full name, abbreviation, and dates to help select the correct record. All collectors are held in the Agents table, along with expeditions, organisations and institutes
+   <td>This field links to the Agent table. The look-up has been formatted to search for the last name. The results have been formatted to include the full name, abbreviation, and dates to help select the correct record. All collectors are held in the Agents table, along with expeditions, organisations and institutes. Where the specimen has been collected under the number series of a primary collector, then a Group Agent record should not be used and each individual should be entered as a separate collector in the Collection Object record. The first collector entered is treated as the primary collector. Expeditions are treated as Group Agent records in the Agents table. Expeditions are defined by a having a unique collection number series that doesn’t belong to a particular individual. They may have an expedition name or the name may be a list of the surnames of the collectors. All collectors that took part in an expedition should be added as participants to a Group Agent record. Account for day-to-day discrepancies by added abscences of particular individuals in the remarks field of the Group Agent record. For more information on this, please see the guidance on adding new agents.
    </td>
    <td>
    </td>
@@ -381,11 +381,59 @@ parent: Reference manual
    </th>
   </tr>
   <tr>    
-   <td>Accession Number
+   <td>Filing Region
    </td>
-   <td>Enter the RBGE accession number (8 figure number starting with a year) of the plant from which this specimen has been made if it comes from the living collections at E. If it has a pre-1968 accession number, please contact the Plant Records Officer. 
+   <td>This is used to record the Filing Region used in the Herbarium for Vascular plants. Since the Cultivated specimens are filed under Cultivated as an equivalent to the filing region, this is included in this field. Although carpological and spirit material are not filed under Filing Regions, this information would be present if there are Herbarium Sheets within the Collection Object. It would normally be left blank for cryptogam specimens.
    </td>
-   <td> Examples to be added
+   <td>
+   </td>
+  </tr>
+  <tr>    
+   <td>Locality
+   </td>
+   <td>This field links to the Locality table which contains the geographic locality data according to the GADM standard. It includes administrative areas of all countries and currently includes Country, Sub-Country 1, Sub-Country 2 and Sub-Country 3. The Locality table is locked so new values can not be added by all users. Search for the lowest known value and select it from the dropdown. Any locality information below the value entered here should be entered in the Verbatim Locality field below. As a minimum, enter the country here.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>    
+   <td>Verbatim locality
+   </td>
+   <td>This is used to record any locality information not included in the Locality field above. When entering data a decision will need to be made about division of locality and habitat in some cases.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>    
+   <td>Habitat
+   </td>
+   <td>This is used to record the description of the Habitat in which the specimen was found.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>    
+   <td>Substrate/Host
+   </td>
+   <td>This is used to record the substrate or host if the specimen was found growing on another species or substrate e.g. a lichen growing on an Oak branch.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>    
+   <td>Landowner
+   </td>
+   <td>This is used to record the name of the owner of the land where the collection was made if known. Use the following format: Surname, First name or Surname Initials where the first name is unknown.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>    
+   <td>Collection Misc.
+   </td>
+   <td>This is used to record miscellaneous information about the Collecting Event.
+   </td>
+   <td>
    </td>
   </tr>
 </table>
