@@ -30,7 +30,7 @@ parent: Reference manual
    </th>
   </tr>
   <tr>    
-   <td>**Barcode**
+   <td>Barcode
    </td>
    <td>Preparations
    </td>
@@ -40,7 +40,7 @@ parent: Reference manual
    </td>
   </tr>
   <tr>    
-   <td>**Catalog Number**
+   <td>Catalog Number
    </td>
    <td>Collection Object
    </td>
@@ -50,7 +50,7 @@ parent: Reference manual
    </td>
   </tr>
   <tr>    
-   <td>**Is on loan**
+   <td>Is on loan
    </td>
    <td>Preparations
    </td>
@@ -60,7 +60,7 @@ parent: Reference manual
    </td>
   </tr>
   <tr>    
-   <td>**Label status**
+   <td>Label status
    </td>
    <td>Preparations
    </td>
@@ -70,7 +70,7 @@ parent: Reference manual
    </td>
   </tr>
   <tr>    
-   <td>**Num. in Set**
+   <td>Num. in Set
    </td>
    <td>Preparations
    </td>
@@ -80,7 +80,7 @@ parent: Reference manual
    </td>
   </tr>
   <tr>    
-   <td>**Prep type**
+   <td>Prep type
    </td>
    <td>Preparations
    </td>
@@ -90,7 +90,7 @@ parent: Reference manual
    </td>
   </tr>
   <tr>    
-   <td>**Registration Num**
+   <td>Registration Num
    </td>
    <td>Collection Object
    </td>
@@ -100,7 +100,7 @@ parent: Reference manual
    </td>
   </tr>
   <tr>
-   <td>**Sheet Num.** 
+   <td>Sheet Num.*
    </td>
    <td>Preparations
    </td>
@@ -110,7 +110,7 @@ parent: Reference manual
    </td>
   </tr>
   <tr>    
-   <td>**Show Interactions**
+   <td>Show Interactions
    </td>
    <td>Preparations
    </td>
