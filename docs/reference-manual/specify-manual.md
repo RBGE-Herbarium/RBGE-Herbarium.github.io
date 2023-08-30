@@ -30,6 +30,14 @@ parent: Reference manual
    </th>
   </tr>
   <tr>    
+   <td>Agent
+   </td>
+   <td>This field links to the Agent table. The look-up has been formatted to search for the last name. The results have been formatted to include the full name, abbreviation, and dates to help select the correct record. All collectors are held in the Agents table, along with expeditions, organisations and institutes. Where the specimen has been collected under the number series of a primary collector, then a Group Agent record should not be used and each individual should be entered as a separate collector in the Collection Object record. The first collector entered is treated as the primary collector. Expeditions are treated as Group Agent records in the Agents table. Expeditions are defined by a having a unique collection number series that doesn’t belong to a particular individual. They may have an expedition name or the name may be a list of the surnames of the collectors. All collectors that took part in an expedition should be added as participants to a Group Agent record. Account for day-to-day discrepancies by added abscences of particular individuals in the remarks field of the Group Agent record. For more information on this, please see the guidance on adding new agents.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>    
    <td>Barcode
    </td>
    <td>Preparations
@@ -49,12 +57,28 @@ parent: Reference manual
    <td>Examples to be added
    </td>
   </tr>
+  <tr>    
+   <td>Collection Date
+   </td>
+   <td>This is used to record the date on which the Collection Object was collected. A qualifier field enables the format of the date to be selected, ie Full date, Month / Year, or Year only.
+   </td>
+   <td>
+   </td>
+  </tr>
   <tr>
    <td>Collection Series
    </td>
    <td>More guidance to be provided on the use of this field.
    </td>
    <td>
+   </td>
+  </tr>
+  <tr>    
+   <td>Date as given
+   </td>
+   <td>This is used to record the date on which the Collection Object was collected if it does not align with a standard date.
+   </td>
+   <td>Spring, Summer, Autumn, Winter
    </td>
   </tr>
   <tr>    
@@ -117,12 +141,36 @@ parent: Reference manual
    <td>
    </td>
   </tr>
+  <tr>
+   <td>Legacy Number
+   </td>
+   <td>This has been used to record the Specimen number of the record in BG-BASE. It is read only.
+   </td>
+   <td>
+   </td>
+  </tr>
   <tr>    
    <td>Num. in Set
    </td>
    <td>Preparations
    </td>
    <td>This is used to record the total number of sheets when there is a set of sheets for a single specimen. It can be common for some large plants or plants with complex morphology for each duplicate to comprise separate sheets for the flower, root, leaves, fruit, stem, etc. Only the total number in the set should be recorded here, the individual sheet numbers should be recorded separately.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Packet Content
+   </td>
+   <td>Preparations
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Phenology
+   </td>
+   <td>Please be aware that this subform is not working properly at present and should not be used until the bug is fixed.
    </td>
    <td>
    </td>
@@ -143,6 +191,14 @@ parent: Reference manual
    <td>Select the kind of material (e.g. Herbarium sheet, Carpological) 
    </td>
    <td>Examples to be added
+   </td>
+  </tr>
+  <tr>
+   <td>Preparation attachments
+   </td>
+   <td>This button is used to upload attachments relevant to the individual Preparation. Any attachments relevant to the Collection Object as a whole should be uploaded using the Collection Object attachments button at the foot of the form.
+   </td>
+   <td>
    </td>
   </tr>
   <tr>
@@ -172,6 +228,22 @@ parent: Reference manual
    </td>
   </tr>
   <tr>
+   <td>Sex
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>    
+   <td>Second Collection Date
+   </td>
+   <td>This is used to record a second collection date if the Collection Object was collected over a period of time. A qualifier field enables the format of the date to be selected, ie Full date, Month / Year, or Year only.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
    <td>Sheet Num.
    </td>
    <td>Preparations
@@ -195,6 +267,22 @@ parent: Reference manual
    <td>Storage
    </td>
    <td>This is used to record the storage location of the specimen (e.g. Main Herbarium, Long Store, Spirit Room, Silica Room, Carpological Collection). For lichens which are classified taxonomically under the fungal element, this is used to record the specimens that are physically stored as lichenised fungi. For physically linked specimens (where there is more than one specimen permanently mounted on a sheet), the lowest barcode should be created as a storage location and used to store all the specimens on the sheet. For the spirit collection, this is used to record the running number for each of the specimens.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Treatment
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>    
+   <td>Verbatim Collector Name
+   </td>
+   <td>This has been used to record the free text collector name from BG-BASE. Where this is the case, the name will be prefixed by "From BG-BASE" and the Collector Code.
    </td>
    <td>
    </td>
