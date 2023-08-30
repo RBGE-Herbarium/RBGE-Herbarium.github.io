@@ -21,9 +21,9 @@ parent: Reference manual
 <table>
     <tr>
         <th>Specify field</th>
-        <td>Specify table</td>
-        <td>Description</td>
-        <td>Examples</td>
+        <th>Specify table</th>
+        <th>Description</th>
+        <th>Examples</th>
     </tr>
     <tr>
         <th>Accession Number</th>
