@@ -49,6 +49,38 @@ parent: Reference manual
    <td>Examples to be added
    </td>
   </tr>
+  <tr>
+   <td>Collection Series
+   </td>
+   <td>More guidance to be provided on the use of this field.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>    
+   <td>Donor
+   </td>
+   <td>This is used to record the name of the Institute/collection that directly donated the specimen to RBGE. (e.g. Glasgow, Herb of John Ball). More guidance will be provided on the use of this field. Some of the Herbarium Collections will have been donated from a third party, such as Kew, Glasgow, etc. In these cases the Donor will be Kew.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Herbarium Collection
+   </td>
+   <td>This is used to record the name of the Herbarium Collection (e.g. Herb. Greville, Herb. Wight, Herb. Wallich, Herb. Drege) where the herbarium collection differs from the donor and collector. Some of the Herbarium Collections will have been donated from a third party, such as Kew, Glasgow, etc. In these cases the Donor will be Kew and the Herbarium Collection should be entered here. More guidance will be provided on the use of this field.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Internal Misc
+   </td>
+   <td>This is used to record any internal information relevant to the individual Preparation. Any information entered here will not be visible to the general public. 
+   </td>
+   <td>
+   </td>
+  </tr>
   <tr>    
    <td>Is on loan
    </td>
@@ -57,6 +89,22 @@ parent: Reference manual
    <td>This is an automatically calculated field which pulls information from the Loans table. This is read only. It will be checked if the preparation is currently out on loan. 
    </td>
    <td> Examples to be added
+   </td>
+  </tr>
+  <tr>
+   <td>Label Footer
+   </td>
+   <td>This is used to record the label footer. It enables the correct formatting of labels if they are being printed from Specify.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Label Header
+   </td>
+   <td>This is used to record the label header. It enables the correct formatting of labels if they are being printed from Specify.
+   </td>
+   <td>
    </td>
   </tr>
   <tr>    
@@ -79,6 +127,14 @@ parent: Reference manual
    <td>
    </td>
   </tr>
+  <tr>
+   <td>Physically Linked
+   </td>
+   <td>This is a read-only field used for data migrated from BG-BASE. Do not enter data into this field.
+   </td>
+   <td>
+   </td>
+  </tr>
   <tr>    
    <td>Prep type
    </td>
@@ -87,6 +143,14 @@ parent: Reference manual
    <td>Select the kind of material (e.g. Herbarium sheet, Carpological) 
    </td>
    <td>Examples to be added
+   </td>
+  </tr>
+  <tr>
+   <td>Project
+   </td>
+   <td>This is used to record a project for the Preparation. If applicable select the project from the dropdown list. At present it is only possible to select a single project so this field should be used with caution.
+   </td>
+   <td>
    </td>
   </tr>
   <tr>    
@@ -100,7 +164,15 @@ parent: Reference manual
    </td>
   </tr>
   <tr>
-   <td>Sheet Num.*
+   <td>Remarks
+   </td>
+   <td>This is used to record any remarks relevant to the individual Preparation. Any information entered here may be visible to the general public. For remarks relevant to the Collection Object as a whole, use the Remarks field below Specimen Description.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Sheet Num.
    </td>
    <td>Preparations
    </td>
@@ -115,6 +187,14 @@ parent: Reference manual
    <td>Preparations
    </td>
    <td>This is a button which automatically queries the Loan and Destructive Sampling tables, opening a pop-up window which lists any transactions for this preparation.
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>    
+   <td>Storage
+   </td>
+   <td>This is used to record the storage location of the specimen (e.g. Main Herbarium, Long Store, Spirit Room, Silica Room, Carpological Collection). For lichens which are classified taxonomically under the fungal element, this is used to record the specimens that are physically stored as lichenised fungi. For physically linked specimens (where there is more than one specimen permanently mounted on a sheet), the lowest barcode should be created as a storage location and used to store all the specimens on the sheet. For the spirit collection, this is used to record the running number for each of the specimens.
    </td>
    <td>
    </td>
