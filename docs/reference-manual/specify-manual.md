@@ -74,8 +74,7 @@ parent: Reference manual
         <td></td>
     </tr>
     <tr>
-        <th>&quot;Date as given</th>
-        <td>&quot;</td>
+        <th>Date as given</th>
         <td>Collecting Event</td>
         <td>This is used to record the date on which the Collection Object was collected if it does not align with a standard date.</td>
         <td>Spring, Summer, Autumn, Winter</td>
