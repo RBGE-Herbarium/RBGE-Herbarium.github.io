@@ -655,13 +655,13 @@ parent: Reference manual
     <tr>
         <th>Abundance</th>
         <td>Collection Object Attribute</td>
-        <td>This is used to record the abundance of the species in the collecting area</td>
+        <td>The abundance of the species in the collecting area</td>
         <td></td>
     </tr>
     <tr>
         <th>Accuracy</th>
         <td>Collecting Event Attribute</td>
-        <td>This is used to record the accuracy of the geocoordinates</td>
+        <td>This field is used to record the  accuracy of the geocoordinates</td>
         <td></td>
     </tr>
     <tr>
@@ -679,43 +679,43 @@ parent: Reference manual
     <tr>
         <th>Altitude max.</th>
         <td>Collecting Event Attribute</td>
-        <td>This is used to record the maximum altitude at which the specimen was collected if there are two values given.</td>
+        <td>The maximum altitude at which the specimen was collected if there are two values given.</td>
         <td></td>
     </tr>
     <tr>
         <th>Altitude min.</th>
         <td>Collecting Event Attribute</td>
-        <td>This is used to record the altitude at which the specimen was collected. This field should be used if there is only a single value, or for the lower value if there are two altitudes given.</td>
+        <td>The altitude at which the specimen was collected. This field should be used if there is only a single value, or for the lower value if there are two altitudes given.</td>
         <td></td>
     </tr>
     <tr>
         <th>Altitude Qual.</th>
         <td>Collecting Event Attribute</td>
-        <td>This is used to record the any qualifier given for the altitude value. There is a predefined set of options which should be used.</td>
+        <td>The any qualifier given for the altitude value. There is a predefined set of options which should be used.</td>
         <td></td>
     </tr>
     <tr>
         <th>Altitude Unit</th>
         <td>Collecting Event Attribute</td>
-        <td>This is used to record the measurement unit of the altitude. There is a predefined set of options which should be used.</td>
+        <td>The measurement unit of the altitude. There is a predefined set of options which should be used.</td>
         <td></td>
     </tr>
     <tr>
         <th>Area of Occupancy</th>
         <td>Collection Object Attribute</td>
-        <td>This is used to record the area occupancey for the species in the collecting area</td>
+        <td>The area occupancey for the species in the collecting area</td>
         <td></td>
     </tr>
     <tr>
         <th>Area of Occupancy Unit</th>
         <td>Collection Object Attribute</td>
-        <td>This is used to record the unit of measurement of the area of occupancy for the species in the collecting area</td>
+        <td>The unit of measurement of the area of occupancy for the species in the collecting area</td>
         <td></td>
     </tr>
     <tr>
         <th>Associated Material</th>
         <td>Collection Object</td>
-        <td>This is used to record Associated Material which are not Preparations recorded in Specify</td>
+        <td>This field is used to record associated Material which are not Preparations recorded in Specify</td>
         <td></td>
     </tr>
     <tr>
@@ -739,13 +739,13 @@ parent: Reference manual
     <tr>
         <th>Certainty</th>
         <td>Collecting Event Attribute</td>
-        <td>This is used to record the certainty of the geocoordinates</td>
+        <td>This field is used to record the  certainty of the geocoordinates</td>
         <td></td>
     </tr>
     <tr>
         <th>Collection Date</th>
         <td>Collecting Event</td>
-        <td>This is used to record the date on which the Collection Object was collected. A qualifier field enables the format of the date to be selected, ie Full date, Month / Year, or Year only.</td>
+        <td>The date on which the Collection Object was collected. A qualifier field enables the format of the date to be selected, ie Full date, Month / Year, or Year only.</td>
         <td></td>
     </tr>
     <tr>
@@ -757,7 +757,7 @@ parent: Reference manual
     <tr>
         <th>Collection Series</th>
         <td>Preparation</td>
-        <td>Enter the former herbarium collection series number. This is a running number assigned to each specimen used by some herbaria (not practised RBGE) and often differs from the collector number.</td>
+        <td>The former herbarium collection series number. This is a running number assigned to each specimen used by some herbaria (not practised RBGE) and often differs from the collector number.</td>
         <td></td>
     </tr>
     <tr>
@@ -775,7 +775,7 @@ parent: Reference manual
     <tr>
         <th>Country as Given</th>
         <td>Collecting Event Attribute</td>
-        <td>This is used to record the country name as it appears on the label, particularly if it does not correspond to a country in the Localities table.</td>
+        <td>The country name as it appears on the label, particularly if it does not correspond to a country in the Localities table.</td>
         <td>New Holland</td>
     </tr>
     <tr>
@@ -793,91 +793,92 @@ parent: Reference manual
     <tr>
         <th>Cultivated From</th>
         <td>Collection Object</td>
-        <td>This is used to record the catalogue number of the Collection Object from the wild collecting event</td>
+        <td>The catalogue number of the Collection Object from the wild collecting event</td>
         <td></td>
     </tr>
     <tr>
-        <th>Date as given</th>
+        <th>&quot;Date as given</th>
+        <td>&quot;</td>
         <td>Collecting Event</td>
-        <td>This is used to record the date on which the Collection Object was collected if it does not align with a standard date.</td>
+        <td>The date on which the Collection Object was collected if it does not align with a standard date.</td>
         <td>Spring, Summer, Autumn, Winter</td>
     </tr>
     <tr>
         <th>Decimal Latitude</th>
         <td>Collecting Event Attribute</td>
-        <td>This is used to record the latitude of Decimalitude</td>
+        <td>The latitude of Decimalitude</td>
         <td></td>
     </tr>
     <tr>
         <th>Decimal Longitude</th>
         <td>Collecting Event Attribute</td>
-        <td>This is used to record the Decimal Longitude</td>
+        <td>The Decimal Longitude</td>
         <td></td>
     </tr>
     <tr>
         <th>Derived From</th>
         <td>Destructive Sampling</td>
-        <td>This is used to record the barcode of the specimen from which the sample was taken. This is for preparations made for Destructive Sampling only.</td>
+        <td>The barcode of the specimen from which the sample was taken. This is for preparations made for Destructive Sampling only.</td>
         <td></td>
     </tr>
     <tr>
         <th>DLat Direction</th>
         <td>Collecting Event Attribute</td>
-        <td>This is used to record the direction of Decimal Latitude</td>
+        <td>The direction of Decimal Latitude</td>
         <td></td>
     </tr>
     <tr>
         <th>DLong Direction</th>
         <td>Collecting Event Attribute</td>
-        <td>This is used to record the direction of Decimal Longitude</td>
+        <td>The direction of Decimal Longitude</td>
         <td></td>
     </tr>
     <tr>
         <th>Donor</th>
         <td>Preparation</td>
-        <td>This is used to record the name of the Institute/collection that directly donated the specimen to RBGE. (e.g. Glasgow, Herb of John Ball). More guidance will be provided on the use of this field. Some of the Herbarium Collections will have been donated from a third party, such as Kew, Glasgow, etc. In these cases the Donor will be Kew.</td>
+        <td>The name of the Institute/collection that directly donated the specimen to RBGE. (e.g. Glasgow, Herb of John Ball). More guidance will be provided on the use of this field. Some of the Herbarium Collections will have been donated from a third party, such as Kew, Glasgow, etc. In these cases the Donor will be Kew.</td>
         <td></td>
     </tr>
     <tr>
         <th>Duplicates</th>
         <td>Collection Object</td>
-        <td>This is used to record the locality of the duplicate specimens</td>
+        <td>The locality of the duplicate specimens</td>
         <td></td>
     </tr>
     <tr>
         <th>Filing Region</th>
         <td>Collecting Event</td>
-        <td>This is used to record the Filing Region used in the Herbarium for Vascular plants. Since the Cultivated specimens are filed under Cultivated as an equivalent to the filing region, this is included in this field. Although carpological and spirit material are not filed under Filing Regions, this information would be present if there are Herbarium Sheets within the Collection Object. It would normally be left blank for cryptogam specimens.</td>
+        <td>The Filing Region used in the Herbarium for Vascular plants. Since the Cultivated specimens are filed under Cultivated as an equivalent to the filing region, this is included in this field. Although carpological and spirit material are not filed under Filing Regions, this information would be present if there are Herbarium Sheets within the Collection Object. It would normally be left blank for cryptogam specimens.</td>
         <td></td>
     </tr>
     <tr>
         <th>GeoRef Source</th>
         <td>Collecting Event Attribute</td>
-        <td>This is used to record the source of the geocoordinates</td>
+        <td>This field is used to record the  source of the geocoordinates</td>
         <td></td>
     </tr>
     <tr>
         <th>GPS Datum</th>
         <td>Collecting Event Attribute</td>
-        <td>This is used to record the GPS datum</td>
+        <td>This field is used to record the GPS datum</td>
         <td></td>
     </tr>
     <tr>
         <th>GUID</th>
         <td>Collection Object</td>
-        <td>This is used to record the Globally Unique Identifier (GUID) which is assigned automatically</td>
+        <td>The Globally Unique Identifier (GUID) which is assigned automatically</td>
         <td></td>
     </tr>
     <tr>
         <th>Habitat</th>
         <td>Collecting Event</td>
-        <td>This is used to record the description of the Habitat in which the specimen was found.</td>
+        <td>The description of the Habitat in which the specimen was found.</td>
         <td></td>
     </tr>
     <tr>
         <th>Herbarium Collection</th>
         <td>Preparation</td>
-        <td>This is used to record the name of the Herbarium Collection (e.g. Herb. Greville, Herb. Wight, Herb. Wallich, Herb. Drege) where the herbarium collection differs from the donor and collector. Some of the Herbarium Collections will have been donated from a third party, such as Kew, Glasgow, etc. In these cases the Donor will be Kew and the Herbarium Collection should be entered here. More guidance will be provided on the use of this field.</td>
+        <td>The name of the Herbarium Collection (e.g. Herb. Greville, Herb. Wight, Herb. Wallich, Herb. Drege) where the herbarium collection differs from the donor and collector. Some of the Herbarium Collections will have been donated from a third party, such as Kew, Glasgow, etc. In these cases the Donor will be Kew and the Herbarium Collection should be entered here. More guidance will be provided on the use of this field.</td>
         <td></td>
     </tr>
     <tr>
@@ -889,7 +890,7 @@ parent: Reference manual
     <tr>
         <th>Internal Misc</th>
         <td>Preparation</td>
-        <td>This is used to record any internal information relevant to the individual Preparation. Any information entered here will not be visible to the general public.</td>
+        <td>Any internal information relevant to the individual Preparation. Any information entered here will not be visible to the general public.</td>
         <td></td>
     </tr>
     <tr>
@@ -901,55 +902,55 @@ parent: Reference manual
     <tr>
         <th>Label Footer</th>
         <td>Preparation</td>
-        <td>This is used to record the label footer. It enables the correct formatting of labels if they are being printed from Specify.</td>
+        <td>The label footer. It enables the correct formatting of labels if they are being printed from Specify.</td>
         <td></td>
     </tr>
     <tr>
         <th>Label Header</th>
         <td>Preparation</td>
-        <td>This is used to record the label header. It enables the correct formatting of labels if they are being printed from Specify.</td>
+        <td>The label header. It enables the correct formatting of labels if they are being printed from Specify.</td>
         <td></td>
     </tr>
     <tr>
         <th>Label status</th>
         <td>Preparation</td>
-        <td>This is used to indicate the level of transcription carried out from the specimen labels. The options are Minimal, Partial, Complete or Unknown.</td>
+        <td>The level of transcription carried out from the specimen labels. The options are Minimal, Partial, Complete or Unknown.</td>
         <td></td>
     </tr>
     <tr>
         <th>Landowner</th>
         <td>Collecting Event</td>
-        <td>This is used to record the name of the owner of the land where the collection was made if known. Use the following format: Surname, First name or Surname Initials where the first name is unknown.</td>
+        <td>The name of the owner of the land where the collection was made if known. Use the following format: Surname, First name or Surname Initials where the first name is unknown.</td>
         <td></td>
     </tr>
     <tr>
         <th>Language</th>
         <td>Collection Object Property</td>
-        <td>This is used to record the language of the local name</td>
+        <td>The language of the local name</td>
         <td></td>
     </tr>
     <tr>
         <th>Lat Degrees</th>
         <td>Collecting Event Attribute</td>
-        <td>This is used to record the degrees of Latitude</td>
+        <td>The degrees of Latitude</td>
         <td></td>
     </tr>
     <tr>
         <th>Lat Direction</th>
         <td>Collecting Event Attribute</td>
-        <td>This is used to record the direction of Latitude</td>
+        <td>The direction of Latitude</td>
         <td></td>
     </tr>
     <tr>
         <th>Lat Minutes</th>
         <td>Collecting Event Attribute</td>
-        <td>This is used to record the minutes of Latitude</td>
+        <td>The minutes of Latitude</td>
         <td></td>
     </tr>
     <tr>
         <th>Lat Seconds</th>
         <td>Collecting Event Attribute</td>
-        <td>This is used to record the seconds of Latitude</td>
+        <td>The seconds of Latitude</td>
         <td></td>
     </tr>
     <tr>
@@ -961,7 +962,7 @@ parent: Reference manual
     <tr>
         <th>Local name or use</th>
         <td>Collection Object Property</td>
-        <td>This is used to record the local name or use of the species collected</td>
+        <td>The local name or use of the species collected</td>
         <td></td>
     </tr>
     <tr>
@@ -973,31 +974,31 @@ parent: Reference manual
     <tr>
         <th>Long Degrees</th>
         <td>Collecting Event Attribute</td>
-        <td>This is used to record the degrees of Longitude</td>
+        <td>The degrees of Longitude</td>
         <td></td>
     </tr>
     <tr>
         <th>Long Direction</th>
         <td>Collecting Event Attribute</td>
-        <td>This is used to record the direction of Longitude</td>
+        <td>The direction of Longitude</td>
         <td></td>
     </tr>
     <tr>
         <th>Long Minutes</th>
         <td>Collecting Event Attribute</td>
-        <td>This is used to record the minutes of Longitude</td>
+        <td>The minutes of Longitude</td>
         <td></td>
     </tr>
     <tr>
         <th>Long Seconds</th>
         <td>Collecting Event Attribute</td>
-        <td>This is used to record the seconds of Longitude</td>
+        <td>The seconds of Longitude</td>
         <td></td>
     </tr>
     <tr>
         <th>Material type</th>
         <td>Destructive Sampling</td>
-        <td>This is used to record the type of material of the sample. There is a predefined set of options which should be used.</td>
+        <td>The type of material of the sample. There is a predefined set of options which should be used.</td>
         <td></td>
     </tr>
     <tr>
@@ -1015,31 +1016,31 @@ parent: Reference manual
     <tr>
         <th>National Grid</th>
         <td>Collecting Event Attribute</td>
-        <td>This is used to record the National Grid location</td>
+        <td>This field is used to record the  National Grid location</td>
         <td></td>
     </tr>
     <tr>
         <th>Num. Duplicates</th>
         <td>Collection Object</td>
-        <td>This is used to record the number of duplicate specimens</td>
+        <td>The number of duplicate specimens</td>
         <td></td>
     </tr>
     <tr>
         <th>Num. in Set</th>
         <td>Preparation</td>
-        <td>This is used to record the total number of sheets when there is a set of sheets for a single specimen. It can be common for some large plants or plants with complex morphology for each duplicate to comprise separate sheets for the flower, root, leaves, fruit, stem, etc. Only the total number in the set should be recorded here, the individual sheet numbers should be recorded separately.</td>
+        <td>The total number of sheets when there is a set of sheets for a single specimen. It can be common for some large plants or plants with complex morphology for each duplicate to comprise separate sheets for the flower, root, leaves, fruit, stem, etc. Only the total number in the set should be recorded here, the individual sheet numbers should be recorded separately.</td>
         <td></td>
     </tr>
     <tr>
         <th>Packet Content</th>
         <td>Preparation Attribute</td>
-        <td>This is used to record the contents of the packet or capsule attached to the specimen.</td>
+        <td>The contents of the packet or capsule attached to the specimen.</td>
         <td></td>
     </tr>
     <tr>
         <th>Phenology</th>
         <td>Preparation Attribute</td>
-        <td>This is used to record the phenological state of the specimen. There is a predefined set of options which should be used.</td>
+        <td>The phenological state of the specimen. There is a predefined set of options which should be used.</td>
         <td></td>
     </tr>
     <tr>
@@ -1051,13 +1052,13 @@ parent: Reference manual
     <tr>
         <th>Population Size</th>
         <td>Collection Object Attribute</td>
-        <td>This is used to record the population size of the species in the collecting area</td>
+        <td>The population size of the species in the collecting area</td>
         <td></td>
     </tr>
     <tr>
         <th>Population Size Qual.</th>
         <td>Collection Object Attribute</td>
-        <td>This is used to record the qualifier for the measurement of the population size of the species in the collecting area</td>
+        <td>The qualifier for the measurement of the population size of the species in the collecting area</td>
         <td></td>
     </tr>
     <tr>
@@ -1075,19 +1076,19 @@ parent: Reference manual
     <tr>
         <th>Prepared Date</th>
         <td>Destructive Sampling</td>
-        <td>This is used to record the date on which the sample was taken. A qualifier field enables the format of the date to be selected, ie Full date, Month / Year, or Year only.</td>
+        <td>The date on which the sample was taken. A qualifier field enables the format of the date to be selected, ie Full date, Month / Year, or Year only.</td>
         <td></td>
     </tr>
     <tr>
         <th>Project</th>
         <td>Preparation</td>
-        <td>This is used to record a project for the Preparation. If applicable select the project from the dropdown list. At present it is only possible to select a single project so this field should be used with caution.</td>
+        <td>The project number or name for the Preparation. If applicable select the project from the dropdown list. At present it is only possible to select a single project so this field should be used with caution.</td>
         <td></td>
     </tr>
     <tr>
         <th>RBGE Living Collection Accession No.</th>
         <td>Collection Object</td>
-        <td>Enter the RBGE accession number (8 figure number starting with a year) of the plant from which this specimen has been made if it comes from the living collections at E. If it has a pre-1968 accession number, please contact the Plant Records Officer.</td>
+        <td>The RBGE accession number (8 figure number starting with a year) of the plant from which this specimen has been made if it comes from the living collections at E. If it has a pre-1968 accession number, please contact the Plant Records Officer.</td>
         <td>Examples to be added</td>
     </tr>
     <tr>
@@ -1099,37 +1100,37 @@ parent: Reference manual
     <tr>
         <th>Remarks</th>
         <td>Collection Object</td>
-        <td>This is used to record any remarks relating to the Collection Object as a whole</td>
+        <td>Any remarks relating to the Collection Object as a whole</td>
         <td></td>
     </tr>
     <tr>
         <th>Remarks</th>
         <td>Preparation</td>
-        <td>This is used to record any remarks relevant to the individual Preparation. Any information entered here may be visible to the general public. For remarks relevant to the Collection Object as a whole, use the Remarks field below Specimen Description.</td>
+        <td>Any remarks relevant to the individual Preparation. Any information entered here may be visible to the general public. For remarks relevant to the Collection Object as a whole, use the Remarks field below Specimen Description.</td>
         <td></td>
     </tr>
     <tr>
         <th>Sample</th>
         <td>Collection Object Attribute</td>
-        <td>This is used to record the genetic variability of the sample</td>
+        <td>The genetic variability of the sample</td>
         <td></td>
     </tr>
     <tr>
         <th>Second Collection Date</th>
         <td>Collecting Event</td>
-        <td>This is used to record a second collection date if the Collection Object was collected over a period of time. A qualifier field enables the format of the date to be selected, ie Full date, Month / Year, or Year only.</td>
+        <td>A second collection date if the Collection Object was collected over a period of time. A qualifier field enables the format of the date to be selected, ie Full date, Month / Year, or Year only.</td>
         <td></td>
     </tr>
     <tr>
         <th>Sex</th>
         <td>Preparation Attribute</td>
-        <td>This is used to record the sex of the specimen.</td>
+        <td>The sex of the specimen.</td>
         <td></td>
     </tr>
     <tr>
         <th>Sheet Num.</th>
         <td>Preparation</td>
-        <td>This is used to record the number of the sheet when it is part of a set of sheets for a single specimen. It can be common for some large plants or plants with complex morphology for each duplicate to comprise separate sheets for the flower, root, leaves, fruit, stem, etc. Only the sheet number should be recorded here, the total number in the set should be recorded separately.</td>
+        <td>The number of the sheet when it is part of a set of sheets for a single specimen. It can be common for some large plants or plants with complex morphology for each duplicate to comprise separate sheets for the flower, root, leaves, fruit, stem, etc. Only the sheet number should be recorded here, the total number in the set should be recorded separately.</td>
         <td></td>
     </tr>
     <tr>
@@ -1141,25 +1142,25 @@ parent: Reference manual
     <tr>
         <th>Specimen Description</th>
         <td>Collection Object</td>
-        <td>This is used to record the description on the label of the organism</td>
+        <td>The description on the label of the organism</td>
         <td></td>
     </tr>
     <tr>
         <th>Storage</th>
         <td>Preparation</td>
-        <td>This is used to record the storage location of the specimen (e.g. Main Herbarium, Long Store, Spirit Room, Silica Room, Carpological Collection). For lichens which are classified taxonomically under the fungal element, this is used to record the specimens that are physically stored as lichenised fungi. For physically linked specimens (where there is more than one specimen permanently mounted on a sheet), the lowest barcode should be created as a storage location and used to store all the specimens on the sheet. For the spirit collection, this is used to record the running number for each of the specimens.</td>
+        <td>The storage location of the specimen (e.g. Main Herbarium, Long Store, Spirit Room, Silica Room, Carpological Collection). For lichens which are classified taxonomically under the fungal element, The specimens that are physically stored as lichenised fungi. For physically linked specimens (where there is more than one specimen permanently mounted on a sheet), the lowest barcode should be created as a storage location and used to store all the specimens on the sheet. For the spirit collection, The running number for each of the specimens.</td>
         <td></td>
     </tr>
     <tr>
         <th>Substrate/Host</th>
         <td>Collecting Event</td>
-        <td>This is used to record the substrate or host if the specimen was found growing on another species or substrate e.g. a lichen growing on an Oak branch.</td>
+        <td>The substrate or host if the specimen was found growing on another species or substrate e.g. a lichen growing on an Oak branch.</td>
         <td></td>
     </tr>
     <tr>
         <th>Text</th>
         <td>Collection Object Property</td>
-        <td>This is used to record additional text relating to the use of the species</td>
+        <td>Additional text relating to the use of the species</td>
         <td></td>
     </tr>
     <tr>
@@ -1171,13 +1172,13 @@ parent: Reference manual
     <tr>
         <th>Treatment</th>
         <td>Preparation Attribute</td>
-        <td>This is used to record any treatment used during the collection or preparation process.</td>
+        <td>Any treatment used during the collection or preparation process.</td>
         <td></td>
     </tr>
     <tr>
         <th>Tree Number</th>
         <td>Collection Object Attribute</td>
-        <td>This is used to record the tree number from which the specimen was collected</td>
+        <td>The tree number from which the specimen was collected</td>
         <td></td>
     </tr>
     <tr>
@@ -1189,13 +1190,13 @@ parent: Reference manual
     <tr>
         <th>Verbatim locality</th>
         <td>Collecting Event</td>
-        <td>This is used to record any locality information not included in the Locality field above. When entering data a decision will need to be made about division of locality and habitat in some cases.</td>
+        <td>Any locality information not included in the Locality field above. When entering data a decision will need to be made about division of locality and habitat in some cases.</td>
         <td></td>
     </tr>
     <tr>
         <th>Wild Data</th>
         <td>Collection Object</td>
-        <td>This is used to record the wild collecting event information if there are insufficient data to create a separate Collection Object record</td>
+        <td>The wild collecting event information if there are insufficient data to create a separate Collection Object record</td>
     </tr>
         <td></td>
 </table>
