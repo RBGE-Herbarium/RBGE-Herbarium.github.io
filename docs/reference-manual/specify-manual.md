@@ -179,6 +179,7 @@ parent: Reference manual
         <th>Sex</th>
         <td>Preparation Attribute</td>
         <td>This is used to record the sex of the specimen.</td>
+        <td></td>
     </tr>
 </table>
 
@@ -201,6 +202,7 @@ parent: Reference manual
         <th>Prepared Date</th>
         <td>Destructive Sampling</td>
         <td>This is used to record the date on which the sample was taken. A qualifier field enables the format of the date to be selected, ie Full date, Month / Year, or Year only.</td>
+        <td></td>
     </tr>
 </table>
 
@@ -223,6 +225,7 @@ parent: Reference manual
         <th>Counter</th>
         <td>Preparation</td>
         <td>This is for Specify management purposes. It is automatically filled and should not be edited.</td>
+        <td></td>
     </tr>
 </table>
 
@@ -306,6 +309,7 @@ parent: Reference manual
         <th>Collection Misc.</th>
         <td>Collecting Event</td>
         <td>This is used to record miscellaneous information about the Collecting Event.</td>
+        <td></td>
     </tr>
 </table>
 
@@ -454,6 +458,7 @@ parent: Reference manual
         <th>Certainty</th>
         <td>Collecting Event Attribute</td>
         <td>This is used to record the certainty of the geocoordinates</td>
+        <td></td>
     </tr>
 </table>
 
@@ -488,6 +493,7 @@ parent: Reference manual
         <th>Associated Material</th>
         <td>Collection Object</td>
         <td>This is used to record Associated Material which are not Preparations recorded in Specify</td>
+        <td></td>
     </tr>
 </table>
 
@@ -510,6 +516,7 @@ parent: Reference manual
         <th>Cultivated From</th>
         <td>Collection Object</td>
         <td>This is used to record the catalogue number of the Collection Object from the wild collecting event</td>
+        <td></td>
     </tr>
 </table>
 
@@ -562,6 +569,7 @@ parent: Reference manual
         <th>Tree Number</th>
         <td>Collection Object Attribute</td>
         <td>This is used to record the tree number from which the specimen was collected</td>
+        <td></td>
     </tr>
 </table>
 
@@ -584,6 +592,7 @@ parent: Reference manual
         <th>Language</th>
         <td>Collection Object Property</td>
         <td>This is used to record the language of the local name</td>
+        <td></td>
     </tr>
 </table>
 
@@ -630,6 +639,7 @@ parent: Reference manual
         <th>GUID</th>
         <td>Collection Object</td>
         <td>This is used to record the Globally Unique Identifier (GUID) which is assigned automatically</td>
+        <td></td>
     </tr>
 </table>
 
@@ -787,8 +797,7 @@ parent: Reference manual
         <td></td>
     </tr>
     <tr>
-        <th>&quot;Date as given</th>
-        <td>&quot;</td>
+        <th>Date as given</th>
         <td>Collecting Event</td>
         <td>This is used to record the date on which the Collection Object was collected if it does not align with a standard date.</td>
         <td>Spring, Summer, Autumn, Winter</td>
