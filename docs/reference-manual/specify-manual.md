@@ -150,6 +150,7 @@ parent: Reference manual
         <th>Count</th>
         <td>Preparation</td>
         <td>This is an internal administrative field and should not be edited. The field does not have a caption and by default it will contain the integer &quot;1&quot;.</td>
+        <td></td>
     </tr>
 </table>
 
