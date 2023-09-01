@@ -1197,6 +1197,7 @@ parent: Reference manual
         <td>Collection Object</td>
         <td>This is used to record the wild collecting event information if there are insufficient data to create a separate Collection Object record</td>
     </tr>
+        <td></td>
 </table>
 
 
