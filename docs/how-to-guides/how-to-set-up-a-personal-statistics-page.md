@@ -69,9 +69,9 @@ This will open your a list of saved queries. The top section of this list contai
 
 ![image](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/8155743/ba0d8d49-5fd9-407f-a344-8abadcd7ab37)
 
-To select a default statistic just click on the one you would like to include. 
+To select a default statistic click on the one you would like to include. 
 
-You can also use a previously saved query, to select one of these just click on the query you would like to use. 
+You can also use a previously saved query, to select one of these click on the query you would like to use. 
 
 Some queries that you may find useful are included here. You just need to save these to your account and edit the specified fields to personalise them to you:
 
