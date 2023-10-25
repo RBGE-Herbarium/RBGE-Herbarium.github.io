@@ -2,13 +2,13 @@
 parent: How-to guides
 ---
 
-[How to set up personal statistics page](#How-to-set-up-personal-statistics-page)
-[Adding a new category](#Adding-a-new-category)
-[Deleting a category](#Deleting-a-category)
-[Adding statistics to a category](#Adding-statistics-to-a-category)
-[Deleting statistics from a category](#Deleting-statistics-from-a-category)
-[Saving your changes](#Saving-your-changes)
-[Interacting with the statistics page](#Interacting-with-the-statistics-page)
+* [How to set up personal statistics page](#How-to-set-up-personal-statistics-page)
+* [Adding a new category](#Adding-a-new-category)
+* [Deleting a category](#Deleting-a-category)
+* [Adding statistics to a category](#Adding-statistics-to-a-category)
+* [Deleting statistics from a category](#Deleting-statistics-from-a-category)
+* [Saving your changes](#Saving-your-changes)
+* [Interacting with the statistics page](#Interacting-with-the-statistics-page)
 
 ## How to set up personal statistics page
 
