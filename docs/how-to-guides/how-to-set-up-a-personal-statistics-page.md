@@ -83,7 +83,7 @@ Some queries that you may find useful are included here. You just need to save t
 * <a href="https://herb-rbge.specifycloud.org/specify/query/404/">Modified Last Year </a> 
 
 For all of these you will need to add an agent id to personalise the results to yourself. To find your AgentID use the following <a href="https://herb-rbge.specifycloud.org/specify/query/408/">query</a>
-Enter you last name and search. If there are multiple records for your name contact a member of the Specify team and we can provide you with the correct AgentId.
+Enter your Specify username and this will give you the AgentID associated with it
 
 If you know what statistic you would like to include, but are not sure what query is needed to provide it, please contact a member of the Specify team and we will help you develop the query needed. 
 
