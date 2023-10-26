@@ -2,15 +2,19 @@
 parent: How-to guides
 ---
 
-* [How to set up personal statistics page](#How-to-set-up-personal-statistics-page)
-* [Adding a new category](#Adding-a-new-category)
-* [Deleting a category](#Deleting-a-category)
-* [Adding statistics to a category](#Adding-statistics-to-a-category)
-* [Deleting statistics from a category](#Deleting-statistics-from-a-category)
-* [Saving your changes](#Saving-your-changes)
-* [Interacting with the statistics page](#Interacting-with-the-statistics-page)
+# How to set up personal statistics page
 
-## How to set up personal statistics page
+{: .no_toc }
+
+  {: .no_toc .text-delta }
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 The statistics page allows users to view institutional statistics (those for the whole collection) and personal statistics (unique to the user). The institutional statistics page is managed by the in-house Specify team, so whilst you cannot edit the statistics, you can view them and the data records associated with them. This guide will descrive how to set-up the personal statistics page.
 
@@ -41,7 +45,7 @@ Here you can:
 3. Add new statistics to a category
 4. Delete statistics from a category
 
- ### Adding a new category
+ ## Adding a new category
 
  To add a category click on the gray 'Add A Category' square:
 
@@ -51,7 +55,7 @@ This creates an empty category. Enter a name for the category in the bar at the 
 
 ![image](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/8155743/45aa88bb-78ae-42db-a6ef-33475fc1d74d)
 
-### Deleting a category
+## Deleting a category
 
 To delete a category click on the 'Delete Category' button in the bottom left of the category box:
 
@@ -59,7 +63,7 @@ To delete a category click on the 'Delete Category' button in the bottom left of
 
 This will delete the category with no warnings to check that this is what you want to do.
 
-### Adding statistics to a category
+## Adding statistics to a category
 
 To add staistics to a new or existing category click the blue add button in the bottom right of a category
 
@@ -89,13 +93,13 @@ If you know what statistic you would like to include, but are not sure what quer
 
 As well as using saved queries, you can create a new query from the query pop up by selecting new in the bottom left. This works as the query builder normally does, by selecting a base table and then the fields you want to query on.
 
-### Deleting statistics from a category
+## Deleting statistics from a category
 
 To delete a statistic from a category click the bin icon next to the statistic ![image](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/8155743/f5b7d6b8-c167-4a8d-94cb-ad0827ef0fbe). This will delete the statistic without any warning. 
 
 Default statistic can be added again from the default list of statistics.
 
-### Saving your changes
+## Saving your changes
 
 Once you ahve made the edits you want to the statistics page, click on the save button in the top right of the screen:
 
