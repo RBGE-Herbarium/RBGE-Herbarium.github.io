@@ -18,6 +18,8 @@ parent: How-to guides
 
 The statistics page allows users to view institutional statistics (those for the whole collection) and personal statistics (unique to the user). The institutional statistics page is managed by the in-house Specify team, so whilst you cannot edit the statistics, you can view them and the data records associated with them. This guide will descrive how to set-up the personal statistics page.
 
+## How to edit the personal statistics page
+
 Select the Personal tab in the Private section on the left hand side of the statistics page:
 
 ![personal page](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/8155743/40551baa-a5f2-4c3e-90d4-02cfcd736016)
@@ -28,7 +30,6 @@ By default there is a single section in this view called Curation, with two defa
 2. Collection Objects Determined - this is a count of all determination records attributed to the user (based on their Specify account agent)
 
 ![Curation screenshot](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/8155743/eac87680-5a3e-4ae6-9398-69feda91cfc7)
-
 
 To add a new category, or additional statistics to an existing category, click edit at the top right of the screen
 
