@@ -28,20 +28,17 @@ This workflow will take you through recording a basic destructive sampling reque
 
 ## Step 1: Open
 
-###Step 1.1: Open a new Destructive Sampling request record in Specify###
+### 1.1: Open a new Destructive Sampling request record in Specify
 
 As soon as a request is received, this is recorded in Specify by the Registrar who will open a new Destructive Sampling record.
 - The number of this record will function as the reference number for this request in the Herbarium. 
 - Any details of the request that are available at this stage are entered into the Specify record (e.g. names of people involved, description of research aims and methods, etc.).
-- A preliminary, high level assessment is carried out by the Registrar which may flag up any immediate known restrictions based on the request.
-- A Destructive Sampling form is required for all requests.
 
 Click on Interactions and select Destructive Sampling from the menu at the top.
 - Select Without Preparations from the pop-up window
 - This will ensure that no preparations are added to the Destructive Sampling request at this stage
 
 ![image](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/6713716/e371fe91-2677-4072-a914-c07d2a84e3e2)
-
 
 This will open the **Destructive Sampling** form with a Destructive Sampling record where you can enter the information about the request. 
 - At this point in time, you may not have all the information to be entered.
@@ -70,7 +67,6 @@ This will open the **Destructive Sampling** form with a Destructive Sampling rec
 - **Denied Samples**: Enter the barcodes of any samples that have been denied. If there is another reason for the samples not being approved, then this can information should be included in Remarks above.
 - **Internal Misc**: This can be used to help with the management process of the request and notes in here do not have to be retained. This would not be included in any report to the Requester.
 
-
 - **Destructive Sampling Agents**: Enter the following information if known:
   - Herbarium making request: Agent = Herbarium; Role = Herbarium
   - Individual researcher named on request: Agent = individual name; Role = Requester
@@ -86,39 +82,104 @@ This will open the **Destructive Sampling** form with a Destructive Sampling rec
 
 Click **Save**
 
-At this point any documentation can be attached to this record using the Attachment icon. This would normally include the Destructive Sampling form and any correspondence received.
-![image](https://user-images.githubusercontent.com/6713716/178465341-64b5b059-2674-4ca2-a4db-0b733542d204.png)
+### 1.2: Record receipt of a signed CBD form
 
-### Step 1.2: Record receipt of a signed CBD form
+The next step is to ensure that the necessary forms are completed, and that the research aims are clearly understood.
+- If clarification is required, there may be an email conversation with the requester.
 
-A CBD form should be sent to the requester and signed. The CBD documentation will need to be in place for any further progress to be made with the request.
+A signed Destructive Sampling form is required for all requests.
+- This includes the CBD form.
+- The CBD documentation will need to be in place for any further progress to be made with the request.
+- When the signed forms and sufficient details have been received, these are added to the Specify record (e.g. attachments uploaded and descriptions included).   
+
+A preliminary, high level assessment is carried out by the Registrar which may flag up any immediate known restrictions based on the request.
+- Check through list of requested specimens on CBD form and annotate printout with any ‘red flag’ specimens, based on known restrictions. 
+  - This could include No Third-Party Transfer (N3PT). 
+- Pass the annotated printout to relevant member of staff in the next stage. 
 
 The request number, internal contact and Herbarium code should be added to any CBD documentation. 
+- Add the following notes to the completed CBD form:
+  - Destructive Sampling Request number
+  - Your name as the RBGE internal contact
 
 Tick the **CBD Form checkbox** to indicate that the CBD Form has been received.
 
+At this point any documentation can be attached to this record using the Attachment icon. This would normally include the Destructive Sampling form and any correspondence received.
+![image](https://user-images.githubusercontent.com/6713716/178465341-64b5b059-2674-4ca2-a4db-0b733542d204.png)
+
 Click **Save**
 
-Make a note of the Destructive Sampling Number. You can find this number at the top of the form, but only after you have saved the form.
+## Step 2: Decide
 
-Add the following notes to the completed CBD form:
-a.	Destructive Sampling Request number 
-b.	Your name as the RBGE internal contact
+### 2.1 Locate the specimens to be sampled
 
-## Step 3: Assess the Destructive Sampling Request
+The specimens of which samples have been requested are then located in the collection. 
+- For external requests, the material is located by Herbarium staff. 
+- For internal requests for Herbarium sheets, these are located by the requester. 
+- For internal requests for silica-dried material, this is located by Herbarium staff.
 
-At this point you will need to assess the request.
-- Assess specimens available
-- Assess any permit or other restrictions for those specimens
-- Approval by appropriate members of staff
+If specific specimens have been requested, the following query will facilitate finding the specimens in the Herbarium and will provide some additional information about their availability and restrictions, if known.
 
-If the request is fully or partially approved, then the specimens can be looked out and databased if required.
+### 2.2 Assess the Destructive Sampling Request
+
+When the specimens have been located and the research aims clarified, the request can be assessed 
+
+A range of considerations come into play at this stage:  
+
+**Justification** 
+- Has the requester provided an outline of the intended research?  
+- Has the requester provided a case for the need for destructive sampling?  
+- Has the requester indicated the amount and type of material needed?  
+- Has the requester provided examples of previous studies or publications proving competence and success with the proposed research techniques  
+- Has the requester provided details of expected outcomes? (Publications, Images, Taxonomic, GenBank)  
+- Is the requester a known collaborator and/or affiliated with a research institution?  
+- Is there reason to believe that the data sought cannot be obtained from a sample (e.g., the technique is not sufficiently well known to consistently produce satisfactory results)?  
+
+**Legal** 
+- Has the requester provided a signed CBD/MTA form?  
+- Are there any restrictions on the distribution of the material?  
+- Taxa included on the CITES lists will have this information in the taxon record. 
+
+**Availability** 
+- Is there silica-dried material available?  
+- Are the specimens available?  
+- Do the specimens have enough material available?  
+- Will the sampling threaten the preservation of the integrity of the specimen?  
+- Is alternative material available, e.g. other Herbarium specimens?  
+- Is the requested taxon amply represented in the collection?  
+
+**Suitability** 
+- Has the specimen been sampled before? If so, for similar reasons? If so, what was the outcome of the previous sampling, are there any GenBank sequences or publications that could be pointed out to the requester?  
+- Is the specimen known to be unsuitable for sampling (e.g. old or treated with heat or chemicals inimical to DNA sampling)?  
+- Does the quality and quantity of the expected outcomes generate sufficient added knowledge of the specimen?  
+- Are there any known problems or previous experiences with posting specimens or samples to the requested address? 
+
+These points are considered to make a decision about the request, often requiring input from colleagues, for example taxonomic experts and/or the curator. 
+
+- It may be appropriate to digitise the specimens to enable the requester to select suitable material. 
+- If a digitisation request is required, this should be forwarded to the Digitisation Coordinator. 
+- If this is a large request the researcher may be asked to prioritise between 20-30 specimens to be sampled.
+   - The other specimens can be sampled at a later stage if still required.
+   - The default for maintaining a Destructive Sampling request record open as pending in this situation would be 12 months
+- While communications or information requests are ongoing, the default is to keep the Destructive Sampling request record open as pending for a duration of 6 months. 
+- If alternative specimens are added/replaced to the request, these will be recorded in the Destructive Sampling request record – they do not need to be added to the CBD form. 
+
+If the request is fully or approved in part, then the specimens can be looked out and databased if required.
 
 Record the name of the person who approves or denies the request in the Destructive Sampling record request record in the Agent field. In **Agent Remarks** enter any additional information relating to the agent in the context of the destructive sampling request, including the date and if the request is approved or denied.
 
 ![image](https://user-images.githubusercontent.com/6713716/178465754-0cbd1808-7fab-41ef-8e96-dd58022f87a9.png)
 
 If the whole request has been denied select the Denied status in the Status field. The reason for denying the request can be included here. It should also be included in the Remarks field in a format suitable for sending to the Requester.
+- Any specific specimens that have been denied should be recorded in the Denied Samples field, listing the barcode of specimen separated by a comma.
+
+### 2.3 Inform requester of the outcome
+
+Once a decision has been reached, the requester is informed about the outcome. 
+
+
+
+
 
 ## Step 4: Create a Record Set for all specimens requested
 
