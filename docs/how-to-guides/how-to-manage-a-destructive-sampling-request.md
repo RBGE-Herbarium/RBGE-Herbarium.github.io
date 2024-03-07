@@ -38,14 +38,14 @@ Click on Interactions and select Destructive Sampling from the menu at the top.
 - Select Without Preparations from the pop-up window
 - This will ensure that no preparations are added to the Destructive Sampling request at this stage
 
-![image](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/6713716/e371fe91-2677-4072-a914-c07d2a84e3e2)
+![image](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/6713716/07534283-727b-476d-9d67-ba217145b910)
 
 This will open the **Destructive Sampling** form with a Destructive Sampling record where you can enter the information about the request. 
 - At this point in time, you may not have all the information to be entered.
 - This record can be saved at any time and completed at a later time. Click Save at the bottom right of the screen.
 - The **Destructive Sampling Request Number** will be automatically allocated when the record is saved. Take a note of this to find the record more quickly later. This number will function as the reference number for this request in the Herbarium.
 
-![Uploading image.png…]()
+![image](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/6713716/e371fe91-2677-4072-a914-c07d2a84e3e2)
 
 **Status**: Select the current status from the dropdown menu (Complete, Denied, No longer required, Pending)
 - In most cases at this point in time, the Status would be Pending
