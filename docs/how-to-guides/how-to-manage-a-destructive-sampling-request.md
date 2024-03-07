@@ -18,7 +18,7 @@ parent: How-to guides
 
 This workflow will take you through recording a basic destructive sampling request where the sampling will be undertaken in-house. The workflow will involve the following basic steps:
 
-1.	Create the Destructive Sampling Request record 
+1.	Open a new Destructive Sampling Request record 
 2.	Record receipt of a signed CBD form 
 3.	Record the assessment of the Destructive Sampling Request
 4.	Create a Record Set for all specimens requested
@@ -26,28 +26,33 @@ This workflow will take you through recording a basic destructive sampling reque
 7.	Add the additional information to the Destructive Sampling Request record
 8.	Record notification that the samples have been received
 
-## Step 1: Create the Destructive Sampling Request record
+## Step 1: Open
 
-With the destructive sampling request at hand, open Specify 7 to create a new destructive sampling request record.
+###Step 1.1: Open a new Destructive Sampling request record in Specify###
+
+As soon as a request is received, this is recorded in Specify by the Registrar who will open a new Destructive Sampling record.
+- The number of this record will function as the reference number for this request in the Herbarium. 
+- Any details of the request that are available at this stage are entered into the Specify record (e.g. names of people involved, description of research aims and methods, etc.).
+- A preliminary, high level assessment is carried out by the Registrar which may flag up any immediate known restrictions based on the request.
+- A Destructive Sampling form is required for all requests.
 
 Click on Interactions and select Destructive Sampling from the menu at the top.
 - Select Without Preparations from the pop-up window
+- This will ensure that no preparations are added to the Destructive Sampling request at this stage
 
-![image](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/6713716/5d8a6920-ccae-4f68-96db-2d6507cc0b80)
+![image](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/6713716/e371fe91-2677-4072-a914-c07d2a84e3e2)
 
-This will ensure that no preparations are added to the Destructive Sampling request at this stage: 
-
-![image](https://user-images.githubusercontent.com/8005676/180242175-bb10f324-6aba-44f4-9d44-5f931dcf03d4.png)
 
 This will open the **Destructive Sampling** form with a Destructive Sampling record where you can enter the information about the request. 
 - At this point in time, you may not have all the information to be entered.
 - This record can be saved at any time and completed at a later time. Click Save at the bottom right of the screen.
-- The **Destructive Sampling Request Number** will be automatically allocated when the record is saved. Take a note of this to find the record more quickly later.
+- The **Destructive Sampling Request Number** will be automatically allocated when the record is saved. Take a note of this to find the record more quickly later. This number will function as the reference number for this request in the Herbarium.
 
-![image](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/6713716/c35a82f4-dc7c-48fc-b584-48a89788f55e)
+![Uploading image.png…]()
 
-
-**Status**: Select the current status from the dropdown menu (Complete, Denied, Pending)
+**Status**: Select the current status from the dropdown menu (Complete, Denied, No longer required, Pending)
+- In most cases at this point in time, the Status would be Pending
+  
 ![image](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/6713716/93ed0620-fa33-4535-91b6-997dec263530)
 
 - **Purpose**: Select a value from a dropdown menu. Only select one of the following options. If you need a different value, please ask.
@@ -62,7 +67,9 @@ This will open the **Destructive Sampling** form with a Destructive Sampling rec
 - **Their Num**: Enter the other institute’s reference number, if known.
 - **Legacy Number**: This is read only, do not enter data.
 - **Remarks**: Enter any additional information or notes relating to the destructive sampling request. This field may be used as part of the report to be sent to the Requester.
+- **Denied Samples**: Enter the barcodes of any samples that have been denied. If there is another reason for the samples not being approved, then this can information should be included in Remarks above.
 - **Internal Misc**: This can be used to help with the management process of the request and notes in here do not have to be retained. This would not be included in any report to the Requester.
+
 
 - **Destructive Sampling Agents**: Enter the following information if known:
   - Herbarium making request: Agent = Herbarium; Role = Herbarium
@@ -79,10 +86,10 @@ This will open the **Destructive Sampling** form with a Destructive Sampling rec
 
 Click **Save**
 
-At this point any documentation can be attached to this record using the Attachment icon.
+At this point any documentation can be attached to this record using the Attachment icon. This would normally include the Destructive Sampling form and any correspondence received.
 ![image](https://user-images.githubusercontent.com/6713716/178465341-64b5b059-2674-4ca2-a4db-0b733542d204.png)
 
-## Step 2: Record receipt of a signed CBD form
+### Step 1.2: Record receipt of a signed CBD form
 
 A CBD form should be sent to the requester and signed. The CBD documentation will need to be in place for any further progress to be made with the request.
 
