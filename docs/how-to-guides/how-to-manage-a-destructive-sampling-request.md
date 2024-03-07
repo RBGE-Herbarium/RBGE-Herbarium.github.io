@@ -158,7 +158,8 @@ These points are considered to make a decision about the request, often requirin
 
 - It may be appropriate to digitise the specimens to enable the requester to select suitable material. 
 - If a digitisation request is required, this should be forwarded to the Digitisation Coordinator. 
-- If this is a large request the researcher may be asked to prioritise between 20-30 specimens to be sampled.
+
+If this is a large request the researcher may be asked to prioritise between 20-30 specimens to be sampled.
    - The other specimens can be sampled at a later stage if still required.
    - The default for maintaining a Destructive Sampling request record open as pending in this situation would be 12 months
 - While communications or information requests are ongoing, the default is to keep the Destructive Sampling request record open as pending for a duration of 6 months. 
