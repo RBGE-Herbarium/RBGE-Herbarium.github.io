@@ -50,7 +50,7 @@ This will open the **Destructive Sampling** form with a Destructive Sampling rec
 **Status**: Select the current status from the dropdown menu (Complete, Denied, No longer required, Pending)
 - In most cases at this point in time, the Status would be Pending
   
-![image](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/6713716/93ed0620-fa33-4535-91b6-997dec263530)
+![image](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/6713716/c3b269dc-82fe-4b65-955e-83329cab5017)
 
 - **Purpose**: Select a value from a dropdown menu. Only select one of the following options. If you need a different value, please ask.
   - molecular research (DNA, gene sequencing, etc.)
