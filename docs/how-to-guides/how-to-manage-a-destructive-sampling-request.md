@@ -31,14 +31,11 @@ This workflow will take you through recording a basic destructive sampling reque
 With the destructive sampling request at hand, open Specify 7 to create a new destructive sampling request record.
 
 Click on Interactions and select Destructive Sampling from the menu at the top.
+- Select Without Preparations from the pop-up window
 
-The next step is a workaround, and will be improved in time:
-Destructive sampling records can only be created with a specimen being selected on the next screen.  However, assuming you haven’t yet selected any specimens to sample, the below workaround allows you to create a blank record:
-Enter a catalog number - all catalog numbers are eight digits  (any valid number but 00000001 may be easiest to remember).  Click ok.
+![image](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/6713716/5d8a6920-ccae-4f68-96db-2d6507cc0b80)
 
-![image](https://user-images.githubusercontent.com/8005676/180242115-914103a8-187e-4163-a054-4f5857b99906.png)
-
-On the next screen, **do not tick any preparations**, and then click **Apply**.  This will ensure that no preparations are added to the Destructive Sampling request at this stage: 
+This will ensure that no preparations are added to the Destructive Sampling request at this stage: 
 
 ![image](https://user-images.githubusercontent.com/8005676/180242175-bb10f324-6aba-44f4-9d44-5f931dcf03d4.png)
 
