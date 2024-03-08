@@ -153,6 +153,8 @@ A range of considerations come into play at this stage:
 - Is the requested taxon amply represented in the collection?  
 
 **Suitability** 
+- Is the specimen a Type? Type specimens will not normally be approved for general sampling.
+- Was the specimen collected prior to 1850? Specimens collected from before 1850 will not normally be approved for general sampling.
 - Has the specimen been sampled before? If so, for similar reasons? If so, what was the outcome of the previous sampling, are there any GenBank sequences or publications that could be pointed out to the requester?  
 - Is the specimen known to be unsuitable for sampling (e.g. old or treated with heat or chemicals which may degrade DNA)?  
 - Does the quality and quantity of the expected outcomes generate sufficient added knowledge of the specimen?  
