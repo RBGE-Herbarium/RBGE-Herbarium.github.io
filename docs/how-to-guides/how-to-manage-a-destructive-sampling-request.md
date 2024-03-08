@@ -94,7 +94,9 @@ A signed Destructive Sampling form is required for all requests.
 
 A preliminary, high level assessment is carried out by the Registrar which may flag up any immediate known restrictions based on the request.
 - Check through list of requested specimens on CBD form and annotate printout with any ‘red flag’ specimens, based on known restrictions. 
-  - This could include No Third-Party Transfer (N3PT). 
+  - This could include No Third-Party Transfer (N3PT).
+
+Approval in principle will then be requested from the Curator of the Herbarium.
 - Pass the annotated printout to relevant member of staff in the next stage. 
 
 The request number, internal contact and Herbarium code should be added to any CBD documentation. 
