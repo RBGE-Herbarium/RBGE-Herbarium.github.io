@@ -152,7 +152,7 @@ A range of considerations come into play at this stage:
 
 **Suitability** 
 - Has the specimen been sampled before? If so, for similar reasons? If so, what was the outcome of the previous sampling, are there any GenBank sequences or publications that could be pointed out to the requester?  
-- Is the specimen known to be unsuitable for sampling (e.g. old or treated with heat or chemicals inimical to DNA sampling)?  
+- Is the specimen known to be unsuitable for sampling (e.g. old or treated with heat or chemicals which may degrade DNA)?  
 - Does the quality and quantity of the expected outcomes generate sufficient added knowledge of the specimen?  
 - Are there any known problems or previous experiences with posting specimens or samples to the requested address? 
 
