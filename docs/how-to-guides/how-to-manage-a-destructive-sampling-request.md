@@ -4,6 +4,8 @@ parent: How-to guides
 
 # How to manage a Destructive Sampling request
 
+Please be aware that this guidance is currently being updated and some sections may have the old numbering still in place.
+
 {: .no_toc }
 
   {: .no_toc .text-delta }
