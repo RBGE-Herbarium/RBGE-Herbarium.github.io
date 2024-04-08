@@ -25,9 +25,11 @@ From here you can start to construct your query.
 Fields from the selected table are in the first part of the mapper, tables that are linked to this table are below these and are distinct in that they have an icon at the start followed by an >
 
 Fields in current table e.g. Specimen Description
+
 ![image](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/6713716/55b20b4f-5ac8-4db9-b626-b9d808e1c11a)
 
 Linked table e.g. Preparations
+
 ![image](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/6713716/3c34e1ee-2f37-46f4-acb1-a8eb95ccc5e9)
 
 By adding fields from the various tables you can start to build the query. 
@@ -52,12 +54,15 @@ There are additional display options for Queries.
 Basic view makes a complex query much easier to work with by hiding the mapping. The Field Mapper can also be hidden.
 
 **Query in Detailed View with Field Mapper visible**
+
 ![image](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/6713716/d839d3cd-0741-4af4-bd06-573026253636)
 
 **Query in Basic View with Field Mapper Hidden**
+
 ![image](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/6713716/c0529e09-f397-43b1-b88e-03769e9cdab0)
 
 Queries can be saved locally by clicking Save Query
+
 ![image](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/6713716/2c50bc01-3eab-4382-b8d1-d27fd851afbd)
 
 
