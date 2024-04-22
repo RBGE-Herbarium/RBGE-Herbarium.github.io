@@ -16,7 +16,7 @@ parent: How-to guides
 {:toc}
 </details>
 
-When sampling a Herbarium specimen or silica-dried sample, you will need to create a new Preparation for the new sample.
+When sampling a Herbarium specimen or silica-dried sample, you will need to create a new Preparation for the new sample. This must be done in discussion with one of the Herbarium curation staff.
 
 ### How to create a new Preparation for an existing Collection Object
 
@@ -28,7 +28,8 @@ If the Collection Object already exists, open the record. If it does not exist t
 
 To add a preparation to a record click on **+** next to Preparations
 
-![image](https://user-images.githubusercontent.com/8005676/180241183-0d51c889-dcbb-409e-9ded-73e8ca5a1551.png)
+![image](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/6713716/6995a526-4b10-41b7-9657-d84df7ba4c4d)
+![image](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/6713716/96e41a40-dfcb-46d7-b863-2dcf35d468b1)
 
 The following information should be entered for a destructive sample record:
 
