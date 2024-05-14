@@ -315,14 +315,9 @@ Open the Destructive Sampling record and add the following information.
 
 ## How to record denied requests/samples
 
-This is to be updated.
-
-1.	Specimens denied solely for this request: Record the barcodes of the specimens denied in the Remarks field. If a separate field would be useful for this then a request can be raised.
+1.	Specimens denied solely for this request: Record the barcodes of the specimens denied in the Denied specimens field.
 2.	Specimens denied for any request: Record this information in the Internal Misc field of the specimen Preparation record. If a separate field would be useful for this then a request can be raised.
 3.	Specimens denied for any other reason: Consider whether it is appropriate for the information to be recorded against the request or the existing herbarium specimen and use one of the two options above if possible.
-4.	Number of specimens denied. If numbers are required for reporting then it could be possible to include a field to record the number of specimens denied within a request.
-
-
 
 Click **Save**.
 
