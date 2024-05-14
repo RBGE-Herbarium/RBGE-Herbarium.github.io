@@ -7,9 +7,11 @@ title: Tips and Tricks
 This file contains tops, tricks, and recommended settings to help you use Specify as efficiently as possible.  
 
 ## Recommended settings:
-### Query Combobox Search type.  
-when creating a new Taxa, or adding a taxa to a Collection object (e.g. to enter a new det), by default, search searches throughout the taxa name.  For example, if you enter "etu" it will return bETUla as a search result.  This is not generally desired.  
-To resolve this, change the "serach algorithm" setting:
+
+### Searching for a taxon name in a Query Combo Box or in the Taxon Tree
+
+When creating a new Determination and typing the taxon name into the Query Combo Box, Specify will search for the text entered in any part of the taxon name string. For example, if you enter "etu" it will return bETUla as a search result. You can change this by changing the "search algorithm" setting:
+
 Click on your name at the top right. 
 Click Preferences:
 ![image](https://user-images.githubusercontent.com/8005676/187171207-91f04d48-5774-498f-bf83-83b76a338f98.png)
@@ -18,5 +20,7 @@ Click Forms on the Left.
 
 Scroll down till you see this:
 ![image](https://user-images.githubusercontent.com/8005676/187171438-f9b30775-9386-4f1e-9e0f-40f4508f2287.png)
-Ensure all 3 Search algorithmy boxes are set to "Starts With (Case insensitive)".  
+Ensure all 3 Search algorithm boxes are set to "Starts With (Case insensitive)".  
 Click Save (bottom right of screen)
+
+
