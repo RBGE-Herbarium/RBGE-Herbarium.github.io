@@ -27,7 +27,7 @@ The first section of the Taxon form will provide information about the parts of 
 
 ![image](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/6713716/4f7fa57b-03b0-4be5-9054-4b83c60bb381)
 
-The next section provides information about the Nomenclatural Status of the name. This should be used to record whether the name is invalid or illegitimate. At present, there is also taxonomic status information in here, but this will gradually be removed.
+The next section provides information about the Nomenclatural Status of the name. This should be used to record whether the name is invalid or illegitimate.
 
 ## Taxonomy - Taxon Tree
 
