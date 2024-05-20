@@ -57,7 +57,7 @@ This will open up the appropriate section of the Taxon Tree, highlighting the ta
 
 ![image](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/6713716/12180381-d0cb-49a0-a725-9689b17dede0)
 
-Taxon names in red are synonyms in Specify. If you hover over them, the accepted name will be shown. For example, Michelia is a synonym of Magnolia.
+Taxon names in red are synonyms in Specify. If you hover over them, the accepted name will be shown. For example, _Michelia_ is a synonym of _Magnolia_.
 
 ![image](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/6713716/b040f27b-34e8-4ed7-9da3-1f0253ff9fd8)
 
