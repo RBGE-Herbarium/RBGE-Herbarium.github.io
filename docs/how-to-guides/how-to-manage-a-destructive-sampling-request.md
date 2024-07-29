@@ -206,9 +206,10 @@ Enter the barcodes of the specimens requested for sampling separated by commas e
 
 ### 3.3 Saving the record set
 
-- The results of a query can then be saved as a Record Set to help manage the destructive sampling process.  If you did not want to save all the records use the tick boxes on the left to select the records to be added to the record set. By default, all records are included.  
+The results of a query can then be saved as a Record Set to help manage the destructive sampling process.
+- If you did not want to save all the records use the tick boxes on the left to select the records to be added to the record set. By default, all records are included.  
 
-- Click “Create Record Set”.
+Click “Create Record Set”.
 
   _Tip - using the Destructive Sampling request number to name the Record Set will help manage multiple Record Sets._ 
 
@@ -218,59 +219,57 @@ Enter the barcodes of the specimens requested for sampling separated by commas e
 
 ### 4.1 Carry out the Destructive Sampling if appropriate
 
-- Open the record set by clicking on the item in the Record Set menu. This will open all the specimen records in the Collection Object form view.
-  _Tip - these can be scrolled through using the Next Record buttons at the top of the window._ ![image](https://user-images.githubusercontent.com/8005676/180244016-36b66f74-40c7-4a36-a7f7-f3ad054a4bbb.png)
+Open the record set by clicking on the item in the Record Set menu. This will open all the specimen records in the Collection Object form view.
+  _Tip - these can be scrolled through using the Next Record buttons at the top of the window._
+  ![image](https://user-images.githubusercontent.com/8005676/180244016-36b66f74-40c7-4a36-a7f7-f3ad054a4bbb.png)
 
-- The destructive sampling can then be undertaken if appropriate.
+The destructive sampling can then be undertaken if appropriate.
 
 ### 4.2 Create a new preparation for each sample
-- For each specimen that has been sampled, create a new Preparation in the Collection Object, by clicking **+**:
+For each specimen that has been sampled, create a new Preparation in the Collection Object, by clicking **+**:
 
 ![image](https://user-images.githubusercontent.com/8005676/180244149-8c46d62c-0c9f-415f-a9e5-832d67e15c70.png)
 
-- Fill in the new Preparation as follows:
-
-![image](https://user-images.githubusercontent.com/8005676/180244246-7957337f-33c1-49d8-b448-a4ed3897af4b.png)
-
-The following information should be entered for a destructive sample record:
+The following information should be entered for a destructive sample Preparation record:
 
 - **Prep Type** - select Destructive Sample
 - **Barcode** - enter the destructive sample item number. This is constructed using the Destructive Sampling request number followed by a running number for each sample, separated by a colon (eg, 03306:2). The combination must be unique.
 - **Remarks** - enter any remarks specific to the Preparation, not the Collection Object, here. This information can be included in the correspondence with the Requester, e.g., the fact that the specimen sampled was substituted for the one requested.
 - **Internal Misc** – use this field for any internal curatorial information which is not to be shared but be aware that information here could be requested to be seen.
 
-### How to enter Destructive Sampling information
+### 4.3 Enter Destructive Sampling information
 
 This section should only be completed for preparations created during destructive sampling.
 
 - **Material type** - enter the type of material sample (e.g. Flower sample, Leaf sample, Pollen sample).
 - **Derived from** - this is for preparations made for Destructive Sampling ONLY. Enter the barcode of the specimen from which the sample was taken.
+- **Denied Requests** - this field is available to record the Destructive Sampling Request number for a request for which this specimen was denied. This information should be considered for recording on a case by case basis and is not necessary for every denied request.
+  _Tip - if the request includes specimens that are not to be sampled see the section below on Denied requests/samples._
 
-- **Sample Number** – do not enter data here. This has been used for the destructive sample collector number migrated from BG-BASE. 
 - **Legacy Number** – this is a read-only field for the BG-BASE specimen number.
 
-For more information on entering data into the Preparation record see the **[Instructions](https://rbge-herbarium.github.io/docs/how-to-guides/how-to-enter-specimen-data.html))** for entering a new **Preparation**
+For more information on entering data into the Preparation record see the **[Instructions](https://rbge-herbarium.github.io/docs/how-to-guides/how-to-enter-specimen-data.html)** for entering a new **Preparation**
 
-Enter any specific **Determinations** relating to this Preparation if required.
+- Enter any specific **Determinations** relating to this Preparation if required.
 
 If the remaining information is the same as for the other preparations in the Collection Object record, then click **Save** and close the record.
+
+### 4.4 Checking the sample records
 
 You should now see the Preparation for the destructive sample in the list of Preparations in the Collection Object.
 
 It is possible to check the numbering of the samples within the request at any time using the Query tool.
 
-Click on Query on the top menu and Select Preparation from the Create Query menu on the left. If it is not visible, click on More Tables to select it.
+- Click on Query on the top menu and Select Preparation from the Create Query menu on the left. If it is not visible, click on More Tables to select it.
 
-Double click on Barcode, select **Starts with** as the Operator and enter the Destructive Sampling request number followed by a “:”
+- Double click on Barcode, select **Starts with** as the Operator and enter the Destructive Sampling request number followed by a “:”
 
 ![image](https://user-images.githubusercontent.com/6713716/178466716-a67015c3-2da4-4318-8b81-2047d34325f4.png)
 
-This will bring up all the Destructive Sample Preparation records that have been created for this request to date, helping to check for duplicates, missing numbers or where you reached with the sampling process.
-
-If the request includes specimens that are not to be sampled see the section below on Denied requests/samples.
+- This will bring up all the Destructive Sample Preparation records that have been created for this request to date, helping to check for duplicates, missing numbers or where you reached with the sampling process.
 
 
-## Step 6: How to add the Destructive Samples to the Destructive Sample Request record
+## Step 5: How to add the Destructive Samples to the Destructive Sample Request record
 
 Once all the Destructive Samples have been created, these can be added to the Destructive Sample request record.
 
