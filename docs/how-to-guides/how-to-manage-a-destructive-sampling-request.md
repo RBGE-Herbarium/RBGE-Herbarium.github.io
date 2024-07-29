@@ -185,49 +185,50 @@ If the whole request has been denied select the Denied status in the Status fiel
 Once a decision has been reached, the requester is informed about the outcome. 
 
 
-
-
-
-## Step 4: Create a Record Set for all specimens requested
+## Step 3: Create a Record Set for all specimens requested
 
 This will make the management of the request and recording information easier.  The record set lets you easily view the records that have been requested in the destructive sampling request.  You can add samples to it, and remove items from it, as the scope of the request is refined.  
 
-- First, check whether a Collection Object and Preparation already exists for the each of the requested specimens.
+### 3.1 Database requested specimens
+- Check that a Collection Object and Preparation already exists for the each of the requested specimens.
 - If a specimen has not yet been databased, this should be done at this stage.
 
-Once all requested specimens have been databased to at least partial level, the barcodes can be entered into a Query in Specify.  
+### 3.2 Select the records using a Query
+- When all requested specimens have been databased to at least partial level, the barcodes can be entered into a simple barcode Query in Specify.
+  _Tip – This can be done manually, or using a barcode scanner if you have the specimens to hand. See the section on Queries if more guidance on using Queries is needed._
 
-_Note: This can be done manually, or using a barcode scanner if you have the specimens to hand._
+- Enter the barcodes of the specimens requested for sampling separated by commas e.g. EXXXXXXXX, EXXXXXXXX, EXXXXXXXX to retrieve the Collection Object records for the specimens.
+  _Tip - Make sure the operator is set to “In”._
 
-Click on the queries in the Menu Ribbon
-
-In the popup, click on the Barcode Query (exact name may vary depending on what you saved it as).
-
-Enter the barcodes of the specimens that form part of the request separated by commas e.g. EXXXXXXXX, EXXXXXXXX, EXXXXXXXX to retrieve the Collection Object records for the specimens. Make sure the operator is set to “In”.
-
-The query can be constructed to provide additional information for each record. If the information you want is not visible, then the query can be modified to include it. If you are unsure how to do this, please check the Query guidance or ask for help.
+ _Tip - The query can be constructed to provide additional information for each record. If the information you want is not visible, then the query can be modified to include it. If you are unsure how to do this, please check the Query guidance or ask for help._
 
 ![image](https://user-images.githubusercontent.com/8005676/180243507-d245fb8f-1009-42db-95db-ad3515fd7bda.png)
 
-These can then be saved as a Record Set to help manage the destructive sampling process.  If you did not want to save all the records, you could use the tick boxes on the left to select the records to add to the record set. By default, all records are included.  
+### 3.3 Saving the record set
 
-Click “Create Record Set”.
+- The results of a query can then be saved as a Record Set to help manage the destructive sampling process.  If you did not want to save all the records use the tick boxes on the left to select the records to be added to the record set. By default, all records are included.  
 
-The Destructive Sampling request number can be used to name the Record Set. 
+- Click “Create Record Set”.
+
+  _Tip - using the Destructive Sampling request number to name the Record Set will help manage multiple Record Sets._ 
 
 ![image](https://user-images.githubusercontent.com/8005676/180243856-50ec2872-df42-4819-9e31-bee681315ade.png)
 
-## Step 5: Carry out the Destructive Sampling if appropriate
+## Step 4: Sample
 
-Open the record set by clicking on the item in the Record Set menu. This will open all the specimen records in the Collection Object form view. These can be scrolled through using the Next Record buttons at the top of the window. ![image](https://user-images.githubusercontent.com/8005676/180244016-36b66f74-40c7-4a36-a7f7-f3ad054a4bbb.png)
+### 4.1 Carry out the Destructive Sampling if appropriate
 
-The destructive sampling can then be undertaken if appropriate.
+- Open the record set by clicking on the item in the Record Set menu. This will open all the specimen records in the Collection Object form view.
+  _Tip - these can be scrolled through using the Next Record buttons at the top of the window._ ![image](https://user-images.githubusercontent.com/8005676/180244016-36b66f74-40c7-4a36-a7f7-f3ad054a4bbb.png)
 
-For each specimen that has been sampled, create a new Preparation in the Collection Object, by clicking **+**:
+- The destructive sampling can then be undertaken if appropriate.
+
+### 4.2 Create a new preparation for each sample
+- For each specimen that has been sampled, create a new Preparation in the Collection Object, by clicking **+**:
 
 ![image](https://user-images.githubusercontent.com/8005676/180244149-8c46d62c-0c9f-415f-a9e5-832d67e15c70.png)
 
-Then fill in the new Preparation as follows:
+- Fill in the new Preparation as follows:
 
 ![image](https://user-images.githubusercontent.com/8005676/180244246-7957337f-33c1-49d8-b448-a4ed3897af4b.png)
 
