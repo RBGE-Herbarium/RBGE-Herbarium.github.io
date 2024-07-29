@@ -184,36 +184,38 @@ If the whole request has been denied select the Denied status in the Status fiel
 
 Once a decision has been reached, the requester is informed about the outcome. 
 
+### 2.4 If material cannot be sampled at RBGE, prepare specimens for loan and record sampling upon return of loan
 
-## Step 3: Create a Record Set for all specimens requested
+By default, all sampling will be carried out at RBGE. However, in some circumstances, for example if the material is too complex for Herbarium staff to do the sampling, a loan may be arranged and the researcher permitted to sample the specimen themselves. 
 
-This will make the management of the request and recording information easier.  The record set lets you easily view the records that have been requested in the destructive sampling request.  You can add samples to it, and remove items from it, as the scope of the request is refined.  
+If a specimen needs to be sent on loan it needs to be partially databased first and then passed on to the Loans Officer. The requester is asked to clearly annotate any sampled specimens. If some specimens included in the loan may not be sampled, this will be explicitly mentioned in the loan paperwork. Upon return of the loan a curator will be notified, the database will be updated, the specimens will be annotated and then laid away. 
 
-### 3.1 Database requested specimens
-Check that a Collection Object and Preparation already exists for the each of the requested specimens.
-- If a specimen has not yet been databased, this should be done at this stage.
+If a researcher requests to sample specimens they already have on loan, then a note should be added to the Loan Request record that a curator will need to see the specimens on return for annotation.
 
-### 3.2 Select the records using a Query
-When all requested specimens have been databased to at least partial level, the barcodes can be entered into a simple barcode Query in Specify.
-– This can be done manually, or using a barcode scanner if you have the specimens to hand. See the section on Queries if more guidance on using Queries is needed.
+## Step 3: Sample
 
-Enter the barcodes of the specimens requested for sampling separated by commas e.g. EXXXXXXXX, EXXXXXXXX, EXXXXXXXX to retrieve the Collection Object records for the specimens.
-- Make sure the operator is set to “In”.
+### 3.1 If material can be sampled at RBGE, take samples (or facilitate sampling)
 
- _Tip - The query can be constructed to provide additional information for each record. If the information you want is not visible, then the query can be modified to include it. If you are unsure how to do this, please check the Query guidance or ask for help._
+If possible, samples are taken by researchers themselves, after a short training. 
+
+- If there is more than one specimen on a Herbarium sheet (for example a sheet with multiple cryptogam packets), researchers should temporarily mark up which of the specimens are sampled. 
+
+- Researchers will then hand the specimens over to Herbarium staff after sampling. 
+
+> Creating a Record Set for all specimens requested will make the management of the request and recording information easier.  The record set lets you easily view the records that have been requested in the destructive sampling request.  You can add samples to it, and remove items from it, as the scope of the request is refined. See the section on "How to create a record set" for more guidance.
+>   _Note - All specimens will need to be databased prior to creating a record set_
+>   _Tip - using the Destructive Sampling request number to name the Record Set will help manage multiple Record Sets._ 
 
 ![image](https://user-images.githubusercontent.com/8005676/180243507-d245fb8f-1009-42db-95db-ad3515fd7bda.png)
 
-### 3.3 Saving the record set
-
-The results of a query can then be saved as a Record Set to help manage the destructive sampling process.
-- If you did not want to save all the records use the tick boxes on the left to select the records to be added to the record set. By default, all records are included.  
-
-Click “Create Record Set”.
-
-  _Tip - using the Destructive Sampling request number to name the Record Set will help manage multiple Record Sets._ 
 
 ![image](https://user-images.githubusercontent.com/8005676/180243856-50ec2872-df42-4819-9e31-bee681315ade.png)
+
+### 3.2 Annotate sampled specimens 
+
+After sampling the specimen sheets or packets are annotated. 
+- For Herbarium sheets, this is done by stamping the sheet. 
+- For packets on sheets, this is done by adding an annotation slip to the packet.
 
 ## Step 4: Sample
 
