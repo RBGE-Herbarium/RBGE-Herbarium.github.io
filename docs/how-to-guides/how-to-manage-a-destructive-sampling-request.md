@@ -190,15 +190,15 @@ Once a decision has been reached, the requester is informed about the outcome.
 This will make the management of the request and recording information easier.  The record set lets you easily view the records that have been requested in the destructive sampling request.  You can add samples to it, and remove items from it, as the scope of the request is refined.  
 
 ### 3.1 Database requested specimens
-- Check that a Collection Object and Preparation already exists for the each of the requested specimens.
+Check that a Collection Object and Preparation already exists for the each of the requested specimens.
 - If a specimen has not yet been databased, this should be done at this stage.
 
 ### 3.2 Select the records using a Query
-- When all requested specimens have been databased to at least partial level, the barcodes can be entered into a simple barcode Query in Specify.
-  _Tip – This can be done manually, or using a barcode scanner if you have the specimens to hand. See the section on Queries if more guidance on using Queries is needed._
+When all requested specimens have been databased to at least partial level, the barcodes can be entered into a simple barcode Query in Specify.
+– This can be done manually, or using a barcode scanner if you have the specimens to hand. See the section on Queries if more guidance on using Queries is needed.
 
-- Enter the barcodes of the specimens requested for sampling separated by commas e.g. EXXXXXXXX, EXXXXXXXX, EXXXXXXXX to retrieve the Collection Object records for the specimens.
-  _Tip - Make sure the operator is set to “In”._
+Enter the barcodes of the specimens requested for sampling separated by commas e.g. EXXXXXXXX, EXXXXXXXX, EXXXXXXXX to retrieve the Collection Object records for the specimens.
+- Make sure the operator is set to “In”.
 
  _Tip - The query can be constructed to provide additional information for each record. If the information you want is not visible, then the query can be modified to include it. If you are unsure how to do this, please check the Query guidance or ask for help._
 
