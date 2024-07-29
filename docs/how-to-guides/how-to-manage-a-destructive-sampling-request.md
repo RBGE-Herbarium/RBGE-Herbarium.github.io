@@ -198,17 +198,22 @@ If a researcher requests to sample specimens they already have on loan, then a n
 
 If possible, samples are taken by researchers themselves, after a short training. 
 
-- If there is more than one specimen on a Herbarium sheet (for example a sheet with multiple cryptogam packets), researchers should temporarily mark up which of the specimens are sampled. 
+- If there is more than one specimen on a Herbarium sheet (for example a sheet with multiple cryptogam packets), researchers should temporarily mark up which of the specimens are sampled.
+- Each sample should be allocated a unique identifier. This is constructed using the Destructive Sampling request number followed by a running number for each sample, separated by a colon (eg, 03306:2). The combination must be unique.
 
 - Researchers will then hand the specimens over to Herbarium staff after sampling. 
 
 > Creating a Record Set for all specimens requested will make the management of the request and recording information easier.  The record set lets you easily view the records that have been requested in the destructive sampling request.  You can add samples to it, and remove items from it, as the scope of the request is refined. See the section on "How to create a record set" for more guidance.
 
->   _Note - All specimens will need to be databased prior to creating a record set_
+  _Note - All specimens will need to be databased prior to creating a record set_
+
 ![image](https://user-images.githubusercontent.com/8005676/180243507-d245fb8f-1009-42db-95db-ad3515fd7bda.png)
 
->   _Tip - using the Destructive Sampling request number to name the Record Set will help manage multiple Record Sets._ 
+  _Tip - using the Destructive Sampling request number to name the Record Set will help manage multiple Record Sets._
+  
 ![image](https://user-images.githubusercontent.com/8005676/180243856-50ec2872-df42-4819-9e31-bee681315ade.png)
+
+
 
 ### 3.2 Annotate sampled specimens 
 
@@ -216,17 +221,13 @@ After sampling the specimen sheets or packets are annotated.
 - For Herbarium sheets, this is done by stamping the sheet. 
 - For packets on sheets, this is done by adding an annotation slip to the packet.
 
-## Step 4: Sample
+## Step 4: Record
 
-### 4.1 Carry out the Destructive Sampling if appropriate
+### 4.1 Update the database with sampling details 
 
-Open the record set by clicking on the item in the Record Set menu. This will open all the specimen records in the Collection Object form view.
-  _Tip - these can be scrolled through using the Next Record buttons at the top of the window._
-  ![image](https://user-images.githubusercontent.com/8005676/180244016-36b66f74-40c7-4a36-a7f7-f3ad054a4bbb.png)
+The database will need to be updated with the details of the specimens that have been sampled.
+- In Specify, this involves adding destructive samples to the respective collection objects, and then importing these into the destructive sampling record.
 
-The destructive sampling can then be undertaken if appropriate.
-
-### 4.2 Create a new preparation for each sample
 For each specimen that has been sampled, create a new Preparation in the Collection Object, by clicking **+**:
 
 ![image](https://user-images.githubusercontent.com/8005676/180244149-8c46d62c-0c9f-415f-a9e5-832d67e15c70.png)
@@ -238,24 +239,19 @@ The following information should be entered for a destructive sample Preparation
 - **Remarks** - enter any remarks specific to the Preparation, not the Collection Object, here. This information can be included in the correspondence with the Requester, e.g., the fact that the specimen sampled was substituted for the one requested.
 - **Internal Misc** – use this field for any internal curatorial information which is not to be shared but be aware that information here could be requested to be seen.
 
-### 4.3 Enter Destructive Sampling information
-
-This section should only be completed for preparations created during destructive sampling.
+Destructive Sampling section
 
 - **Material type** - enter the type of material sample (e.g. Flower sample, Leaf sample, Pollen sample).
 - **Derived from** - this is for preparations made for Destructive Sampling ONLY. Enter the barcode of the specimen from which the sample was taken.
 - **Denied Requests** - this field is available to record the Destructive Sampling Request number for a request for which this specimen was denied. This information should be considered for recording on a case by case basis and is not necessary for every denied request.
-  _Tip - if the request includes specimens that are not to be sampled see the section below on Denied requests/samples._
 
-- **Legacy Number** – this is a read-only field for the BG-BASE specimen number.
+  _Tip - if the request includes specimens that are not to be sampled see the section below on Denied requests/samples._
 
 For more information on entering data into the Preparation record see the **[Instructions](https://rbge-herbarium.github.io/docs/how-to-guides/how-to-enter-specimen-data.html)** for entering a new **Preparation**
 
 - Enter any specific **Determinations** relating to this Preparation if required.
 
 If the remaining information is the same as for the other preparations in the Collection Object record, then click **Save** and close the record.
-
-### 4.4 Checking the sample records
 
 You should now see the Preparation for the destructive sample in the list of Preparations in the Collection Object.
 
@@ -269,8 +265,13 @@ It is possible to check the numbering of the samples within the request at any t
 
 - This will bring up all the Destructive Sample Preparation records that have been created for this request to date, helping to check for duplicates, missing numbers or where you reached with the sampling process.
 
+### 4.2 Upload relevant correspondence to database record 
 
-## Step 5: How to add the Destructive Samples to the Destructive Sample Request record
+Electronic copies of relevant paperwork or correspondence can also be uploaded to the destructive sampling record in Specify.
+- At the moment, the original paper copies are also kept in the Herbarium Office.
+
+
+### 4.3 Add the Destructive Samples to the Destructive Sample Request record
 
 Once all the Destructive Samples have been created, these can be added to the Destructive Sample request record.
 
@@ -295,23 +296,40 @@ You will now see a list of all samples in the Record Set. This is a list of all 
 
 All the sample preparations will now be attached to the Destructive Sampling request record.
 
-## Step 7: How to add the additional information to the Destructive Sampling Request record
+## Step 5: Transmit
 
-Additional information can be entered into the Destructive Sampling Request record.
+### 5.1 If appropriate prepare samples for sending and create letter and packing list 
 
 This information can be entered at any point once the original record is created.
-
 
 - **Special Conditions**: Enter any restrictions relating to the samples being sent. The Permit number could be included here.
 - **Destructive Sample date**: Enter the date the Destructive Sample was sent.
 - **Generate Invoice on Save**: This checkbox can be ticked prior to the final save to produce a packing list for sending the samples.
 
-## Step 8: On receiving notification that the samples have been received
+If samples are to be sent out externally, the samples are clearly marked and securely packed. 
+
+An accompanying letter has to be created, as well as an address label and packing list. 
+
+The postroom also has to be instructed as to how to send out the samples (using registered post, mentioning specific codes and using specific wording for customs). 
+
+Add the tracking reference number to the database record. 
+
+## Step 6: Close
+
+### 6.1 Mark the database record as completed 
+
+On receiving notification that the samples have been received
 
 Open the Destructive Sampling record and add the following information.
 
 - **Date received**: Enter the date the samples were received by the requesting institution.
 - **Received Comments**: Enter the response from the receiving institute here. 
+
+The destructive sampling record can now be marked up as completed. 
+
+### 6.2 Lay away the specimens 
+
+The specimens can be laid away, this is usually done by Herbarium staff. 
 
 
 ## How to record denied requests/samples
@@ -320,7 +338,7 @@ Open the Destructive Sampling record and add the following information.
 2.	Specimens denied for any request: Record this information in the Internal Misc field of the specimen Preparation record. If a separate field would be useful for this then a request can be raised.
 3.	Specimens denied for any other reason: Consider whether it is appropriate for the information to be recorded against the request or the existing herbarium specimen and use one of the two options above if possible.
 
-Click **Save**.
+
 
 
 
