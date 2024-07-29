@@ -203,12 +203,11 @@ If possible, samples are taken by researchers themselves, after a short training
 - Researchers will then hand the specimens over to Herbarium staff after sampling. 
 
 > Creating a Record Set for all specimens requested will make the management of the request and recording information easier.  The record set lets you easily view the records that have been requested in the destructive sampling request.  You can add samples to it, and remove items from it, as the scope of the request is refined. See the section on "How to create a record set" for more guidance.
->   _Note - All specimens will need to be databased prior to creating a record set_
->   _Tip - using the Destructive Sampling request number to name the Record Set will help manage multiple Record Sets._ 
 
+>   _Note - All specimens will need to be databased prior to creating a record set_
 ![image](https://user-images.githubusercontent.com/8005676/180243507-d245fb8f-1009-42db-95db-ad3515fd7bda.png)
 
-
+>   _Tip - using the Destructive Sampling request number to name the Record Set will help manage multiple Record Sets._ 
 ![image](https://user-images.githubusercontent.com/8005676/180243856-50ec2872-df42-4819-9e31-bee681315ade.png)
 
 ### 3.2 Annotate sampled specimens 
