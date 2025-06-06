@@ -32,7 +32,7 @@ In the Results view, make sure that some of the records have been selected, and 
 
 ![image](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/6713716/502cba20-a515-45d1-b362-e608049f786d)
 
-Click on the name of the Record Set created to open and browse the records. You will be asked if you are sure you want to leave the page. If you have finished the query, click Leave. Otherwise, click Cancel. Then right click the link to the Record set and open in a new tab.
+Click on the name of the Record Set created to open and browse the records. You will be asked if you are sure you want to leave the page. If you have finished the query click Leave. Otherwise, click Cancel. Then right click the link to the Record set and open in a new tab.
 
 ## How to share a Record Set
 
