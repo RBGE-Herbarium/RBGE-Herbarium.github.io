@@ -46,7 +46,7 @@ The Collection Object form will open as a single form with several sections. Cli
 
 ## How to enter data
 
-Registration Num: Enter the Registration Number if this specimen has been registered as incoming material.
+**Registration Num:** Enter the Registration Number if this specimen has been registered as incoming material.
 
 _Tip: In Specify, this table was called Accessions, but due to possible confusion for RBGE, it has been renamed Registrations. However, the icon for this table is still ACC._
 
