@@ -54,11 +54,11 @@ _Tip: In Specify, this table was called Accessions, but due to possible confusio
 
 To add a preparation to a record click on **+** next to Preparations
 
-![image](https://user-images.githubusercontent.com/6713716/234897382-9a4156da-fcf9-4636-a941-fc3972d5c230.png)
+<img width="1564" height="613" alt="image" src="https://github.com/user-attachments/assets/0460988e-c958-4572-a6ab-4de2206c3108" />
 
 This expands the Preparation entry form as part of the Collection Object form. For each additional preparation needed click Add. The fields are explained below:
 
-- **Prep Type** - select the kind of material (e.g. Herbarium specimen/sheet, Carpological).
+- **Prep Type** - select the kind of material (e.g. Herbarium sheet, Carpological).
 - **Barcode** - scan the barcode of the specimen or enter the destructive sample item number. Both should be unique.
 
   - _Tip: There is a weblink button to the right of the Barcode field which will link to the specimen record on the Herbarium catalogue._
@@ -69,7 +69,6 @@ This expands the Preparation entry form as part of the Collection Object form. F
 - **Number in Set** - enter the number of sheets in the set if marked on specimen
 
 - **Storage** – enter the storage location of the specimen (e.g. Main Herbarium, Long Store, Spirit Room, Silica Room, Carpological Collection). For physically linked specimens (where there is more than one specimen permanently mounted on a sheet), the lowest barcode should be created as a storage location and used to store all the specimens on the sheet. See the **[Physically Linked](https://rbge-herbarium.github.io/docs/data-entry/collection-object-form.html#physically-linked-specimens)** section for more information.
-- **Physically linked** - This is a read-only field used for data migrated from BG-BASE. Do not enter data into this field.
 
 - **Donor** - enter the name of the Institute/collection that directly donated the specimen to RBGE. (e.g. Glasgow, Herb of John Ball). More guidance will be provided on the use of this field.
 - **Herbarium Collection** – enter the name of the Herbarium Collection (e.g. Herb. Greville, Herb. Wight, Herb. Wallich, Herb. Drege) where the herbarium collection differs from the donor and collector. More guidance will be provided on the use of this field.
