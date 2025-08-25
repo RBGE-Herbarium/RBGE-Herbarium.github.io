@@ -46,7 +46,30 @@ Please note that we are no longer creating a separate ‘Filing Name’ entry. T
 ![image](https://user-images.githubusercontent.com/8005676/180239266-a3e1dccf-63b3-4198-aa4a-ca9c75f70d5e.png)
 
   _Tip: If the name you are looking for is not in the list then check by clicking on the magnifying glass to search more thoroughly. If you still don’t see the record then you will need to add a new Taxon (see Adding a New Taxon Name)_
+
+  _Tip: There is currently a limit to the number of taxon names listed in the drop down, so for large genera you will not see all species. In this case, continue to add the beginning of the specific epithet or use wild cards to limit the number of results_
   
+![img align="right"](https://user-images.githubusercontent.com/8005676/180251406-cc13332e-e143-49b6-b510-15c74d872dbe.png)
+
+  - Use wildcards (%) to search names more easily
+
+![image](https://user-images.githubusercontent.com/8005676/180251592-5eedf934-acd3-443c-8cea-977032d107af.png)
+
+  - Also use wildcards (%) to check spelling variants or uncertainty
+
+![image](https://user-images.githubusercontent.com/8005676/180251739-f63c7172-d0a1-4d3d-8341-a64622978d0e.png)
+
+  - If it does not come up, then there is an option to do an additional search by clicking on the magnifying glass to the right of the Taxon field.
+
+![image](https://user-images.githubusercontent.com/8005676/180252413-279bcff3-d42e-459b-bdd3-b9d5ca4e2f8a.png)
+
+- This will bring up a pop-up window where you can search for the Full Name or the Common Name. When searching use the following options:
+  - Caesalpinia - will bring up the record that has only the characters Caesalpinia in it, ie the genus record.
+  - Caesalpinia% - will bring up all the records that start with Caesalpinia
+  - “Caesalpinia a%” - will bring up all the records that start with Caesalpinia a, ie all the Caesalpinia species beginning with “a” (NB, using Caesalpnia a% without the quotation marks will bring up records starting with “A” and ignores the Caesalpinia text.
+
+- If you are sure that the name is not in the system, then a new taxon name can be created. Click the **+** button to open the Taxon form. Follow the Instructions for entering a new Taxon.
+
 _Note, you cannot enter the author name as part of the search. Enter the Genus, species name and any intraspecific epithets only._
 
 - **Filed as** – this is automatically ticked as each new determination record is added. Once all determinations have been entered, check that the determination which holds the name under which the specimen is filed is ticked here.
