@@ -20,7 +20,7 @@ In Specify, all ranks of taxon names are managed in the Taxon table and form. Cr
 
 The taxon form can be opened from the Data Entry button on the main menu, from within the Collection Object form and from within the Taxon tree. The two most common routes will be from within the Collection Object form and from the Taxon tree so these are covered below.
 
-_Note: When entering a new primary rank name (Family, Genus, Species), only use primary ranks as a parent. Secondary rank taxon records (Subfamily, Tribe, Subgenus section, etc) can be created but should only be used for determinations. For example, a specimen that has been detted as Rhododendron subgenus Vireya - this taxon name can be used as a determination but any species within this Subgenus would be found within the genus Rhododendron._
+_Note: When entering a new primary rank name (Family, Genus, Species), only use primary ranks as a parent. Secondary rank taxon records (Subfamily, Tribe, Subgenus section, etc) can be created but should only be used for determinations. For example, a specimen that has been detted as Rhododendron subgenus Vireya - this taxon name can be used as a determination but any species names within this Subgenus would be found within the genus Rhododendron._
 
 
 ## How to create a new Taxon record from the Collection Object form.
