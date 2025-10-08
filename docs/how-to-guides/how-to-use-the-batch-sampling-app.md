@@ -43,6 +43,7 @@ You can also change the number of option displayed in any drop-down menu.
 
 ## Entering data for Batch Sampling
 
+Be aware that this application will only create the sample preparations. It will not attach them to the sampling request record. This will need to be carried out manually.
 The fields for the Batch Sampling procedure are on this form, and are completed as follows:
 
 ## Prep Type
