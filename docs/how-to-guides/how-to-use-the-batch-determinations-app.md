@@ -18,7 +18,8 @@ parent: How-to guides
 
 Go to the **[Specify tools site](http://herbmgt.rbge.org.uk/specify_tasks_api/public/index.php/login)** in a web browser: 
 
-Click on **Sign in with RBGE**. 
+Click on **Sign in with RBGE** on the green banner rather than entering your user name and password.
+
 ![image](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/6713716/80b356ff-6c57-4c64-9d2d-c0c659bd135a)
 
 Click ‘Start’ for the Determinations Entry Application (Batch Determinations App).
