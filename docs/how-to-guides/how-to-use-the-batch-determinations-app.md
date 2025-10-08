@@ -112,7 +112,7 @@ Do not use this field at present.
 
 In general most sheets have a single specimen on them, so ensure that the toggle is showing Single Specimen. If your sheet has multiple specimens on it, click on the white box and it will switch to show Multiple Specimens. (See [linking specimens guidance](https://rbge-herbarium.github.io/docs/how-to-guides/how-to-enter-specimen-data.html#how-to-physically-link-specimens) for more information)
 
-Check that you have set all the values correctly. If they are all correct start scanning barcodes:
+Check that you have set all the values correctly. If they are all correct start scanning barcodes.
 
 The barcode scanners are generally set to ‘enter’ after scanning a barcode, this will submit the data to the database. 
 
