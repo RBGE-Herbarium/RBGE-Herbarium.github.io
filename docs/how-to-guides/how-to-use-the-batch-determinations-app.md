@@ -26,6 +26,23 @@ Click ‘Start’ for the Determinations Entry Application (Batch Determinations
 
 <img width="333" height="378" alt="image" src="https://github.com/user-attachments/assets/95910de8-9130-45d3-8606-ee1f2565f7ee" />
 
+
+
+## Preferences
+
+You can select and change your Preferences for the Application by clicking on your name in the top right of the screen.
+
+<img width="258" height="142" alt="image" src="https://github.com/user-attachments/assets/29f9604f-556e-48e6-b864-50db3f0a9b97" />
+
+<img width="2545" height="1206" alt="image" src="https://github.com/user-attachments/assets/b3b6d113-88c7-494f-8a64-88461577a1b1" />
+
+Here you can change the way that the Taxon names are displayed including whether the author is displayed or not.
+
+You can also change the number of option displayed in any drop-down menu.
+
+
+## Entering data for Batch Determinations
+
 The fields for the Batch Determinations procedure are on this form, and are completed as follows:
 
 ## Name Usage
