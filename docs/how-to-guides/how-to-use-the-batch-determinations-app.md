@@ -114,15 +114,7 @@ In general most sheets have a single specimen on them, so ensure that the toggle
 
 Check that you have set all the values correctly. If they are all correct start scanning barcodes:
 
-![image](https://user-images.githubusercontent.com/6713716/174189093-3eb94cd8-0430-4330-8ae7-8e2060c30899.png)
-
 The barcode scanners are generally set to ‘enter’ after scanning a barcode, this will submit the data to the database. 
-
-![image](https://user-images.githubusercontent.com/6713716/174189145-32633451-c2a4-4b43-a550-807468ec3ee9.png)
-
-If the submission was successful it will appear in green. If there is an issue it will appear twice – the first dark red line states the error. The lighter red line states that the record was not submitted and repeats the error. 
-Once you have worked through a species cover, go back to the taxon field and search for the next species.
-Once you have worked through a region, select the new region from the geography section. 
 
 
 ## Names in the Minimal Data Entry Application
