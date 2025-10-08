@@ -1,0 +1,157 @@
+---
+parent: How-to guides
+---
+
+# How to use the Batch Determinations App
+
+{: .no_toc }
+
+  {: .no_toc .text-delta }
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+Go to the **[Specify tools site](http://herbmgt.rbge.org.uk/specify_tasks_api/public/index.php/login)** in a web browser: 
+
+Click on **Sign in with RBGE**. 
+![image](https://github.com/RBGE-Herbarium/RBGE-Herbarium.github.io/assets/6713716/80b356ff-6c57-4c64-9d2d-c0c659bd135a)
+
+Click ‘Start’ for the Determinations Entry Application (Batch Determinations App).
+
+<img width="333" height="378" alt="image" src="https://github.com/user-attachments/assets/95910de8-9130-45d3-8606-ee1f2565f7ee" />
+
+The fields for the Batch Determinations procedure are on this form, and are completed as follows:
+
+## Name Usage
+
+<img width="704" height="350" alt="image" src="https://github.com/user-attachments/assets/db1deac7-35a4-495d-9ab1-c56e5a214282" />
+
+Select the appropriate Name Usage for the Determination being added.
+
+_Note: If a name usage you wish to use does not come up in the list please ask for help._
+
+## Taxon
+
+Start typing the taxon name for the record you want to create. If it is a large genus is may take a few seconds for the drop down to appear:
+
+![image](https://user-images.githubusercontent.com/6713716/174188817-be6df353-df72-440f-8223-1a06f5285322.png)
+
+Select the name from the list.
+
+_Note: The dropdown will show results for what is currently typed in, so if you are uncertain about some of the spelling you can type what you know and look at what the options are._
+
+_Note: If a name you wish to use does not come up in the list or is spelt different from the one on the species cover, please ask for help._
+
+## Filed as
+
+<img width="138" height="48" alt="image" src="https://github.com/user-attachments/assets/563a03b9-53af-4f8d-ba03-394c3b04dfc4" />
+
+The Filed as box is ticked by default. If the Determination being added is NOT where the specimen is/will be filed then this should be unticked. Be aware that the Filed As information is how any user knows where to find the specimen so please make sure that this is correct.
+
+## Qualifier
+
+<img width="616" height="180" alt="image" src="https://github.com/user-attachments/assets/e3097c7d-ca2f-4cb3-809e-87bef8562fc8" />
+
+The qualifier for the Determination can be selected from the drop down list.
+
+_Note: If a qualifier you wish to use does not come up in the list please ask for help._
+
+
+## Addendum
+
+<img width="466" height="184" alt="image" src="https://github.com/user-attachments/assets/8ff8eec6-e1ba-4a60-82e6-6b750bba79b0" />
+
+The qualifier for the Addendum can be selected from the drop down list.
+
+_Note: If an addendum you wish to use does not come up in the list please ask for help._
+
+## Determiner
+
+<img width="822" height="228" alt="image" src="https://github.com/user-attachments/assets/d29a360e-38f9-41c2-896f-9bda77d5fc46" />
+
+Start typing the last name of the Determiner. It may take a few seconds for the drop down to appear.
+
+
+
+
+## Geography
+
+For all regions except 1A, select a region from the dropdown list:
+
+![image](https://user-images.githubusercontent.com/6713716/174188898-958ca888-2d04-4841-9fb7-4e48866d10fb.png)
+
+- Locality – Start to type the country here and select the appropriate option from the drop down list. 
+
+_Note: In general we ask that you only record region._
+
+Region 1A
+
+When databasing material from region 1A we also want to include the sub-country:
+•	England
+•	Scotland
+•	Wales
+•	Channel Islands
+•	Ireland
+Start typing the sub-country in the locality field and select it from the drop down:
+
+![image](https://user-images.githubusercontent.com/6713716/174188967-022bf9ad-795d-4afa-ac00-2064205f0d45.png)
+
+## Single specimen – Multi specimen toggle
+
+![image](https://user-images.githubusercontent.com/6713716/174189069-21193c3a-9b9d-4a6a-bcc4-8a3e4ab7bbc0.png)
+
+In general most sheets have a single specimen on them, so ensure that the toggle is showing Single Specimen. If your sheet has multiple specimens on it, click on the white box and it will switch to show Multiple Specimens. (See [linking specimens guidance](https://rbge-herbarium.github.io/docs/how-to-guides/how-to-enter-specimen-data.html#how-to-physically-link-specimens) for more information)
+
+Check that you have set all the values correctly. If they are all correct start scanning barcodes:
+
+![image](https://user-images.githubusercontent.com/6713716/174189093-3eb94cd8-0430-4330-8ae7-8e2060c30899.png)
+
+The barcode scanners are generally set to ‘enter’ after scanning a barcode, this will submit the data to the database. 
+On the right hand side of the browser window there is a last scanned section. As records are submitted they appear here:
+
+![image](https://user-images.githubusercontent.com/6713716/174189145-32633451-c2a4-4b43-a550-807468ec3ee9.png)
+
+If the submission was successful it will appear in green. If there is an issue it will appear twice – the first dark red line states the error. The lighter red line states that the record was not submitted and repeats the error. 
+Once you have worked through a species cover, go back to the taxon field and search for the next species.
+Once you have worked through a region, select the new region from the geography section. 
+
+
+## Names in the Minimal Data Entry Application
+
+If a name doesn’t appear in the minimal data entry application, you will need to add it to the database (see the Names guidance). You can use the tree to give you an overview of the names that are currently in the system for the Genus you are databasing.
+Open Specify (herb-rbge.specifycloud.org) and log in with your Specify username and password. 
+
+Click Trees
+
+![image](https://user-images.githubusercontent.com/6713716/174189282-5af7fe09-2a33-41ae-9e03-0670a3d531d5.png)
+
+Select Taxon
+
+![image](https://user-images.githubusercontent.com/6713716/174189442-ab556640-5ba9-4e33-80da-bad9a9384473.png)
+
+Type in the Genus in the search box and select it from the suggestions
+
+![image](https://user-images.githubusercontent.com/6713716/174189536-a9b1ea23-7356-42fc-b2cd-e61c03f4c1ab.png)
+
+The tree will jump to the Genus and highlight it in green:
+
+![image](https://user-images.githubusercontent.com/6713716/174189569-555fc6a0-b091-4780-9896-4d2b41d76ee8.png)
+
+To expand the genus click on the arrow  
+This will show you the species that are currently in the database. This can be a useful tool to help give you an overview of the names in the system. 
+Note: You may need to wait for up to a minute for the name to appear in the application after clicking Save in the Taxon table. 
+
+
+
+
+
+
+
+
+
+
