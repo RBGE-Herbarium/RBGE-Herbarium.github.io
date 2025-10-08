@@ -76,30 +76,35 @@ _Note: If an addendum you wish to use does not come up in the list please ask fo
 
 Start typing the last name of the Determiner. It may take a few seconds for the drop down to appear.
 
+Additional Determiners can be added by clicking Add Determiner and any Determiners can be removed from the Determination by clicking the bin to the right of the name.
+
+<img width="1224" height="137" alt="image" src="https://github.com/user-attachments/assets/2542d573-6fba-4217-9b67-f2f88e070b97" />
 
 
+## Institution IH Code
 
-## Geography
+<img width="618" height="129" alt="image" src="https://github.com/user-attachments/assets/216ade4e-9c74-45e1-b51f-b4021a82b644" />
 
-For all regions except 1A, select a region from the dropdown list:
+The Index Herbariorum code can be selected for the Determiner. This should only be selected when it is explicitly on the label - it should not be assumed.
 
-![image](https://user-images.githubusercontent.com/6713716/174188898-958ca888-2d04-4841-9fb7-4e48866d10fb.png)
+## Date
 
-- Locality – Start to type the country here and select the appropriate option from the drop down list. 
+<img width="617" height="90" alt="image" src="https://github.com/user-attachments/assets/2cd6daaa-88f5-403a-9161-d6e65e8ac928" />
 
-_Note: In general we ask that you only record region._
+Enter the date of the Determination. If only the month or the year is present, then leave the day or month empty.
 
-Region 1A
+## Remarks
 
-When databasing material from region 1A we also want to include the sub-country:
-•	England
-•	Scotland
-•	Wales
-•	Channel Islands
-•	Ireland
-Start typing the sub-country in the locality field and select it from the drop down:
+<img width="529" height="82" alt="image" src="https://github.com/user-attachments/assets/dc329c8d-2a30-464c-9348-68312b07323a" />
 
-![image](https://user-images.githubusercontent.com/6713716/174188967-022bf9ad-795d-4afa-ac00-2064205f0d45.png)
+The Remarks field can be used to record any additional information relating to the Determination. Any information relating to the Preparation or the Collection Object should be entered into the Preparation Remarks or Collection Object Remarks field.
+
+## Citations
+
+<img width="706" height="107" alt="image" src="https://github.com/user-attachments/assets/a7901a0b-0b9d-428c-a012-dc4ee0df36fb" />
+
+Do not use this field at present.
+
 
 ## Single specimen – Multi specimen toggle
 
@@ -112,7 +117,6 @@ Check that you have set all the values correctly. If they are all correct start 
 ![image](https://user-images.githubusercontent.com/6713716/174189093-3eb94cd8-0430-4330-8ae7-8e2060c30899.png)
 
 The barcode scanners are generally set to ‘enter’ after scanning a barcode, this will submit the data to the database. 
-On the right hand side of the browser window there is a last scanned section. As records are submitted they appear here:
 
 ![image](https://user-images.githubusercontent.com/6713716/174189145-32633451-c2a4-4b43-a550-807468ec3ee9.png)
 
@@ -123,8 +127,8 @@ Once you have worked through a region, select the new region from the geography 
 
 ## Names in the Minimal Data Entry Application
 
-If a name doesn’t appear in the minimal data entry application, you will need to add it to the database (see the Names guidance). You can use the tree to give you an overview of the names that are currently in the system for the Genus you are databasing.
-Open Specify (herb-rbge.specifycloud.org) and log in with your Specify username and password. 
+If a name doesn’t appear in the batch determination application, you will need to add it to the database (see the Names guidance). You can use the tree to give you an overview of the names that are currently in the system for the Genus you are databasing.
+Open Specify (herb-rbge.specifycloud.org) and log in. 
 
 Click Trees
 
