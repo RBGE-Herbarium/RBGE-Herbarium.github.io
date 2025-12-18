@@ -2,7 +2,7 @@
 parent: How-to guides
 ---
 
-# How to use the Batch Sampling App
+# Sampling - How to use the Batch Sampling App
 
 {: .no_toc }
 
