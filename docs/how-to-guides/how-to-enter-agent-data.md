@@ -2,7 +2,7 @@
 parent: How-to guides
 ---
 
-# How to enter agent data
+# Data entry - How to enter agent data
 
 {: .no_toc }
 
