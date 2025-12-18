@@ -2,7 +2,7 @@
 parent: How-to guides
 ---
 
-# How to manage a Loan request
+# Requests - How to manage a Loan request
 
 {: .no_toc }
 
