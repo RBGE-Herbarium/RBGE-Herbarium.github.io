@@ -2,7 +2,7 @@
 parent: How-to guides
 ---
 
-# How to enter specimen data
+# Data entry - How to enter specimen data
 
 {: .no_toc }
 
