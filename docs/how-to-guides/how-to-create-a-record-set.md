@@ -2,7 +2,7 @@
 parent: How-to guides
 ---
 
-# How to create a record set
+# Record sets - How to create a record set
 
 {: .no_toc }
 
