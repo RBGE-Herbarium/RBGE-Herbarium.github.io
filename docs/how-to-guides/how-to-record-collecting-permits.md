@@ -2,7 +2,7 @@
 parent: How-to guides
 ---
 
-# How to record collecting permits
+# Permits - How to record collecting permits
 
 
 
