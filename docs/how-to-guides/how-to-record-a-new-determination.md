@@ -2,7 +2,7 @@
 parent: How-to guides
 ---
 
-# How to record a new determination
+# Determinations - How to record a new determination
 
 {: .no_toc }
 
