@@ -2,7 +2,7 @@
 parent: How-to guides
 ---
 
-## How to use and edit saved queries
+## Queries - How to use and edit saved queries
 
 To open a saved query click on the Queries button in the top bar
 
