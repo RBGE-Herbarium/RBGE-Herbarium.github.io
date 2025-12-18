@@ -2,7 +2,7 @@
 parent: How-to guides
 ---
 
-# How to use the Batch Determinations App
+# Determinations - How to use the Batch Determinations App
 
 {: .no_toc }
 
