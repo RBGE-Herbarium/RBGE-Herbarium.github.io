@@ -2,7 +2,7 @@
 parent: How-to guides
 ---
 
-# How to database specimens with imported data
+# Data entry - How to database specimens with imported data
 
 {: .no_toc }
 
