@@ -2,7 +2,7 @@
 parent: How-to guides
 ---
 
-# How to record a new destructive sample
+# Data entry - How to record a new destructive sample
 
 {: .no_toc }
 
