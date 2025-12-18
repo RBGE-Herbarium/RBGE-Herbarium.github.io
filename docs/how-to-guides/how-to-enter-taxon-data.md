@@ -2,7 +2,7 @@
 parent: How-to guides
 ---
 
-# How to enter taxon data
+# Data entry - How to enter taxon data
 
 {: .no_toc }
 
